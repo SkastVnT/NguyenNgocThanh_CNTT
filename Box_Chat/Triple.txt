@@ -1,0 +1,2140 @@
+khoa Kinh tế - Quản trị:Khoa	có	ngành Quản trị kinh doanh:Ngành
+khoa Kinh tế - Quản trị:Khoa	có	ngành Quản trị nhân lực:Ngành
+khoa Kinh tế - Quản trị:Khoa	có	ngành Marketing:Ngành
+khoa Kinh tế - Quản trị:Khoa	có	ngành Digital Makerting:Ngành
+khoa Kinh tế - Quản trị:Khoa	có	ngành Kinh tế thể thao:Ngành
+khoa Kinh tế - Quản trị:Khoa	có trưởng khoa là	ông Phan Võ Minh Thắng:Người
+khoa Kinh tế - Quản trị:Khoa	có giám đốc chương trình kinh tế thể thao là	bà Nguyễn Thị Hiền Thanh:Người
+khoa Kinh tế - Quản trị:Khoa	có GĐCT Quản trị Nhân lực & Quản trị Văn phòng, kiêm GĐCT Marketing là	bà Nguyễn Thùy Giang:Người
+khoa Kinh tế - Quản trị:Khoa	có giám đốc Chương trình Hoa Sen Plus là	bà Huỳnh Thị Thùy Dương:Người
+khoa Kinh tế - Quản trị:Khoa	có giảng viên là	bà Đặng Trương Thùy Anh:Người
+khoa Kinh tế - Quản trị:Khoa	có giảng viên là	ông Lê Trần Tuấn Anh:Người
+khoa Kinh tế - Quản trị:Khoa	có giảng viên là	bà Nguyễn Thị Bê:Người
+khoa Kinh tế - Quản trị:Khoa	có giảng viên là	ông Trương Quang Cẩm:Người
+khoa Kinh tế - Quản trị:Khoa	có giảng viên là	ông Lê Anh Chung:Người
+khoa Kinh tế - Quản trị:Khoa	có giảng viên là	ông Đỗ Trọng Danh:Người
+khoa Kinh tế - Quản trị:Khoa	có giảng viên là	ông Lê Ngọc Đức:Người
+khoa Kinh tế - Quản trị:Khoa	có giảng viên là	ông Lê Hức Đức:Người
+khoa Kinh tế - Quản trị:Khoa	có giảng viên là	bà Trần Thị Thu Hiền:Người
+khoa Kinh tế - Quản trị:Khoa	có giảng viên là	ông Nguyễn Minh Cao Hoàng:Người
+khoa Kinh tế - Quản trị:Khoa	có giảng viên là	ông La Hoàng Lâm:Người
+khoa Kinh tế - Quản trị:Khoa	có giảng viên là	bà Đinh Thị Lợi:Người
+khoa Kinh tế - Quản trị:Khoa	có giảng viên là	ông Trần Duy Nghiêm Luật:Người
+khoa Kinh tế - Quản trị:Khoa	có giảng viên là	ông Châu Tấn Lực:Người
+khoa Kinh tế - Quản trị:Khoa	có giảng viên là	bà Đào Thị Ngọc Mai:Người
+khoa Kinh tế - Quản trị:Khoa	có giảng viên là	ông Nguyễn Thanh Nam:Người
+khoa Kinh tế - Quản trị:Khoa	có giảng viên là	ông Jorge Martinez:Người
+khoa Kinh tế - Quản trị:Khoa	có giảng viên là	ông Đặng Hoàng Minh Quân:Người
+khoa Kinh tế - Quản trị:Khoa	có giảng viên là	ông Dương Định Quốc:Người
+khoa Kinh tế - Quản trị:Khoa	có giảng viên là	bà Bùi Thị Vân Quỳnh:Người
+khoa Kinh tế - Quản trị:Khoa	có giảng viên là	ông Nguyễn Quốc Sĩ:Người
+khoa Kinh tế - Quản trị:Khoa	có giảng viên là	ông Lê Tấn Lộc:Người
+khoa Kinh tế - Quản trị:Khoa	có giảng viên là	ông Hồ Trung Thảo:Người
+khoa Kinh tế - Quản trị:Khoa	có giảng viên là	ông Phan Minh Tuấn:Người
+khoa Kinh tế - Quản trị:Khoa	có giảng viên là	bà Trần Thị Út:Người
+khoa Kinh tế - Quản trị:Khoa	có giảng viên là	bà Nguyễn Trần Kiều Vân:Người
+khoa Kinh tế - Quản trị:Khoa	có giảng viên là	bà Nguyễn Thanh Vân:Người
+khoa Kinh tế - Quản trị:Khoa	có giảng viên là	ông Trương Quang Vinh:Người
+khoa Kinh tế - Quản trị:Khoa	có thư ký khoa là	bà Trương Thụy Hồng Chi:Người
+khoa Kinh tế - Quản trị:Khoa	có thư ký khoa là	bà Nguyễn Bảo Giang:Người
+khoa Kinh tế - Quản trị:Khoa	có thư ký khoa là	bà Trần Kim Ngọc:Người
+khoa Kinh tế - Quản trị:Khoa	có chuyên viên Truyền thông - Trải nghiệm SV và Tuyển sinh là	bà Võ Thị Minh Tú:Người
+khoa Kinh tế - Quản trị:Khoa	có chuyên viên Cố vấn học tập là	bà Đào Thanh Trúc:Người
+khoa Kinh tế - Quản trị:Khoa	có thư ký khoa kiêm Chuyên viên CVHT là	ông Phan Minh Huấn:Người
+ông Phan Võ Minh Thắng:Người	thuộc đội ngũ giảng viên, nhân viên của	khoa Kinh tế - Quản trị:Khoa
+bà Nguyễn Thị Hiền Thanh:Người	thuộc đội ngũ giảng viên, nhân viên của	khoa Kinh tế - Quản trị:Khoa
+bà Nguyễn Thùy Giang:Người	thuộc đội ngũ giảng viên, nhân viên của	khoa Kinh tế - Quản trị:Khoa
+bà Huỳnh Thị Thùy Dương:Người	thuộc đội ngũ giảng viên, nhân viên của	khoa Kinh tế - Quản trị:Khoa
+bà Đặng Trương Thùy Anh:Người	thuộc đội ngũ giảng viên, nhân viên của	khoa Kinh tế - Quản trị:Khoa
+ông Lê Trần Tuấn Anh:Người	thuộc đội ngũ giảng viên, nhân viên của	khoa Kinh tế - Quản trị:Khoa
+bà Nguyễn Thị Bê:Người	thuộc đội ngũ giảng viên, nhân viên của	khoa Kinh tế - Quản trị:Khoa
+ông Trương Quang Cẩm:Người	thuộc đội ngũ giảng viên, nhân viên của	khoa Kinh tế - Quản trị:Khoa
+ông Lê Anh Chung:Người	thuộc đội ngũ giảng viên, nhân viên của	khoa Kinh tế - Quản trị:Khoa
+ông Đỗ Trọng Danh:Người	thuộc đội ngũ giảng viên, nhân viên của	khoa Kinh tế - Quản trị:Khoa
+ông Lê Ngọc Đức:Người	thuộc đội ngũ giảng viên, nhân viên của	khoa Kinh tế - Quản trị:Khoa
+ông Lê Hức Đức:Người	thuộc đội ngũ giảng viên, nhân viên của	khoa Kinh tế - Quản trị:Khoa
+bà Trần Thị Thu Hiền:Người	thuộc đội ngũ giảng viên, nhân viên của	khoa Kinh tế - Quản trị:Khoa
+ông Nguyễn Minh Cao Hoàng:Người	thuộc đội ngũ giảng viên, nhân viên của	khoa Kinh tế - Quản trị:Khoa
+ông La Hoàng Lâm:Người	thuộc đội ngũ giảng viên, nhân viên của	khoa Kinh tế - Quản trị:Khoa
+bà Đinh Thị Lợi:Người	thuộc đội ngũ giảng viên, nhân viên của	khoa Kinh tế - Quản trị:Khoa
+ông Trần Duy Nghiêm Luật:Người	thuộc đội ngũ giảng viên, nhân viên của	khoa Kinh tế - Quản trị:Khoa
+ông Châu Tấn Lực:Người	thuộc đội ngũ giảng viên, nhân viên của	khoa Kinh tế - Quản trị:Khoa
+bà Đào Thị Ngọc Mai:Người	thuộc đội ngũ giảng viên, nhân viên của	khoa Kinh tế - Quản trị:Khoa
+ông Nguyễn Thanh Nam:Người	thuộc đội ngũ giảng viên, nhân viên của	khoa Kinh tế - Quản trị:Khoa
+ông Jorge Martinez:Người	thuộc đội ngũ giảng viên, nhân viên của	khoa Kinh tế - Quản trị:Khoa
+ông Đặng Hoàng Minh Quân:Người	thuộc đội ngũ giảng viên, nhân viên của	khoa Kinh tế - Quản trị:Khoa
+ông Dương Định Quốc:Người	thuộc đội ngũ giảng viên, nhân viên của	khoa Kinh tế - Quản trị:Khoa
+bà Bùi Thị Vân Quỳnh:Người	thuộc đội ngũ giảng viên, nhân viên của	khoa Kinh tế - Quản trị:Khoa
+ông Nguyễn Quốc Sĩ:Người	thuộc đội ngũ giảng viên, nhân viên của	khoa Kinh tế - Quản trị:Khoa
+ông Lê Tấn Lộc:Người	thuộc đội ngũ giảng viên, nhân viên của	khoa Kinh tế - Quản trị:Khoa
+ông Hồ Trung Thảo:Người	thuộc đội ngũ giảng viên, nhân viên của	khoa Kinh tế - Quản trị:Khoa
+ông Phan Minh Tuấn:Người	thuộc đội ngũ giảng viên, nhân viên của	khoa Kinh tế - Quản trị:Khoa
+bà Trần Thị Út:Người	thuộc đội ngũ giảng viên, nhân viên của	khoa Kinh tế - Quản trị:Khoa
+bà Nguyễn Trần Kiều Vân:Người	thuộc đội ngũ giảng viên, nhân viên của	khoa Kinh tế - Quản trị:Khoa
+bà Nguyễn Thanh Vân:Người	thuộc đội ngũ giảng viên, nhân viên của	khoa Kinh tế - Quản trị:Khoa
+ông Trương Quang Vinh:Người	thuộc đội ngũ giảng viên, nhân viên của	khoa Kinh tế - Quản trị:Khoa
+bà Trương Thụy Hồng Chi:Người	thuộc đội ngũ giảng viên, nhân viên của	khoa Kinh tế - Quản trị:Khoa
+bà Nguyễn Bảo Giang:Người	thuộc đội ngũ giảng viên, nhân viên của	khoa Kinh tế - Quản trị:Khoa
+bà Trần Kim Ngọc:Người	thuộc đội ngũ giảng viên, nhân viên của	khoa Kinh tế - Quản trị:Khoa
+bà Võ Thị Minh Tú:Người	thuộc đội ngũ giảng viên, nhân viên của	khoa Kinh tế - Quản trị:Khoa
+bà Đào Thanh Trúc:Người	thuộc đội ngũ giảng viên, nhân viên của	khoa Kinh tế - Quản trị:Khoa
+ông Phan Minh Huấn:Người	thuộc đội ngũ giảng viên, nhân viên của	khoa Kinh tế - Quản trị:Khoa
+ông Phan Võ Minh Thắng:Người	là trưởng khoa của	khoa Kinh tế - Quản trị:Khoa
+bà Nguyễn Thị Hiền Thanh:Người	là giám đốc chương trình kinh tế thể thao của 	khoa Kinh tế - Quản trị:Khoa
+bà Nguyễn Thùy Giang:Người	là GĐCT Quản trị Nhân lực & Quản trị Văn phòng, kiêm GĐCT Marketing của 	khoa Kinh tế - Quản trị:Khoa
+bà Huỳnh Thị Thùy Dương:Người	là giám đốc Chương trình Hoa Sen Plus của 	khoa Kinh tế - Quản trị:Khoa
+bà Đặng Trương Thùy Anh:Người	là giảng viên của 	khoa Kinh tế - Quản trị:Khoa
+ông Lê Trần Tuấn Anh:Người	là giảng viên của 	khoa Kinh tế - Quản trị:Khoa
+bà Nguyễn Thị Bê:Người	là giảng viên của 	khoa Kinh tế - Quản trị:Khoa
+ông Trương Quang Cẩm:Người	là giảng viên của 	khoa Kinh tế - Quản trị:Khoa
+ông Lê Anh Chung:Người	là giảng viên của 	khoa Kinh tế - Quản trị:Khoa
+ông Đỗ Trọng Danh:Người	là giảng viên của 	khoa Kinh tế - Quản trị:Khoa
+ông Lê Ngọc Đức:Người	là giảng viên của 	khoa Kinh tế - Quản trị:Khoa
+ông Lê Hức Đức:Người	là giảng viên của 	khoa Kinh tế - Quản trị:Khoa
+bà Trần Thị Thu Hiền:Người	là giảng viên của 	khoa Kinh tế - Quản trị:Khoa
+ông Nguyễn Minh Cao Hoàng:Người	là giảng viên của 	khoa Kinh tế - Quản trị:Khoa
+ông La Hoàng Lâm:Người	là giảng viên của 	khoa Kinh tế - Quản trị:Khoa
+bà Đinh Thị Lợi:Người	là giảng viên của 	khoa Kinh tế - Quản trị:Khoa
+ông Trần Duy Nghiêm Luật:Người	là giảng viên của 	khoa Kinh tế - Quản trị:Khoa
+ông Châu Tấn Lực:Người	là giảng viên của 	khoa Kinh tế - Quản trị:Khoa
+bà Đào Thị Ngọc Mai:Người	là giảng viên của 	khoa Kinh tế - Quản trị:Khoa
+ông Nguyễn Thanh Nam:Người	là giảng viên của 	khoa Kinh tế - Quản trị:Khoa
+ông Jorge Martinez:Người	là giảng viên của 	khoa Kinh tế - Quản trị:Khoa
+ông Đặng Hoàng Minh Quân:Người	là giảng viên của 	khoa Kinh tế - Quản trị:Khoa
+ông Dương Định Quốc:Người	là giảng viên của 	khoa Kinh tế - Quản trị:Khoa
+bà Bùi Thị Vân Quỳnh:Người	là giảng viên của 	khoa Kinh tế - Quản trị:Khoa
+ông Nguyễn Quốc Sĩ:Người	là giảng viên của 	khoa Kinh tế - Quản trị:Khoa
+ông Lê Tấn Lộc:Người	là giảng viên của 	khoa Kinh tế - Quản trị:Khoa
+ông Hồ Trung Thảo:Người	là giảng viên của 	khoa Kinh tế - Quản trị:Khoa
+ông Phan Minh Tuấn:Người	là giảng viên của 	khoa Kinh tế - Quản trị:Khoa
+bà Trần Thị Út:Người	là giảng viên của 	khoa Kinh tế - Quản trị:Khoa
+bà Nguyễn Trần Kiều Vân:Người	là giảng viên của 	khoa Kinh tế - Quản trị:Khoa
+bà Nguyễn Thanh Vân:Người	là giảng viên của 	khoa Kinh tế - Quản trị:Khoa
+ông Trương Quang Vinh:Người	là giảng viên của 	khoa Kinh tế - Quản trị:Khoa
+bà Trương Thụy Hồng Chi:Người	là thư ký khoa của 	khoa Kinh tế - Quản trị:Khoa
+bà Nguyễn Bảo Giang:Người	là thư ký khoa của 	khoa Kinh tế - Quản trị:Khoa
+bà Trần Kim Ngọc:Người	là thư ký khoa của 	khoa Kinh tế - Quản trị:Khoa
+bà Võ Thị Minh Tú:Người	là chuyên viên Truyền thông - Trải nghiệm SV và Tuyển sinh của 	khoa Kinh tế - Quản trị:Khoa
+bà Đào Thanh Trúc:Người	là chuyên viên Cố vấn học tập của 	khoa Kinh tế - Quản trị:Khoa
+ông Phan Minh Huấn:Người	là thư ký khoa kiêm Chuyên viên CVHT của 	khoa Kinh tế - Quản trị:Khoa
+ông Phan Võ Minh Thắng:Người	có Học hàm - Học vị	Tiến sĩ – Viện Công nghệ Châu Á (AIT), Thái Lan:Bằng cấp
+bà Nguyễn Thị Hiền Thanh:Người	có Học hàm - Học vị	Tiến sĩ – Trường Đại học Thể dục thể thao Bắc Ninh:Bằng cấp
+bà Nguyễn Thùy Giang:Người	có Học hàm - Học vị	Thạc sĩ – Swinburne University of Technology, Australia:Bằng cấp
+bà Huỳnh Thị Thùy Dương:Người	có Học hàm - Học vị	Thạc sĩ – RMIT, Úc:Bằng cấp
+bà Đặng Trương Thùy Anh:Người	có Học hàm - Học vị	Thạc sĩ – Đại học West of England, Vương quốc Anh:Bằng cấp
+ông Lê Trần Tuấn Anh:Người	có Học hàm - Học vị	Thạc sĩ – Brunel University London, UK:Bằng cấp
+bà Nguyễn Thị Bê:Người	có Học hàm - Học vị	Thạc sĩ – University of New Heaven, CT, USA:Bằng cấp
+ông Trương Quang Cẩm:Người	có Học hàm - Học vị	Thạc sĩ – Trung tâm Pháp-Việt Đào tạo về Quản lý (CFVG), thuộc trường Đại học Kinh tế Tp.HCM, Việt Nam:Bằng cấp
+ông Lê Anh Chung:Người	có Học hàm - Học vị	Thạc sĩ – Học Viện Quản Trị Kinh Doanh Bỉ:Bằng cấp
+ông Đỗ Trọng Danh:Người	có Học hàm - Học vị	Thạc sĩ – Học viện Innotech (Pháp) – Trường Cao đẳng Quản trị kinh doanh và quản lý, CBAM (Việt Nam):Bằng cấp
+ông Lê Ngọc Đức:Người	có Học hàm - Học vị	Thạc sĩ – ĐH Quốc gia Tp.HCM:Bằng cấp
+ông Lê Hức Đức:Người	có Học hàm - Học vị	Thạc sĩ – Chương trình giảng dạy Kinh tế Fulbright CFA level 1:Bằng cấp
+bà Trần Thị Thu Hiền:Người	có Học hàm - Học vị	Thạc sĩ – Middlesex University, London, United Kingdom:Bằng cấp
+ông Nguyễn Minh Cao Hoàng:Người	có Học hàm - Học vị	Thạc sĩ – Đại học Bách Khoa Tp. Hồ Chí Minh:Bằng cấp
+ông La Hoàng Lâm:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Đinh Thị Lợi:Người	có Học hàm - Học vị	Thạc sĩ Quản trị kinh doanh, Đại học Công nghệ TP.HCM HUTECH:Bằng cấp
+ông Trần Duy Nghiêm Luật:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Châu Tấn Lực:Người	có Học hàm - Học vị	Thạc Sĩ – Học viện AIT, Thái lan:Bằng cấp
+bà Đào Thị Ngọc Mai:Người	có Học hàm - Học vị	MBA, Master of Educational Leadership & Management:Bằng cấp
+ông Nguyễn Thanh Nam:Người	có Học hàm - Học vị	Tiến sĩ:Bằng cấp
+ông Jorge Martinez:Người	có Học hàm - Học vị	MBA at Menéndez Pelayo International University, Madrid, Spain:Bằng cấp
+ông Đặng Hoàng Minh Quân:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Dương Định Quốc:Người	có Học hàm - Học vị	Thạc sĩ – Viện nghiên cứu KHXH, Hà Lan:Bằng cấp
+bà Bùi Thị Vân Quỳnh:Người	có Học hàm - Học vị	Thạc sĩ – Viện công nghệ quốc tế (AIT), Thái Lan:Bằng cấp
+ông Nguyễn Quốc Sĩ:Người	có Học hàm - Học vị	Thạc sĩ, University of Stirling, The UK:Bằng cấp
+ông Lê Tấn Lộc:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Hồ Trung Thảo:Người	có Học hàm - Học vị	Thạc sĩ – University of Nevada, Las Vegas, United States:Bằng cấp
+ông Phan Minh Tuấn:Người	có Học hàm - Học vị	Thạc sĩ – ĐH Kinh tế Tp.HCM:Bằng cấp
+bà Trần Thị Út:Người	có Học hàm - Học vị	Tiến sĩ – Philippines:Bằng cấp
+bà Nguyễn Trần Kiều Vân:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Nguyễn Thanh Vân:Người	có Học hàm - Học vị	Thạc sĩ – Lincoln University – Aseanci Viet Nam:Bằng cấp
+ông Trương Quang Vinh:Người	có Học hàm - Học vị	Thạc sĩ – Open University Malaysia (OUM), Malaysia:Bằng cấp
+bà Trương Thụy Hồng Chi:Người	có Học hàm - Học vị	Cử nhân – Đại học Văn Lang:Bằng cấp
+bà Nguyễn Bảo Giang:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Trần Kim Ngọc:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Võ Thị Minh Tú:Người	có Học hàm - Học vị	Cử nhân:Bằng cấp
+bà Đào Thanh Trúc:Người	có Học hàm - Học vị	Cử nhân:Bằng cấp
+ông Phan Minh Huấn:Người	có Học hàm - Học vị	Cử nhân:Bằng cấp
+ông Phan Võ Minh Thắng:Người	thuộc lĩnh vực	Quản trị kinh doanh:Chuyên môn
+bà Nguyễn Thị Hiền Thanh:Người	thuộc lĩnh vực	Kinh tế thể thao:Chuyên môn
+bà Nguyễn Thùy Giang:Người	thuộc lĩnh vực	Kinh doanh Quốc tế:Chuyên môn
+bà Huỳnh Thị Thùy Dương:Người	thuộc lĩnh vực	Truyền thông:Chuyên môn
+ông Đặng Trương Thùy Anh:Người	thuộc lĩnh vực	Marketing:Chuyên môn
+ông Lê Trần Tuấn Anh:Người	thuộc lĩnh vực	Quản trị nguồn nhân lực:Chuyên môn
+bà Nguyễn Thị Bê:Người	thuộc lĩnh vực	Quản trị hành chính công, Quản trị Du lịch – Khách sạn – Nhà hàng và Quản trị Thể thao:Chuyên môn
+ông Trương Quang Cẩm:Người	thuộc lĩnh vực	Quản trị kinh doanh:Chuyên môn
+ông Lê Anh Chung:Người	thuộc lĩnh vực	Quản Trị Kinh Doanh Quốc Tế:Chuyên môn
+ông Đỗ Trọng Danh:Người	thuộc lĩnh vực	Digital Marketing, Hệ thống thông tin:Chuyên môn
+ông Lê Ngọc Đức:Người	thuộc lĩnh vực	Quản trị kinh doanh:Chuyên môn
+ông Lê Hức Đức:Người	thuộc lĩnh vực	Kinh tế học:Chuyên môn
+bà Trần Thị Thu Hiền:Người	thuộc lĩnh vực	International Marketing:Chuyên môn
+ông Nguyễn Minh Cao Hoàng:Người	thuộc lĩnh vực	Quản trị kinh doanh:Chuyên môn
+ông La Hoàng Lâm:Người	thuộc lĩnh vực	Quản trị kinh doanh:Chuyên môn
+bà Đinh Thị Lợi:Người	thuộc lĩnh vực	Quản trị kinh doanh:Chuyên môn
+ông Trần Duy Nghiêm Luật:Người	thuộc lĩnh vực	Quản trị kinh doanh:Chuyên môn
+ông Châu Tấn Lực:Người	thuộc lĩnh vực	Kế hoạch phát triển nông thôn và khu vực:Chuyên môn
+bà Đào Thị Ngọc Mai:Người	thuộc lĩnh vực	Lãnh đạo và Quản lý giáo dục (Anh), Quản trị Kinh doanh (ĐH Bách Khoa HCM):Chuyên môn
+ông Nguyễn Thanh Nam:Người	thuộc lĩnh vực	Quản trị kinh doanh:Chuyên môn
+ông Jorge Martinez:Người	thuộc lĩnh vực	International Business, Digital Marketing:Chuyên môn
+ông Đặng Hoàng Minh Quân:Người	thuộc lĩnh vực	Quản trị kinh doanh, Kinh tế phát triển:Chuyên môn
+ông Dương Định Quốc:Người	thuộc lĩnh vực	Quản trị chiến lược:Chuyên môn
+bà Bùi Thị Vân Quỳnh:Người	thuộc lĩnh vực	Quản trị kinh doanh:Chuyên môn
+ông Nguyễn Quốc Sĩ:Người	thuộc lĩnh vực	Media and Communications Management:Chuyên môn
+ông Lê Tấn Lộc:Người	thuộc lĩnh vực	Quản trị Kinh doanh:Chuyên môn
+ông Hồ Trung Thảo:Người	thuộc lĩnh vực	Hóa Học:Chuyên môn
+ông Phan Minh Tuấn:Người	thuộc lĩnh vực	Quản trị kinh doanh:Chuyên môn
+bà Trần Thị Út:Người	thuộc lĩnh vực	Phát triển nông thôn (Tổ chức – Quản trị):Chuyên môn
+bà Nguyễn Trần Kiều Vân:Người	thuộc lĩnh vực	International  Business:Chuyên môn
+bà Nguyễn Thanh Vân:Người	thuộc lĩnh vực	Quản trị kinh doanh:Chuyên môn
+ông Trương Quang Vinh:Người	thuộc lĩnh vực	Quản trị kinh doanh:Chuyên môn
+bà Trương Thụy Hồng Chi:Người	thuộc lĩnh vực	Quản lý kinh tế:Chuyên môn
+bà Nguyễn Bảo Giang:Người	thuộc lĩnh vực	Ngôn ngữ và Văn học Anh, Ngoại thương:Chuyên môn
+bà Trần Kim Ngọc:Người	thuộc lĩnh vực	Quản trị kinh doanh:Chuyên môn
+bà Võ Thị Minh Tú:Người	thuộc lĩnh vực	Quản trị kinh doanh:Chuyên môn
+bà Đào Thanh Trúc:Người	thuộc lĩnh vực	Marketing:Chuyên môn
+ông Phan Minh Huấn:Người	thuộc lĩnh vực	Quản trị nhân lực:Chuyên môn
+ông Phan Võ Minh Thắng:Người	có Email liên lạc là	thang.phanvominh[at]hoasen.edu.vn:Gmail
+bà Nguyễn Thị Hiền Thanh:Người	có Email liên lạc là	thanh.nguyenthihien[at]hoasen.edu.vn:Gmail
+bà Nguyễn Thùy Giang:Người	có Email liên lạc là	giang.nguyenthuy[at]hoasen.edu.vn:Gmail
+bà Huỳnh Thị Thùy Dương:Người	có Email liên lạc là	duong.huynhthithuy[at]hoasen.edu.vn:Gmail
+ông Đặng Trương Thùy Anh:Người	có Email liên lạc là	anh.dangtruongthuy[at]hoasen.edu.vn:Gmail
+ông Lê Trần Tuấn Anh:Người	có Email liên lạc là	anh.letrantuan[at]hoasen.edu.vn:Gmail
+bà Nguyễn Thị Bê:Người	có Email liên lạc là	be.nguyenthi[at]hoasen.edu.vn:Gmail
+ông Trương Quang Cẩm:Người	có Email liên lạc là	cam.truongquang[at]hoasen.edu.vn:Gmail
+ông Lê Anh Chung:Người	có Email liên lạc là	chung.leanh[at]hoasen.edu.vn:Gmail
+ông Đỗ Trọng Danh:Người	có Email liên lạc là	danh.dotrong[at]hoasen.edu.vn:Gmail
+ông Lê Ngọc Đức:Người	có Email liên lạc là	duc.lengoc[at]hoasen.edu.vn:Gmail
+ông Lê Hức Đức:Người	có Email liên lạc là	duc.lehuu[at]hoasen.edu.vn:Gmail
+bà Trần Thị Thu Hiền:Người	có Email liên lạc là	hien.tranthithu[at]hoasen.edu.vn:Gmail
+ông Nguyễn Minh Cao Hoàng:Người	có Email liên lạc là	hoang.nguyenminhcao[at]hoasen.edu.vn:Gmail
+ông La Hoàng Lâm:Người	có Email liên lạc là	lam.lahoang[at]hoasen.edu.vn:Gmail
+bà Đinh Thị Lợi:Người	có Email liên lạc là	loi.dinhthi[at]hoasen.edu.vn:Gmail
+ông Trần Duy Nghiêm Luật:Người	có Email liên lạc là	luat.tranduynghiem[at]hoasen.edu.vn:Gmail
+ông Châu Tấn Lực:Người	có Email liên lạc là	luc.chautan[at]hoasen.edu.vn:Gmail
+bà Đào Thị Ngọc Mai:Người	có Email liên lạc là	mai.daothingoc[at]hoasen.edu.vn:Gmail
+ông Nguyễn Thanh Nam:Người	có Email liên lạc là	nam.nguyenthanh[at]hoasen.edu.vn:Gmail
+ông Jorge Martinez:Người	có Email liên lạc là	jorge.martinez[at]hoasen.edu.vn:Gmail
+ông Đặng Hoàng Minh Quân:Người	có Email liên lạc là	quan.danghoangminh[at]hoasen.edu.vn:Gmail
+ông Dương Định Quốc:Người	có Email liên lạc là	quoc.duongdinh[at]hoasen.edu.vn:Gmail
+bà Bùi Thị Vân Quỳnh:Người	có Email liên lạc là	quynh.buithivan[at]hoasen.edu.vn:Gmail
+ông Nguyễn Quốc Sĩ:Người	có Email liên lạc là	si.nguyenquoc[at]hoasen.edu.vn:Gmail
+ông Lê Tấn Lộc:Người	có Email liên lạc là	loc.letan[at]hoasen.edu.vn:Gmail
+ông Hồ Trung Thảo:Người	có Email liên lạc là	thao.hotrung[at]hoasen.edu.vn:Gmail
+ông Phan Minh Tuấn:Người	có Email liên lạc là	tuan.phanminh[at]hoasen.edu.vn:Gmail
+bà Trần Thị Út:Người	có Email liên lạc là	ut.tranthi[at]hoasen.edu.vn:Gmail
+bà Nguyễn Trần Kiều Vân:Người	có Email liên lạc là	van.nguyentrankieu[at]hoasen.edu.vn:Gmail
+bà Nguyễn Thanh Vân:Người	có Email liên lạc là	van.nguyenthanh[at]hoasen.edu.vn:Gmail
+ông Trương Quang Vinh:Người	có Email liên lạc là	vinh.truongquang[at]hoasen.edu.vn:Gmail
+bà Trương Thụy Hồng Chi:Người	có Email liên lạc là	chi.truongthuyhong[at]hoasen.edu.vn:Gmail
+bà Nguyễn Bảo Giang:Người	có Email liên lạc là	giang.nguyenbao[at]hoasen.edu.vn:Gmail
+bà Trần Kim Ngọc:Người	có Email liên lạc là	ngoc.trankim[at]hoasen.edu.vn:Gmail
+bà Võ Thị Minh Tú:Người	có Email liên lạc là	tu.vothiminh[at]hoasen.edu.vn:Gmail
+bà Đào Thanh Trúc:Người	có Email liên lạc là	truc.daothanh[at]hoasen.edu.vn:Gmail
+ông Phan Minh Huấn:Người	có Email liên lạc là	huan.phanminh[at]hoasen.edu.vn:Gmail
+Khoa Tài chính - Ngân hàng:Khoa	có	ngành Kế toán:Ngành
+Khoa Tài chính - Ngân hàng:Khoa	có	ngành Tài chính - Ngân hàng:Ngành
+Khoa Tài chính - Ngân hàng:Khoa	có	ngành Bất động sản:Ngành
+Khoa Tài chính - Ngân hàng:Khoa	có	ngành Công nghệ tài chính:Ngành
+Khoa Tài chính - Ngân hàng:Khoa	có trưởng khoa là	bà Phùng Thái Minh Trang:Người
+Khoa Tài chính - Ngân hàng:Khoa	có phó trưởng khoa là	bà Đỗ Thị Hồng Hà:Người
+Khoa Tài chính - Ngân hàng:Khoa	có giám đốc chương trình ngành Kế toán là	bà Đỗ Thị Lệ Thu:Người
+Khoa Tài chính - Ngân hàng:Khoa	có giám đốc chương trình ngành Tài chính ngân hàng là	ông Lê Hồng Nam:Người
+Khoa Tài chính - Ngân hàng:Khoa	có giảng viên là	ông Phan Trần Minh Hưng:Người
+Khoa Tài chính - Ngân hàng:Khoa	có giảng viên là	bà Đinh Thị Thúy Hằng:Người
+Khoa Tài chính - Ngân hàng:Khoa	có giảng viên là	bà Nguyễn Phương Quỳnh:Người
+Khoa Tài chính - Ngân hàng:Khoa	có giảng viên là	bà Mai Thị Thùy Trang:Người
+Khoa Tài chính - Ngân hàng:Khoa	có giảng viên là	bà Trần Thị Hoàng Phượng:Người
+Khoa Tài chính - Ngân hàng:Khoa	có giảng viên là	bà Phạm Nhật Bảo Quyên:Người
+Khoa Tài chính - Ngân hàng:Khoa	có giảng viên là	bà Đinh Thanh Lan:Người
+Khoa Tài chính - Ngân hàng:Khoa	có giảng viên là	bà Lê Thị Bích Thảo:Người
+Khoa Tài chính - Ngân hàng:Khoa	có giảng viên là	bà Bùi Phương Uyên:Người
+Khoa Tài chính - Ngân hàng:Khoa	có giảng viên là	bà Trần Thị Hoàng Vi:Người
+Khoa Tài chính - Ngân hàng:Khoa	có giảng viên là	ông Nghiêm Tấn Phong:Người
+Khoa Tài chính - Ngân hàng:Khoa	có giảng viên là	ông Nguyễn Tường Minh:Người
+Khoa Tài chính - Ngân hàng:Khoa	có giảng viên là	ông Phùng Thế Vinh:Người
+Khoa Tài chính - Ngân hàng:Khoa	có giảng viên là	ông Trần Linh Đăng:Người
+Khoa Tài chính - Ngân hàng:Khoa	có giảng viên là	ông Nguyễn Minh Triết:Người
+Khoa Tài chính - Ngân hàng:Khoa	có thư ký khoa là	bà Đỗ Ngọc Anh:Người
+Khoa Tài chính - Ngân hàng:Khoa	có cố vấn học tập là	bà Trần Quỳnh Như:Người
+Khoa Tài chính - Ngân hàng:Khoa	có chuyên viên Truyền thông và Trải nghiệm sinh viên là	ông Trần Việt Dũng:Người
+bà Phùng Thái Minh Trang:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+bà Đỗ Thị Hồng Hà:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+bà Đỗ Thị Lệ Thu:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+ông Lê Hồng Nam:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+ông Phan Trần Minh Hưng:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+bà Đinh Thị Thúy Hằng:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+bà Nguyễn Phương Quỳnh:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+bà Mai Thị Thùy Trang:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+bà Trần Thị Hoàng Phượng:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+bà Phạm Nhật Bảo Quyên:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+bà Đinh Thanh Lan:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+bà Lê Thị Bích Thảo:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+bà Bùi Phương Uyên:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+bà Trần Thị Hoàng Vi:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+ông Nghiêm Tấn Phong:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+ông Nguyễn Tường Minh:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+ông Phùng Thế Vinh:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+ông Trần Linh Đăng:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+ông Nguyễn Minh Triết:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+bà Đỗ Ngọc Anh:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+bà Trần Quỳnh Như:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+ông Trần Việt Dũng:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+bà Phùng Thái Minh Trang:Người	là trưởng khoa của khoa	Tài chính - Ngân hàng:Khoa
+bà Đỗ Thị Hồng Hà:Người	là phó trưởng khoa của khoa	Tài chính - Ngân hàng:Khoa
+bà Đỗ Thị Lệ Thu:Người	là giám đốc chương trình ngành Kế toán của khoa	Tài chính - Ngân hàng:Khoa
+ông Lê Hồng Nam:Người	là giám đốc chương trình ngành Tài chính ngân hàng của khoa	Tài chính - Ngân hàng:Khoa
+ông Phan Trần Minh Hưng:Người	là giảng viên của khoa	Tài chính - Ngân hàng:Khoa
+bà Đinh Thị Thúy Hằng:Người	là giảng viên của khoa	Tài chính - Ngân hàng:Khoa
+bà Nguyễn Phương Quỳnh:Người	là giảng viên của khoa	Tài chính - Ngân hàng:Khoa
+bà Mai Thị Thùy Trang:Người	là giảng viên của khoa	Tài chính - Ngân hàng:Khoa
+bà Trần Thị Hoàng Phượng:Người	là giảng viên của khoa	Tài chính - Ngân hàng:Khoa
+bà Phạm Nhật Bảo Quyên:Người	là giảng viên của khoa	Tài chính - Ngân hàng:Khoa
+bà Đinh Thanh Lan:Người	là giảng viên của khoa	Tài chính - Ngân hàng:Khoa
+bà Lê Thị Bích Thảo:Người	là giảng viên của khoa	Tài chính - Ngân hàng:Khoa
+bà Bùi Phương Uyên:Người	là giảng viên của khoa	Tài chính - Ngân hàng:Khoa
+bà Trần Thị Hoàng Vi:Người	là giảng viên của khoa	Tài chính - Ngân hàng:Khoa
+ông Nghiêm Tấn Phong:Người	là giảng viên của khoa	Tài chính - Ngân hàng:Khoa
+ông Nguyễn Tường Minh:Người	là giảng viên của khoa	Tài chính - Ngân hàng:Khoa
+ông Phùng Thế Vinh:Người	là giảng viên của khoa	Tài chính - Ngân hàng:Khoa
+ông Trần Linh Đăng:Người	là giảng viên của khoa	Tài chính - Ngân hàng:Khoa
+ông Nguyễn Minh Triết:Người	là giảng viên của khoa	Tài chính - Ngân hàng:Khoa
+bà Đỗ Ngọc Anh:Người	là thư ký khoa của khoa	Tài chính - Ngân hàng:Khoa
+bà Trần Quỳnh Như:Người	là cố vấn học tập của khoa	Tài chính - Ngân hàng:Khoa
+ông Trần Việt Dũng:Người	là chuyên viên Truyền thông và Trải nghiệm sinh viên của khoa	Tài chính - Ngân hàng:Khoa
+bà Phùng Thái Minh Trang:Người	có Học hàm - Học vị	Tiến sĩ:Bằng cấp
+bà Đỗ Thị Hồng Hà:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Đỗ Thị Lệ Thu:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Lê Hồng Nam:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Phan Trần Minh Hưng:Người	có Học hàm - Học vị	Tiến sĩ:Bằng cấp
+bà Đinh Thị Thúy Hằng:Người	có Học hàm - Học vị	Tiến sĩ:Bằng cấp
+bà Nguyễn Phương Quỳnh:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Mai Thị Thùy Trang:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Trần Thị Hoàng Phượng:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Phạm Nhật Bảo Quyên:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Đinh Thanh Lan:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Lê Thị Bích Thảo:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Bùi Phương Uyên:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Trần Thị Hoàng Vi:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Nghiêm Tấn Phong:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Nguyễn Tường Minh:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Phùng Thế Vinh:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Trần Linh Đăng:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Nguyễn Minh Triết:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Đỗ Ngọc Anh:Người	có Học hàm - Học vị	Cử nhân:Bằng cấp
+bà Trần Quỳnh Như:Người	có Học hàm - Học vị	Cử nhân:Bằng cấp
+ông Trần Việt Dũng:Người	có Học hàm - Học vị	Cử nhân:Bằng cấp
+bà Phùng Thái Minh Trang:Người	thuộc lĩnh vực	Tài chính:Chuyên môn
+bà Đỗ Thị Hồng Hà:Người	thuộc lĩnh vực	Kế toán:Chuyên môn
+bà Đỗ Thị Lệ Thu:Người	thuộc lĩnh vực	Kế toán:Chuyên môn
+ông Lê Hồng Nam:Người	thuộc lĩnh vực	Quản trị kinh doanh:Chuyên môn
+ông Phan Trần Minh Hưng:Người	thuộc lĩnh vực	Tài chính:Chuyên môn
+bà Đinh Thị Thúy Hằng:Người	thuộc lĩnh vực	Tài chính:Chuyên môn
+bà Nguyễn Phương Quỳnh:Người	thuộc lĩnh vực	Tài chính:Chuyên môn
+bà Mai Thị Thùy Trang:Người	thuộc lĩnh vực	Kế toán:Chuyên môn
+bà Trần Thị Hoàng Phượng:Người	thuộc lĩnh vực	Kế toán:Chuyên môn
+bà Phạm Nhật Bảo Quyên:Người	thuộc lĩnh vực	Tài chính:Chuyên môn
+bà Đinh Thanh Lan:Người	thuộc lĩnh vực	Kế toán:Chuyên môn
+bà Lê Thị Bích Thảo:Người	thuộc lĩnh vực	Quản trị kinh doanh:Chuyên môn
+bà Bùi Phương Uyên:Người	thuộc lĩnh vực	Kế toán:Chuyên môn
+bà Trần Thị Hoàng Vi:Người	thuộc lĩnh vực	Tài chính:Chuyên môn
+ông Nghiêm Tấn Phong:Người	thuộc lĩnh vực	Tài chính doanh nghiệp & Tài chính thị trường:Chuyên môn
+ông Nguyễn Tường Minh:Người	thuộc lĩnh vực	Tài chính:Chuyên môn
+ông Phùng Thế Vinh:Người	thuộc lĩnh vực	Kế toán:Chuyên môn
+ông Trần Linh Đăng:Người	thuộc lĩnh vực	Quản trị kinh doanh:Chuyên môn
+ông Nguyễn Minh Triết:Người	thuộc lĩnh vực	Actuary:Chuyên môn
+bà Đỗ Ngọc Anh:Người	thuộc lĩnh vực	Quản trị kinh doanh:Chuyên môn
+bà Trần Quỳnh Như:Người	thuộc lĩnh vực	Kế toán:Chuyên môn
+ông Trần Việt Dũng:Người	thuộc lĩnh vực	Cơ khí chế tạo máy:Chuyên môn
+bà Phùng Thái Minh Trang:Người	có Email liên lạc là	trang.phungthaiminh@hoasen.edu.vn:Gmail
+bà Đỗ Thị Hồng Hà:Người	có Email liên lạc là	ha.dothihong@hoasen.edu.vn:Gmail
+bà Đỗ Thị Lệ Thu:Người	có Email liên lạc là	thu.dothile@hoasen.edu.vn:Gmail
+ông Lê Hồng Nam:Người	có Email liên lạc là	nam.lehong@hoasen.edu.vn:Gmail
+ông Phan Trần Minh Hưng:Người	có Email liên lạc là	hung.phantranminh@hoasen.edu.vn:Gmail
+bà Đinh Thị Thúy Hằng:Người	có Email liên lạc là	hang.dinhthithuy@hoasen.edu.vn:Gmail
+bà Nguyễn Phương Quỳnh:Người	có Email liên lạc là	quynh.nguyenphuong@hoasen.edu.vn:Gmail
+bà Mai Thị Thùy Trang:Người	có Email liên lạc là	trang.maithithuy@hoasen.edu.vn:Gmail
+bà Trần Thị Hoàng Phượng:Người	có Email liên lạc là	phuong.tranthihoang@hoasen.edu.vn:Gmail
+bà Phạm Nhật Bảo Quyên:Người	có Email liên lạc là	quyen.phamnhatbao@hoasen.edu.vn:Gmail
+bà Đinh Thanh Lan:Người	có Email liên lạc là	lan.dinhthanh@hoasen.edu.vn:Gmail
+bà Lê Thị Bích Thảo:Người	có Email liên lạc là	thao.lethibich@hoasen.edu.vn:Gmail
+bà Bùi Phương Uyên:Người	có Email liên lạc là	uyen.buiphuong@hoasen.edu.vn:Gmail
+bà Trần Thị Hoàng Vi:Người	có Email liên lạc là	vi.tranthihoang@hoasen.edu.vn:Gmail
+ông Nghiêm Tấn Phong:Người	có Email liên lạc là	phong.nghiemtan@hoasen.edu.vn:Gmail
+ông Nguyễn Tường Minh:Người	có Email liên lạc là	minh.nguyentuong@hoasen.edu.vn:Gmail
+ông Phùng Thế Vinh:Người	có Email liên lạc là	vinh.phungthe@hoasen.edu.vn:Gmail
+ông Trần Linh Đăng:Người	có Email liên lạc là	dang.tranlinh@hoasen.edu.vn:Gmail
+ông Nguyễn Minh Triết:Người	có Email liên lạc là	triet.nguyenminh@hoasen.edu.vn:Gmail
+bà Đỗ Ngọc Anh:Người	có Email liên lạc là	anh.dongoc@hoasen.edu.vn:Gmail
+bà Trần Quỳnh Như:Người	có Email liên lạc là	nhu.tranquynh3262@hoasen.edu.vn:Gmail
+ông Trần Việt Dũng:Người	có Email liên lạc là	dung.tranviet3501@hoasen.edu.vn:Gmail
+Khoa Logistics - Thương mại quốc tế:Khoa	có ngành	Kinh doanh quốc tế:Ngành
+Khoa Logistics - Thương mại quốc tế:Khoa	có ngành	Thương mại điện tử:Ngành
+Khoa Logistics - Thương mại quốc tế:Khoa	có ngành	Logistic và Quản lý chuỗi cung ứng:Ngành
+Khoa Logistics - Thương mại quốc tế:Khoa	có trưởng khoa là	ông Nguyễn Hữu Hảo:Người
+Khoa Logistics - Thương mại quốc tế:Khoa	có giám đốc chương trình Logistics Quản lý Chuỗi cung ứng là	bà Trần Thị Trúc Lan:Người
+Khoa Logistics - Thương mại quốc tế:Khoa	có giám đốc chương trình ngành Kinh doanh Quốc tế là	bà Ngụy Thị Sao Chi:Người
+Khoa Logistics - Thương mại quốc tế:Khoa	có giám đốc chương trình ngành Thương mại điện tử là	ông Nguyễn Quang Minh:Người
+Khoa Logistics - Thương mại quốc tế:Khoa	có giảng viên là	ông Đặng Huỳnh Anh Duy:Người
+Khoa Logistics - Thương mại quốc tế:Khoa	có giảng viên là	bà Phạm Lệ Dung:Người
+Khoa Logistics - Thương mại quốc tế:Khoa	có giảng viên là	bà Châu Thị Kiều Phương:Người
+Khoa Logistics - Thương mại quốc tế:Khoa	có giảng viên là	bà Ngô Minh Trà:Người
+Khoa Logistics - Thương mại quốc tế:Khoa	có giảng viên là	bà Tô Thị Tú Trang:Người
+Khoa Logistics - Thương mại quốc tế:Khoa	có giảng viên là	ông Lê Đức Nhã:Người
+Khoa Logistics - Thương mại quốc tế:Khoa	có giảng viên là	ông Vũ Hải Nam:Người
+Khoa Logistics - Thương mại quốc tế:Khoa	có giảng viên là	bà Trần Ngọc Quỳnh:Người
+Khoa Logistics - Thương mại quốc tế:Khoa	có giảng viên là	ông Trần Phong:Người
+Khoa Logistics - Thương mại quốc tế:Khoa	có giảng viên là	bà Nguyễn Quỳnh Phương:Người
+Khoa Logistics - Thương mại quốc tế:Khoa	có thư ký là	bà Bùi Cẩm Tú:Người
+Khoa Logistics - Thương mại quốc tế:Khoa	có chuyên viên truyền thông và trải nghiệm sinh viên là	ông Nguyễn Văn Phước:Người
+Khoa Logistics - Thương mại quốc tế:Khoa	có thư ký là	ông Võ Tiến Tân:Người
+ông Nguyễn Hữu Hảo:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Logistics - Thương mại quốc tế:Khoa
+bà Trần Thị Trúc Lan:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Logistics - Thương mại quốc tế:Khoa
+bà Ngụy Thị Sao Chi:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Logistics - Thương mại quốc tế:Khoa
+ông Nguyễn Quang Minh:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Logistics - Thương mại quốc tế:Khoa
+ông Đặng Huỳnh Anh Duy:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Logistics - Thương mại quốc tế:Khoa
+bà Phạm Lệ Dung:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Logistics - Thương mại quốc tế:Khoa
+bà Châu Thị Kiều Phương:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Logistics - Thương mại quốc tế:Khoa
+bà Ngô Minh Trà:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Logistics - Thương mại quốc tế:Khoa
+bà Tô Thị Tú Trang:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Logistics - Thương mại quốc tế:Khoa
+ông Lê Đức Nhã:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Logistics - Thương mại quốc tế:Khoa
+ông Vũ Hải Nam:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Logistics - Thương mại quốc tế:Khoa
+bà Trần Ngọc Quỳnh:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Logistics - Thương mại quốc tế:Khoa
+ông Trần Phong:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Logistics - Thương mại quốc tế:Khoa
+bà Nguyễn Quỳnh Phương:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Logistics - Thương mại quốc tế:Khoa
+bà Bùi Cẩm Tú:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Logistics - Thương mại quốc tế:Khoa
+ông Nguyễn Văn Phước:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Logistics - Thương mại quốc tế:Khoa
+ông Võ Tiến Tân:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Logistics - Thương mại quốc tế:Khoa
+ông Nguyễn Hữu Hảo:Người	là trưởng khoa của khoa	Logistics - Thương mại quốc tế:Khoa
+bà Trần Thị Trúc Lan:Người	là giám đốc chương trình Logistics Quản lý Chuỗi cung ứng của khoa	Logistics - Thương mại quốc tế:Khoa
+bà Ngụy Thị Sao Chi:Người	là giám đốc chương trình ngành Kinh doanh Quốc tế khoa	Logistics - Thương mại quốc tế:Khoa
+ông Nguyễn Quang Minh:Người	là giám đốc chương trình ngành Thương mại điện tử khoa	Logistics - Thương mại quốc tế:Khoa
+ông Đặng Huỳnh Anh Duy:Người	là giảng viên của khoa	Logistics - Thương mại quốc tế:Khoa
+bà Phạm Lệ Dung:Người	là giảng viên của khoa	Logistics - Thương mại quốc tế:Khoa
+bà Châu Thị Kiều Phương:Người	là giảng viên của khoa	Logistics - Thương mại quốc tế:Khoa
+bà Ngô Minh Trà:Người	là giảng viên của khoa	Logistics - Thương mại quốc tế:Khoa
+bà Tô Thị Tú Trang:Người	là giảng viên của khoa	Logistics - Thương mại quốc tế:Khoa
+ông Lê Đức Nhã:Người	là giảng viên của khoa	Logistics - Thương mại quốc tế:Khoa
+ông Vũ Hải Nam:Người	là giảng viên của khoa	Logistics - Thương mại quốc tế:Khoa
+bà Trần Ngọc Quỳnh:Người	là giảng viên của khoa	Logistics - Thương mại quốc tế:Khoa
+ông Trần Phong:Người	là giảng viên của khoa	Logistics - Thương mại quốc tế:Khoa
+bà Nguyễn Quỳnh Phương:Người	là giảng viên của khoa	Logistics - Thương mại quốc tế:Khoa
+bà Bùi Cẩm Tú:Người	là thư ký của khoa	Logistics - Thương mại quốc tế:Khoa
+ông Nguyễn Văn Phước:Người	là chuyên viên truyền thông và trải nghiệm sinh viên của khoa	Logistics - Thương mại quốc tế:Khoa
+ông Võ Tiến Tân:Người	là thư ký của khoa	Logistics - Thương mại quốc tế:Khoa
+ông Nguyễn Hữu Hảo:Người	có Học hàm - Học vị	Tiến sĩ, Đan Mạch; MBA, Úc:Bằng cấp
+bà Trần Thị Trúc Lan:Người	có Học hàm - Học vị	Thạc sĩ – Solvay University, Belgium:Bằng cấp
+bà Ngụy Thị Sao Chi:Người	có Học hàm - Học vị	Thạc sĩ – Học Viện Tài chính Hà Nội, Việt Nam:Bằng cấp
+ông Nguyễn Quang Minh:Người	có Học hàm - Học vị	NCS, Thạc sĩ – Business Administration (Finance), HELP University, Malaysia, 2018; Computer Science, University of Technology, Vietnam, 2012:Bằng cấp
+ông Đặng Huỳnh Anh Duy:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Phạm Lệ Dung:Người	có Học hàm - Học vị	Thạc sĩ – Curtin University of Technology, Perth, Australia:Bằng cấp
+bà Châu Thị Kiều Phương:Người	có Học hàm - Học vị	Thạc sĩ – Trường Đại Học Tổng Hợp thành phố Hồ Chí Minh:Bằng cấp
+bà Ngô Minh Trà:Người	có Học hàm - Học vị	Thạc sĩ – Vật lí kĩ thuật (Hướng Mạng tốc độ cao) – ĐHQG TP.HCM:Bằng cấp
+bà Tô Thị Tú Trang:Người	có Học hàm - Học vị	Thạc sĩ – Đại học Quốc Gia TP.HCM:Bằng cấp
+ông Lê Đức Nhã:Người	có Học hàm - Học vị	NCS, Thạc sĩ:Bằng cấp
+ông Vũ Hải Nam:Người	có Học hàm - Học vị	NCS, Thạc sĩ:Bằng cấp
+bà Trần Ngọc Quỳnh:Người	có Học hàm - Học vị	Master of Business Administration, Andrew University, Michigan,USA:Bằng cấp
+ông Trần Phong:Người	có Học hàm - Học vị	NCS, Thạc sĩ, Western Sydney University:Bằng cấp
+bà Nguyễn Quỳnh Phương:Người	có Học hàm - Học vị	NCS, Thạc sĩ:Bằng cấp
+ông Nguyễn Hữu Hảo:Người	thuộc lĩnh vực	Quản trị kinh doanh, Marketing, Quản trị đầu tư:Chuyên môn
+bà Trần Thị Trúc Lan:Người	thuộc lĩnh vực	Quản trị kinh doanh:Chuyên môn
+bà Ngụy Thị Sao Chi:Người	thuộc lĩnh vực	Kinh tế – Tài chính – Ngân hàng:Chuyên môn
+ông Nguyễn Quang Minh:Người	thuộc lĩnh vực	Thương mại điện tử:Chuyên môn
+ông Đặng Huỳnh Anh Duy:Người	thuộc lĩnh vực	Kinh doanh quốc tế:Chuyên môn
+bà Phạm Lệ Dung:Người	thuộc lĩnh vực	International Business:Chuyên môn
+bà Ngô Minh Trà:Người	thuộc lĩnh vực	Vật lí kĩ thuật (Hướng Mạng tốc độ cao):Chuyên môn
+bà Tô Thị Tú Trang:Người	thuộc lĩnh vực	Tài chính ngân hàng:Chuyên môn
+bà Trần Ngọc Quỳnh:Người	thuộc lĩnh vực	Kinh doanh quốc tế, Quản trị kinh doanh, Sale & Marketing, Digital Marketing,..:Chuyên môn
+ông Trần Phong:Người	thuộc lĩnh vực	Logistics, Kinh doanh quốc tế, Quản trị kinh doanh:Chuyên môn
+bà Nguyễn Quỳnh Phương:Người	thuộc lĩnh vực	Quản trị kinh doanh, quản lý công nghiệp:Chuyên môn
+ông Nguyễn Hữu Hảo:Người	có Email liên lạc là	hao.nguyenhuu@hoasen.edu.vn:Gmail
+bà Trần Thị Trúc Lan:Người	có Email liên lạc là	lan.tranthitruc@hoasen.edu.vn:Gmail
+bà Ngụy Thị Sao Chi:Người	có Email liên lạc là	chi.nguythisao@hoasen.edu.vn:Gmail
+ông Đặng Huỳnh Anh Duy:Người	có Email liên lạc là	duy.danghuynhanh@hoasen.edu.vn:Gmail
+bà Phạm Lệ Dung:Người	có Email liên lạc là	dung.phamle@hoasen.edu.vn:Gmail
+bà Châu Thị Kiều Phương:Người	có Email liên lạc là	phuong.chauthikieu@hoasen.edu.vn:Gmail
+bà Ngô Minh Trà:Người	có Email liên lạc là	tra.ngominh@hoasen.edu.vn:Gmail
+bà Tô Thị Tú Trang:Người	có Email liên lạc là	trang.tothitu@hoasen.edu.vn:Gmail
+ông Lê Đức Nhã:Người	có Email liên lạc là	nha.leduc@hoasen.edu.vn:Gmail
+ông Vũ Hải Nam:Người	có Email liên lạc là	nam.vuhai@hoasen.edu.vn:Gmail
+bà Trần Ngọc Quỳnh:Người	có Email liên lạc là	quynh.tranngoc@hoasen.edu.vn:Gmail
+ông Trần Phong:Người	có Email liên lạc là	phong.tran@hoasen.edu.vn:Gmail
+bà Nguyễn Quỳnh Phương:Người	có Email liên lạc là	phuong.nguyenquynh@hoasen.edu.vn:Gmail
+bà Bùi Cẩm Tú:Người	có Email liên lạc là	tu.buicam@hoasen.edu.vn:Gmail
+ông Nguyễn Văn Phước:Người	có Email liên lạc là	phuoc.nguyenvan@hoasen.edu.vn:Gmail
+ông Võ Tiến Tân:Người	có Email liên lạc là	tan.votien@hoasen.edu.vn:Gmail
+Khoa Công nghệ thông tin:Khoa	có ngành	Công nghệ thông tin:Ngành
+Khoa Công nghệ thông tin:Khoa	có ngành	Kỹ thuật phần mềm:Ngành
+Khoa Công nghệ thông tin:Khoa	có ngành	Trí tuệ nhân tạo:Ngành
+Khoa Công nghệ thông tin:Khoa	có trưởng khoa là	ông Lê Đình Phong:Người
+Khoa Công nghệ thông tin:Khoa	có phó trưởng khoa là	ông Phạm Hồng Thanh:Người
+Khoa Công nghệ thông tin:Khoa	có giám đốc chương trình Công nghệ thông tin là	ông Trang Hồng Sơn:Người
+Khoa Công nghệ thông tin:Khoa	có giám đốc chương trình Kỹ thuật phần mềm là	ông Nguyễn Văn Sơn:Người
+Khoa Công nghệ thông tin:Khoa	có giám đốc chương trình Trí tuệ nhân tạo là	ông Lê Thanh Tùng:Người
+Khoa Công nghệ thông tin:Khoa	có giám đốc chương trình Mạng máy tính và Truyền thông dữ liệu là	ông Lộc Đức Huy:Người
+Khoa Công nghệ thông tin:Khoa	có giám đốc chương trình Hệ thống thông tin quản lý là	bà Nguyễn Thị Thanh Thanh:Người
+Khoa Công nghệ thông tin:Khoa	có thư ký khoa là	bà Huỳnh Thị Mộng Châu:Người
+Khoa Công nghệ thông tin:Khoa	có chuyên viên - Truyền thông và Trải nghiệm sinh viên là	bà Nguyễn Trần Tâm Trúc:Người
+Khoa Công nghệ thông tin:Khoa	có cố vấn học tập là	bà Phạm Thị Nhật Anh:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	ông Phạm Ngọc Ánh:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	ông Nguyễn Lê Duy:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	ông Lâm Quốc Dũng:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	ông Đặng Công Tiên:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	bà Nguyễn Thị Thu Dự:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	ông Nguyễn Hữu Phát:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	bà Võ Thị Thu Hà:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	bà Nguyễn Ngọc Như Hằng:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	ông Nguyễn Phượng Hoàng:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	ông Phan Đình Thế Huân:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	bà Dương Tố Hương:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	ông Vũ Đình Khôi:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	ông Bùi Ngọc Lê:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	ông Phạm Văn Minh:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	bà Phạm Thị Kim Ngôn:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	bà Đặng Thanh Linh Phú:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	bà Nguyễn Thị Thanh Tâm:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	bà Phạm Thị Thanh Tâm:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	bà Trần Thị Trường Thi:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	ông Nguyễn Bá Trung:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	ông Nguyễn Ngọc Tú:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	ông Phan Hồng Trung:Người
+ông Lê Đình Phong:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+ông Phạm Hồng Thanh:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+ông Trang Hồng Sơn:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+ông Nguyễn Văn Sơn:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+ông Lê Thanh Tùng:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+ông Lộc Đức Huy:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+bà Nguyễn Thị Thanh Thanh:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+bà Huỳnh Thị Mộng Châu:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+bà Nguyễn Trần Tâm Trúc:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+bà Phạm Thị Nhật Anh:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+ông Phạm Ngọc Ánh:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+ông Nguyễn Lê Duy:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+ông Lâm Quốc Dũng:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+ông Đặng Công Tiên:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+bà Nguyễn Thị Thu Dự:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+ông Nguyễn Hữu Phát:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+bà Võ Thị Thu Hà:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+bà Nguyễn Ngọc Như Hằng:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+ông Nguyễn Phượng Hoàng:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+ông Phan Đình Thế Huân:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+bà Dương Tố Hương:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+ông Vũ Đình Khôi:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+ông Bùi Ngọc Lê:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+ông Phạm Văn Minh:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+bà Phạm Thị Kim Ngôn:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+bà Đặng Thanh Linh Phú:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+bà Nguyễn Thị Thanh Tâm:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+bà Phạm Thị Thanh Tâm:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+bà Trần Thị Trường Thi:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+ông Nguyễn Bá Trung:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+ông Nguyễn Ngọc Tú:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+ông Phan Hồng Trung:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+ông Lê Đình Phong:Người	là trưởng khoa của khoa	Công nghệ thông tin:Khoa
+ông Phạm Hồng Thanh:Người	là phó trưởng khoa của khoa	Công nghệ thông tin:Khoa
+ông Trang Hồng Sơn:Người	là giám đốc chương trình Công nghệ thông tin của khoa	Công nghệ thông tin:Khoa
+ông Nguyễn Văn Sơn:Người	là giám đốc chương trình Kỹ thuật phần mềm của khoa	Công nghệ thông tin:Khoa
+ông Lê Thanh Tùng:Người	là giám đốc chương trình Trí tuệ nhân tạo của khoa	Công nghệ thông tin:Khoa
+ông Lộc Đức Huy:Người	là giám đốc chương trình Mạng máy tính và Truyền thông dữ liệu của khoa	Công nghệ thông tin:Khoa
+bà Nguyễn Thị Thanh Thanh:Người	là giám đốc chương trình Hệ thống thông tin quản lý của khoa	Công nghệ thông tin:Khoa
+bà Huỳnh Thị Mộng Châu:Người	là thư ký khoa của khoa	Công nghệ thông tin:Khoa
+bà Nguyễn Trần Tâm Trúc:Người	là chuyên viên - Truyền thông và Trải nghiệm sinh viên của khoa	Công nghệ thông tin:Khoa
+bà Phạm Thị Nhật Anh:Người	là cố vấn học tập của khoa	Công nghệ thông tin:Khoa
+ông Phạm Ngọc Ánh:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+ông Nguyễn Lê Duy:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+ông Lâm Quốc Dũng:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+ông Đặng Công Tiên:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+bà Nguyễn Thị Thu Dự:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+ông Nguyễn Hữu Phát:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+bà Võ Thị Thu Hà:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+bà Nguyễn Ngọc Như Hằng:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+ông Nguyễn Phượng Hoàng:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+ông Phan Đình Thế Huân:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+bà Dương Tố Hương:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+ông Vũ Đình Khôi:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+ông Bùi Ngọc Lê:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+ông Phạm Văn Minh:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+bà Phạm Thị Kim Ngôn:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+bà Đặng Thanh Linh Phú:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+bà Nguyễn Thị Thanh Tâm:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+bà Phạm Thị Thanh Tâm:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+bà Trần Thị Trường Thi:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+ông Nguyễn Bá Trung:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+ông Nguyễn Ngọc Tú:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+ông Phan Hồng Trung:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+ông Lê Đình Phong:Người	có Học hàm - Học vị	Tiến sĩ:Bằng cấp
+ông Phạm Hồng Thanh:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Trang Hồng Sơn:Người	có Học hàm - Học vị	Tiến sĩ:Bằng cấp
+ông Nguyễn Văn Sơn:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Lê Thanh Tùng:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Lộc Đức Huy:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Nguyễn Thị Thanh Thanh:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Huỳnh Thị Mộng Châu:Người	có Học hàm - Học vị	Cử nhân:Bằng cấp
+bà Nguyễn Trần Tâm Trúc:Người	có Học hàm - Học vị	Cử nhân:Bằng cấp
+bà Phạm Thị Nhật Anh:Người	có Học hàm - Học vị	Cử nhân:Bằng cấp
+ông Phạm Ngọc Ánh:Người	có Học hàm - Học vị	Tiến sĩ:Bằng cấp
+ông Nguyễn Lê Duy:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Lâm Quốc Dũng:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Đặng Công Tiên:Người	có Học hàm - Học vị	Cử nhân:Bằng cấp
+bà Nguyễn Thị Thu Dự:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Nguyễn Hữu Phát:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Võ Thị Thu Hà:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Nguyễn Ngọc Như Hằng:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Nguyễn Phượng Hoàng:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Phan Đình Thế Huân:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Dương Tố Hương:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Vũ Đình Khôi:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Bùi Ngọc Lê:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Phạm Văn Minh:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Phạm Thị Kim Ngôn:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Đặng Thanh Linh Phú:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Nguyễn Thị Thanh Tâm:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Phạm Thị Thanh Tâm:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Trần Thị Trường Thi:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Nguyễn Bá Trung:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Nguyễn Ngọc Tú:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Phan Hồng Trung:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Lê Đình Phong:Người	thuộc lĩnh vực	Robotics và Giao tiếp Người – Máy:Chuyên môn
+ông Phạm Hồng Thanh:Người	thuộc lĩnh vực	Khoa học máy tính:Chuyên môn
+ông Trang Hồng Sơn:Người	thuộc lĩnh vực	Công nghệ thông tin:Chuyên môn
+ông Nguyễn Văn Sơn:Người	thuộc lĩnh vực	Công nghệ thông tin:Chuyên môn
+ông Lê Thanh Tùng:Người	thuộc lĩnh vực	Trí tuệ nhân tạo:Chuyên môn
+ông Lộc Đức Huy:Người	thuộc lĩnh vực	Mạng máy tính và truyền thông dữ liệu:Chuyên môn
+bà Nguyễn Thị Thanh Thanh:Người	thuộc lĩnh vực	Hệ thống thông tin quản lý:Chuyên môn
+ông Phạm Ngọc Ánh:Người	thuộc lĩnh vực	Toán học:Chuyên môn
+ông Nguyễn Lê Duy:Người	thuộc lĩnh vực	Lý thuyết tối ưu:Chuyên môn
+ông Lâm Quốc Dũng:Người	thuộc lĩnh vực	Toán ứng dụng trong Kinh tế:Chuyên môn
+ông Đặng Công Tiên:Người	thuộc lĩnh vực	Toán Giải tích:Chuyên môn
+bà Nguyễn Thị Thu Dự:Người	thuộc lĩnh vực	Công nghệ phần mềm, Grid Computing, BioInformatics:Chuyên môn
+ông Nguyễn Hữu Phát:Người	thuộc lĩnh vực	Kỹ thuật phần mềm:Chuyên môn
+bà Nguyễn Ngọc Như Hằng:Người	thuộc lĩnh vực	Mạng máy tính và truyền thông dữ liệu:Chuyên môn
+ông Nguyễn Phượng Hoàng:Người	thuộc lĩnh vực	Kỹ thuật phần mềm:Chuyên môn
+ông Phan Đình Thế Huân:Người	thuộc lĩnh vực	Mạng máy tính và truyền thông dữ liệu:Chuyên môn
+bà Dương Tố Hương:Người	thuộc lĩnh vực	Công nghệ thông tin:Chuyên môn
+ông Vũ Đình Khôi:Người	thuộc lĩnh vực	Khoa học Máy tính:Chuyên môn
+ông Bùi Ngọc Lê:Người	thuộc lĩnh vực	Hệ thống thông tin:Chuyên môn
+ông Phạm Văn Minh:Người	thuộc lĩnh vực	Lý thuyết trò chơi, Kinh tế lượng, Kinh tế học:Chuyên môn
+bà Phạm Thị Kim Ngôn:Người	thuộc lĩnh vực	Hệ thống thông tin:Chuyên môn
+bà Đặng Thanh Linh Phú:Người	thuộc lĩnh vực	Khoa học máy tính:Chuyên môn
+bà Nguyễn Thị Thanh Tâm:Người	thuộc lĩnh vực	Hệ thống thông tin quản lý:Chuyên môn
+bà Phạm Thị Thanh Tâm:Người	thuộc lĩnh vực	Hệ thống thông tin quản lý:Chuyên môn
+bà Trần Thị Trường Thi:Người	thuộc lĩnh vực	Công nghệ thông tin:Chuyên môn
+ông Nguyễn Bá Trung:Người	thuộc lĩnh vực	Khoa học máy tinh:Chuyên môn
+ông Nguyễn Ngọc Tú:Người	thuộc lĩnh vực	Kỹ thuật phần mềm:Chuyên môn
+ông Phan Hồng Trung:Người	thuộc lĩnh vực	Công nghệ thông tin:Chuyên môn
+ông Lê Đình Phong:Người	có Email liên lạc là	phong.ledinh@hoasen.edu.vn:Gmail
+ông Phạm Hồng Thanh:Người	có Email liên lạc là	thanh.phamhong@hoasen.edu.vn:Gmail
+ông Trang Hồng Sơn:Người	có Email liên lạc là	son.tranghong@hoasen.edu.vn:Gmail
+ông Nguyễn Văn Sơn:Người	có Email liên lạc là	son.nguyenvan@hoasen.edu.vn:Gmail
+ông Lê Thanh Tùng:Người	có Email liên lạc là	tung.lethanh@hoasen.edu.vn:Gmail
+ông Lộc Đức Huy:Người	có Email liên lạc là	huy.locduc@hoasen.edu.vn:Gmail
+bà Nguyễn Thị Thanh Thanh:Người	có Email liên lạc là	thanh.nguyenthithanh@hoasen.edu.vn:Gmail
+bà Huỳnh Thị Mộng Châu:Người	có Email liên lạc là	chau.huynhthimong@hoasen.edu.vn:Gmail
+bà Nguyễn Trần Tâm Trúc:Người	có Email liên lạc là	truc.nguyentrantam@hoasen.edu.vn:Gmail
+bà Phạm Thị Nhật Anh:Người	có Email liên lạc là	anh.phamthinhat@hoasen.edu.vn:Gmail
+ông Phạm Ngọc Ánh:Người	có Email liên lạc là	anh.phamngoc@hoasen.edu.vn:Gmail
+ông Nguyễn Lê Duy:Người	có Email liên lạc là	duy.nguyenle@hoasen.edu.vn:Gmail
+ông Lâm Quốc Dũng:Người	có Email liên lạc là	dung.lamquoc@hoasen.edu.vn:Gmail
+ông Đặng Công Tiên:Người	có Email liên lạc là	tien.dangcong@hoasen.edu.vn:Gmail
+bà Nguyễn Thị Thu Dự:Người	có Email liên lạc là	du.nguyenthithu@hoasen.edu.vn:Gmail
+ông Nguyễn Hữu Phát:Người	có Email liên lạc là	phat.nguyenhuu@hoasen.edu.vn:Gmail
+bà Võ Thị Thu Hà:Người	có Email liên lạc là	ha.vothithu@hoasen.edu.vn:Gmail
+bà Nguyễn Ngọc Như Hằng:Người	có Email liên lạc là	hang.nguyenngocnhu@hoasen.edu.vn:Gmail
+ông Nguyễn Phượng Hoàng:Người	có Email liên lạc là	Hoang.NguyenPhuong@hoasen.edu.vn:Gmail
+ông Phan Đình Thế Huân:Người	có Email liên lạc là	huan.phandinhthe@hoasen.edu.vn:Gmail
+bà Dương Tố Hương:Người	có Email liên lạc là	huong.duongto@hoasen.edu.vn:Gmail
+ông Vũ Đình Khôi:Người	có Email liên lạc là	khoi.vudinh@hoasen.edu.vn:Gmail
+ông Bùi Ngọc Lê:Người	có Email liên lạc là	le.buingoc@hoasen.edu.vn:Gmail
+ông Phạm Văn Minh:Người	có Email liên lạc là	minh.phamvan@hoasen.edu.vn:Gmail
+bà Phạm Thị Kim Ngôn:Người	có Email liên lạc là	ngon.phamthikim@hoasen.edu.vn:Gmail
+bà Đặng Thanh Linh Phú:Người	có Email liên lạc là	phu.dangthanhlinh@hoasen.edu.vn:Gmail
+bà Nguyễn Thị Thanh Tâm:Người	có Email liên lạc là	tam.nguyenthithanh@hoasen.edu.vn:Gmail
+bà Phạm Thị Thanh Tâm:Người	có Email liên lạc là	tam.phamthithanh@hoasen.edu.vn:Gmail
+bà Trần Thị Trường Thi:Người	có Email liên lạc là	thi.tranthitruong@hoasen.edu.vn:Gmail
+ông Nguyễn Bá Trung:Người	có Email liên lạc là	trung.nguyenba@hoasen.edu.vn:Gmail
+ông Nguyễn Ngọc Tú:Người	có Email liên lạc là	tu.nguyenngoc@hoasen.edu.vn:Gmail
+ông Phan Hồng Trung:Người	có Email liên lạc là	trung.phanhong@hoasen.edu.vn:Gmail
+Khoa Tài chính - Ngân hàng:Khoa	có	ngành Kế toán:Ngành
+Khoa Tài chính - Ngân hàng:Khoa	có	ngành Tài chính - Ngân hàng:Ngành
+Khoa Tài chính - Ngân hàng:Khoa	có	ngành Bất động sản:Ngành
+Khoa Tài chính - Ngân hàng:Khoa	có	ngành Công nghệ tài chính:Ngành
+Khoa Tài chính - Ngân hàng:Khoa	có trưởng khoa là	bà Phùng Thái Minh Trang:Người
+Khoa Tài chính - Ngân hàng:Khoa	có phó trưởng khoa là	bà Đỗ Thị Hồng Hà:Người
+Khoa Tài chính - Ngân hàng:Khoa	có giám đốc chương trình ngành Kế toán là	bà Đỗ Thị Lệ Thu:Người
+Khoa Tài chính - Ngân hàng:Khoa	có giám đốc chương trình ngành Tài chính ngân hàng là	ông Lê Hồng Nam:Người
+Khoa Tài chính - Ngân hàng:Khoa	có giảng viên là	ông Phan Trần Minh Hưng:Người
+Khoa Tài chính - Ngân hàng:Khoa	có giảng viên là	bà Đinh Thị Thúy Hằng:Người
+Khoa Tài chính - Ngân hàng:Khoa	có giảng viên là	bà Nguyễn Phương Quỳnh:Người
+Khoa Tài chính - Ngân hàng:Khoa	có giảng viên là	bà Mai Thị Thùy Trang:Người
+Khoa Tài chính - Ngân hàng:Khoa	có giảng viên là	bà Trần Thị Hoàng Phượng:Người
+Khoa Tài chính - Ngân hàng:Khoa	có giảng viên là	bà Phạm Nhật Bảo Quyên:Người
+Khoa Tài chính - Ngân hàng:Khoa	có giảng viên là	bà Đinh Thanh Lan:Người
+Khoa Tài chính - Ngân hàng:Khoa	có giảng viên là	bà Lê Thị Bích Thảo:Người
+Khoa Tài chính - Ngân hàng:Khoa	có giảng viên là	bà Bùi Phương Uyên:Người
+Khoa Tài chính - Ngân hàng:Khoa	có giảng viên là	bà Trần Thị Hoàng Vi:Người
+Khoa Tài chính - Ngân hàng:Khoa	có giảng viên là	ông Nghiêm Tấn Phong:Người
+Khoa Tài chính - Ngân hàng:Khoa	có giảng viên là	ông Nguyễn Tường Minh:Người
+Khoa Tài chính - Ngân hàng:Khoa	có giảng viên là	ông Phùng Thế Vinh:Người
+Khoa Tài chính - Ngân hàng:Khoa	có giảng viên là	ông Trần Linh Đăng:Người
+Khoa Tài chính - Ngân hàng:Khoa	có giảng viên là	ông Nguyễn Minh Triết:Người
+Khoa Tài chính - Ngân hàng:Khoa	có thư ký khoa là	bà Đỗ Ngọc Anh:Người
+Khoa Tài chính - Ngân hàng:Khoa	có cố vấn học tập là	bà Trần Quỳnh Như:Người
+Khoa Tài chính - Ngân hàng:Khoa	có chuyên viên Truyền thông và Trải nghiệm sinh viên là	ông Trần Việt Dũng:Người
+bà Phùng Thái Minh Trang:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+bà Đỗ Thị Hồng Hà:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+bà Đỗ Thị Lệ Thu:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+ông Lê Hồng Nam:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+ông Phan Trần Minh Hưng:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+bà Đinh Thị Thúy Hằng:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+bà Nguyễn Phương Quỳnh:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+bà Mai Thị Thùy Trang:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+bà Trần Thị Hoàng Phượng:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+bà Phạm Nhật Bảo Quyên:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+bà Đinh Thanh Lan:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+bà Lê Thị Bích Thảo:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+bà Bùi Phương Uyên:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+bà Trần Thị Hoàng Vi:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+ông Nghiêm Tấn Phong:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+ông Nguyễn Tường Minh:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+ông Phùng Thế Vinh:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+ông Trần Linh Đăng:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+ông Nguyễn Minh Triết:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+bà Đỗ Ngọc Anh:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+bà Trần Quỳnh Như:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+ông Trần Việt Dũng:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Tài chính - Ngân hàng:Khoa
+bà Phùng Thái Minh Trang:Người	là trưởng khoa của khoa	Tài chính - Ngân hàng:Khoa
+bà Đỗ Thị Hồng Hà:Người	là phó trưởng khoa của khoa	Tài chính - Ngân hàng:Khoa
+bà Đỗ Thị Lệ Thu:Người	là giám đốc chương trình ngành Kế toán của khoa	Tài chính - Ngân hàng:Khoa
+ông Lê Hồng Nam:Người	là giám đốc chương trình ngành Tài chính ngân hàng của khoa	Tài chính - Ngân hàng:Khoa
+ông Phan Trần Minh Hưng:Người	là giảng viên của khoa	Tài chính - Ngân hàng:Khoa
+bà Đinh Thị Thúy Hằng:Người	là giảng viên của khoa	Tài chính - Ngân hàng:Khoa
+bà Nguyễn Phương Quỳnh:Người	là giảng viên của khoa	Tài chính - Ngân hàng:Khoa
+bà Mai Thị Thùy Trang:Người	là giảng viên của khoa	Tài chính - Ngân hàng:Khoa
+bà Trần Thị Hoàng Phượng:Người	là giảng viên của khoa	Tài chính - Ngân hàng:Khoa
+bà Phạm Nhật Bảo Quyên:Người	là giảng viên của khoa	Tài chính - Ngân hàng:Khoa
+bà Đinh Thanh Lan:Người	là giảng viên của khoa	Tài chính - Ngân hàng:Khoa
+bà Lê Thị Bích Thảo:Người	là giảng viên của khoa	Tài chính - Ngân hàng:Khoa
+bà Bùi Phương Uyên:Người	là giảng viên của khoa	Tài chính - Ngân hàng:Khoa
+bà Trần Thị Hoàng Vi:Người	là giảng viên của khoa	Tài chính - Ngân hàng:Khoa
+ông Nghiêm Tấn Phong:Người	là giảng viên của khoa	Tài chính - Ngân hàng:Khoa
+ông Nguyễn Tường Minh:Người	là giảng viên của khoa	Tài chính - Ngân hàng:Khoa
+ông Phùng Thế Vinh:Người	là giảng viên của khoa	Tài chính - Ngân hàng:Khoa
+ông Trần Linh Đăng:Người	là giảng viên của khoa	Tài chính - Ngân hàng:Khoa
+ông Nguyễn Minh Triết:Người	là giảng viên của khoa	Tài chính - Ngân hàng:Khoa
+bà Đỗ Ngọc Anh:Người	là thư ký khoa của khoa	Tài chính - Ngân hàng:Khoa
+bà Trần Quỳnh Như:Người	là cố vấn học tập của khoa	Tài chính - Ngân hàng:Khoa
+ông Trần Việt Dũng:Người	là chuyên viên Truyền thông và Trải nghiệm sinh viên của khoa	Tài chính - Ngân hàng:Khoa
+bà Phùng Thái Minh Trang:Người	có Học hàm - Học vị	Tiến sĩ:Bằng cấp
+bà Đỗ Thị Hồng Hà:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Đỗ Thị Lệ Thu:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Lê Hồng Nam:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Phan Trần Minh Hưng:Người	có Học hàm - Học vị	Tiến sĩ:Bằng cấp
+bà Đinh Thị Thúy Hằng:Người	có Học hàm - Học vị	Tiến sĩ:Bằng cấp
+bà Nguyễn Phương Quỳnh:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Mai Thị Thùy Trang:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Trần Thị Hoàng Phượng:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Phạm Nhật Bảo Quyên:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Đinh Thanh Lan:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Lê Thị Bích Thảo:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Bùi Phương Uyên:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Trần Thị Hoàng Vi:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Nghiêm Tấn Phong:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Nguyễn Tường Minh:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Phùng Thế Vinh:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Trần Linh Đăng:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Nguyễn Minh Triết:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Đỗ Ngọc Anh:Người	có Học hàm - Học vị	Cử nhân:Bằng cấp
+bà Trần Quỳnh Như:Người	có Học hàm - Học vị	Cử nhân:Bằng cấp
+ông Trần Việt Dũng:Người	có Học hàm - Học vị	Cử nhân:Bằng cấp
+bà Phùng Thái Minh Trang:Người	thuộc lĩnh vực	Tài chính:Chuyên môn
+bà Đỗ Thị Hồng Hà:Người	thuộc lĩnh vực	Kế toán:Chuyên môn
+bà Đỗ Thị Lệ Thu:Người	thuộc lĩnh vực	Kế toán:Chuyên môn
+ông Lê Hồng Nam:Người	thuộc lĩnh vực	Quản trị kinh doanh:Chuyên môn
+ông Phan Trần Minh Hưng:Người	thuộc lĩnh vực	Tài chính:Chuyên môn
+bà Đinh Thị Thúy Hằng:Người	thuộc lĩnh vực	Tài chính:Chuyên môn
+bà Nguyễn Phương Quỳnh:Người	thuộc lĩnh vực	Tài chính:Chuyên môn
+bà Mai Thị Thùy Trang:Người	thuộc lĩnh vực	Kế toán:Chuyên môn
+bà Trần Thị Hoàng Phượng:Người	thuộc lĩnh vực	Kế toán:Chuyên môn
+bà Phạm Nhật Bảo Quyên:Người	thuộc lĩnh vực	Tài chính:Chuyên môn
+bà Đinh Thanh Lan:Người	thuộc lĩnh vực	Kế toán:Chuyên môn
+bà Lê Thị Bích Thảo:Người	thuộc lĩnh vực	Quản trị kinh doanh:Chuyên môn
+bà Bùi Phương Uyên:Người	thuộc lĩnh vực	Kế toán:Chuyên môn
+bà Trần Thị Hoàng Vi:Người	thuộc lĩnh vực	Tài chính:Chuyên môn
+ông Nghiêm Tấn Phong:Người	thuộc lĩnh vực	Tài chính doanh nghiệp & Tài chính thị trường:Chuyên môn
+ông Nguyễn Tường Minh:Người	thuộc lĩnh vực	Tài chính:Chuyên môn
+ông Phùng Thế Vinh:Người	thuộc lĩnh vực	Kế toán:Chuyên môn
+ông Trần Linh Đăng:Người	thuộc lĩnh vực	Quản trị kinh doanh:Chuyên môn
+ông Nguyễn Minh Triết:Người	thuộc lĩnh vực	Actuary:Chuyên môn
+bà Đỗ Ngọc Anh:Người	thuộc lĩnh vực	Quản trị kinh doanh:Chuyên môn
+bà Trần Quỳnh Như:Người	thuộc lĩnh vực	Kế toán:Chuyên môn
+ông Trần Việt Dũng:Người	thuộc lĩnh vực	Cơ khí chế tạo máy:Chuyên môn
+bà Phùng Thái Minh Trang:Người	có Email liên lạc là	trang.phungthaiminh@hoasen.edu.vn:Gmail
+bà Đỗ Thị Hồng Hà:Người	có Email liên lạc là	ha.dothihong@hoasen.edu.vn:Gmail
+bà Đỗ Thị Lệ Thu:Người	có Email liên lạc là	thu.dothile@hoasen.edu.vn:Gmail
+ông Lê Hồng Nam:Người	có Email liên lạc là	nam.lehong@hoasen.edu.vn:Gmail
+ông Phan Trần Minh Hưng:Người	có Email liên lạc là	hung.phantranminh@hoasen.edu.vn:Gmail
+bà Đinh Thị Thúy Hằng:Người	có Email liên lạc là	hang.dinhthithuy@hoasen.edu.vn:Gmail
+bà Nguyễn Phương Quỳnh:Người	có Email liên lạc là	quynh.nguyenphuong@hoasen.edu.vn:Gmail
+bà Mai Thị Thùy Trang:Người	có Email liên lạc là	trang.maithithuy@hoasen.edu.vn:Gmail
+bà Trần Thị Hoàng Phượng:Người	có Email liên lạc là	phuong.tranthihoang@hoasen.edu.vn:Gmail
+bà Phạm Nhật Bảo Quyên:Người	có Email liên lạc là	quyen.phamnhatbao@hoasen.edu.vn:Gmail
+bà Đinh Thanh Lan:Người	có Email liên lạc là	lan.dinhthanh@hoasen.edu.vn:Gmail
+bà Lê Thị Bích Thảo:Người	có Email liên lạc là	thao.lethibich@hoasen.edu.vn:Gmail
+bà Bùi Phương Uyên:Người	có Email liên lạc là	uyen.buiphuong@hoasen.edu.vn:Gmail
+bà Trần Thị Hoàng Vi:Người	có Email liên lạc là	vi.tranthihoang@hoasen.edu.vn:Gmail
+ông Nghiêm Tấn Phong:Người	có Email liên lạc là	phong.nghiemtan@hoasen.edu.vn:Gmail
+ông Nguyễn Tường Minh:Người	có Email liên lạc là	minh.nguyentuong@hoasen.edu.vn:Gmail
+ông Phùng Thế Vinh:Người	có Email liên lạc là	vinh.phungthe@hoasen.edu.vn:Gmail
+ông Trần Linh Đăng:Người	có Email liên lạc là	dang.tranlinh@hoasen.edu.vn:Gmail
+ông Nguyễn Minh Triết:Người	có Email liên lạc là	triet.nguyenminh@hoasen.edu.vn:Gmail
+bà Đỗ Ngọc Anh:Người	có Email liên lạc là	anh.dongoc@hoasen.edu.vn:Gmail
+bà Trần Quỳnh Như:Người	có Email liên lạc là	nhu.tranquynh3262@hoasen.edu.vn:Gmail
+ông Trần Việt Dũng:Người	có Email liên lạc là	dung.tranviet3501@hoasen.edu.vn:Gmail
+Khoa Logistics - Thương mại quốc tế:Khoa	có ngành	Kinh doanh quốc tế:Ngành
+Khoa Logistics - Thương mại quốc tế:Khoa	có ngành	Thương mại điện tử:Ngành
+Khoa Logistics - Thương mại quốc tế:Khoa	có ngành	Logistic và Quản lý chuỗi cung ứng:Ngành
+Khoa Logistics - Thương mại quốc tế:Khoa	có trưởng khoa là	ông Nguyễn Hữu Hảo:Người
+Khoa Logistics - Thương mại quốc tế:Khoa	có giám đốc chương trình Logistics Quản lý Chuỗi cung ứng là	bà Trần Thị Trúc Lan:Người
+Khoa Logistics - Thương mại quốc tế:Khoa	có giám đốc chương trình ngành Kinh doanh Quốc tế là	bà Ngụy Thị Sao Chi:Người
+Khoa Logistics - Thương mại quốc tế:Khoa	có giám đốc chương trình ngành Thương mại điện tử là	ông Nguyễn Quang Minh:Người
+Khoa Logistics - Thương mại quốc tế:Khoa	có giảng viên là	ông Đặng Huỳnh Anh Duy:Người
+Khoa Logistics - Thương mại quốc tế:Khoa	có giảng viên là	bà Phạm Lệ Dung:Người
+Khoa Logistics - Thương mại quốc tế:Khoa	có giảng viên là	bà Châu Thị Kiều Phương:Người
+Khoa Logistics - Thương mại quốc tế:Khoa	có giảng viên là	bà Ngô Minh Trà:Người
+Khoa Logistics - Thương mại quốc tế:Khoa	có giảng viên là	bà Tô Thị Tú Trang:Người
+Khoa Logistics - Thương mại quốc tế:Khoa	có giảng viên là	ông Lê Đức Nhã:Người
+Khoa Logistics - Thương mại quốc tế:Khoa	có giảng viên là	ông Vũ Hải Nam:Người
+Khoa Logistics - Thương mại quốc tế:Khoa	có giảng viên là	bà Trần Ngọc Quỳnh:Người
+Khoa Logistics - Thương mại quốc tế:Khoa	có giảng viên là	ông Trần Phong:Người
+Khoa Logistics - Thương mại quốc tế:Khoa	có giảng viên là	bà Nguyễn Quỳnh Phương:Người
+Khoa Logistics - Thương mại quốc tế:Khoa	có thư ký là	bà Bùi Cẩm Tú:Người
+Khoa Logistics - Thương mại quốc tế:Khoa	có chuyên viên truyền thông và trải nghiệm sinh viên là	ông Nguyễn Văn Phước:Người
+Khoa Logistics - Thương mại quốc tế:Khoa	có thư ký là	ông Võ Tiến Tân:Người
+ông Nguyễn Hữu Hảo:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Logistics - Thương mại quốc tế:Khoa
+bà Trần Thị Trúc Lan:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Logistics - Thương mại quốc tế:Khoa
+bà Ngụy Thị Sao Chi:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Logistics - Thương mại quốc tế:Khoa
+ông Nguyễn Quang Minh:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Logistics - Thương mại quốc tế:Khoa
+ông Đặng Huỳnh Anh Duy:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Logistics - Thương mại quốc tế:Khoa
+bà Phạm Lệ Dung:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Logistics - Thương mại quốc tế:Khoa
+bà Châu Thị Kiều Phương:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Logistics - Thương mại quốc tế:Khoa
+bà Ngô Minh Trà:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Logistics - Thương mại quốc tế:Khoa
+bà Tô Thị Tú Trang:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Logistics - Thương mại quốc tế:Khoa
+ông Lê Đức Nhã:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Logistics - Thương mại quốc tế:Khoa
+ông Vũ Hải Nam:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Logistics - Thương mại quốc tế:Khoa
+bà Trần Ngọc Quỳnh:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Logistics - Thương mại quốc tế:Khoa
+ông Trần Phong:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Logistics - Thương mại quốc tế:Khoa
+bà Nguyễn Quỳnh Phương:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Logistics - Thương mại quốc tế:Khoa
+bà Bùi Cẩm Tú:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Logistics - Thương mại quốc tế:Khoa
+ông Nguyễn Văn Phước:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Logistics - Thương mại quốc tế:Khoa
+ông Võ Tiến Tân:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Logistics - Thương mại quốc tế:Khoa
+ông Nguyễn Hữu Hảo:Người	là trưởng khoa của khoa	Logistics - Thương mại quốc tế:Khoa
+bà Trần Thị Trúc Lan:Người	là giám đốc chương trình Logistics Quản lý Chuỗi cung ứng của khoa	Logistics - Thương mại quốc tế:Khoa
+bà Ngụy Thị Sao Chi:Người	là giám đốc chương trình ngành Kinh doanh Quốc tế khoa	Logistics - Thương mại quốc tế:Khoa
+ông Nguyễn Quang Minh:Người	là giám đốc chương trình ngành Thương mại điện tử khoa	Logistics - Thương mại quốc tế:Khoa
+ông Đặng Huỳnh Anh Duy:Người	là giảng viên của khoa	Logistics - Thương mại quốc tế:Khoa
+bà Phạm Lệ Dung:Người	là giảng viên của khoa	Logistics - Thương mại quốc tế:Khoa
+bà Châu Thị Kiều Phương:Người	là giảng viên của khoa	Logistics - Thương mại quốc tế:Khoa
+bà Ngô Minh Trà:Người	là giảng viên của khoa	Logistics - Thương mại quốc tế:Khoa
+bà Tô Thị Tú Trang:Người	là giảng viên của khoa	Logistics - Thương mại quốc tế:Khoa
+ông Lê Đức Nhã:Người	là giảng viên của khoa	Logistics - Thương mại quốc tế:Khoa
+ông Vũ Hải Nam:Người	là giảng viên của khoa	Logistics - Thương mại quốc tế:Khoa
+bà Trần Ngọc Quỳnh:Người	là giảng viên của khoa	Logistics - Thương mại quốc tế:Khoa
+ông Trần Phong:Người	là giảng viên của khoa	Logistics - Thương mại quốc tế:Khoa
+bà Nguyễn Quỳnh Phương:Người	là giảng viên của khoa	Logistics - Thương mại quốc tế:Khoa
+bà Bùi Cẩm Tú:Người	là thư ký của khoa	Logistics - Thương mại quốc tế:Khoa
+ông Nguyễn Văn Phước:Người	là chuyên viên truyền thông và trải nghiệm sinh viên của khoa	Logistics - Thương mại quốc tế:Khoa
+ông Võ Tiến Tân:Người	là thư ký của khoa	Logistics - Thương mại quốc tế:Khoa
+ông Nguyễn Hữu Hảo:Người	có Học hàm - Học vị	Tiến sĩ, Đan Mạch; MBA, Úc:Bằng cấp
+bà Trần Thị Trúc Lan:Người	có Học hàm - Học vị	Thạc sĩ – Solvay University, Belgium:Bằng cấp
+bà Ngụy Thị Sao Chi:Người	có Học hàm - Học vị	Thạc sĩ – Học Viện Tài chính Hà Nội, Việt Nam:Bằng cấp
+ông Nguyễn Quang Minh:Người	có Học hàm - Học vị	NCS, Thạc sĩ – Business Administration (Finance), HELP University, Malaysia, 2018; Computer Science, University of Technology, Vietnam, 2012:Bằng cấp
+ông Đặng Huỳnh Anh Duy:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Phạm Lệ Dung:Người	có Học hàm - Học vị	Thạc sĩ – Curtin University of Technology, Perth, Australia:Bằng cấp
+bà Châu Thị Kiều Phương:Người	có Học hàm - Học vị	Thạc sĩ – Trường Đại Học Tổng Hợp thành phố Hồ Chí Minh:Bằng cấp
+bà Ngô Minh Trà:Người	có Học hàm - Học vị	Thạc sĩ – Vật lí kĩ thuật (Hướng Mạng tốc độ cao) – ĐHQG TP.HCM:Bằng cấp
+bà Tô Thị Tú Trang:Người	có Học hàm - Học vị	Thạc sĩ – Đại học Quốc Gia TP.HCM:Bằng cấp
+ông Lê Đức Nhã:Người	có Học hàm - Học vị	NCS, Thạc sĩ:Bằng cấp
+ông Vũ Hải Nam:Người	có Học hàm - Học vị	NCS, Thạc sĩ:Bằng cấp
+bà Trần Ngọc Quỳnh:Người	có Học hàm - Học vị	Master of Business Administration, Andrew University, Michigan,USA:Bằng cấp
+ông Trần Phong:Người	có Học hàm - Học vị	NCS, Thạc sĩ, Western Sydney University:Bằng cấp
+bà Nguyễn Quỳnh Phương:Người	có Học hàm - Học vị	NCS, Thạc sĩ:Bằng cấp
+ông Nguyễn Hữu Hảo:Người	thuộc lĩnh vực	Quản trị kinh doanh, Marketing, Quản trị đầu tư:Chuyên môn
+bà Trần Thị Trúc Lan:Người	thuộc lĩnh vực	Quản trị kinh doanh:Chuyên môn
+bà Ngụy Thị Sao Chi:Người	thuộc lĩnh vực	Kinh tế – Tài chính – Ngân hàng:Chuyên môn
+ông Nguyễn Quang Minh:Người	thuộc lĩnh vực	Thương mại điện tử:Chuyên môn
+ông Đặng Huỳnh Anh Duy:Người	thuộc lĩnh vực	Kinh doanh quốc tế:Chuyên môn
+bà Phạm Lệ Dung:Người	thuộc lĩnh vực	International Business:Chuyên môn
+bà Ngô Minh Trà:Người	thuộc lĩnh vực	Vật lí kĩ thuật (Hướng Mạng tốc độ cao):Chuyên môn
+bà Tô Thị Tú Trang:Người	thuộc lĩnh vực	Tài chính ngân hàng:Chuyên môn
+bà Trần Ngọc Quỳnh:Người	thuộc lĩnh vực	Kinh doanh quốc tế, Quản trị kinh doanh, Sale & Marketing, Digital Marketing,..:Chuyên môn
+ông Trần Phong:Người	thuộc lĩnh vực	Logistics, Kinh doanh quốc tế, Quản trị kinh doanh:Chuyên môn
+bà Nguyễn Quỳnh Phương:Người	thuộc lĩnh vực	Quản trị kinh doanh, quản lý công nghiệp:Chuyên môn
+ông Nguyễn Hữu Hảo:Người	có Email liên lạc là	hao.nguyenhuu@hoasen.edu.vn:Gmail
+bà Trần Thị Trúc Lan:Người	có Email liên lạc là	lan.tranthitruc@hoasen.edu.vn:Gmail
+bà Ngụy Thị Sao Chi:Người	có Email liên lạc là	chi.nguythisao@hoasen.edu.vn:Gmail
+ông Đặng Huỳnh Anh Duy:Người	có Email liên lạc là	duy.danghuynhanh@hoasen.edu.vn:Gmail
+bà Phạm Lệ Dung:Người	có Email liên lạc là	dung.phamle@hoasen.edu.vn:Gmail
+bà Châu Thị Kiều Phương:Người	có Email liên lạc là	phuong.chauthikieu@hoasen.edu.vn:Gmail
+bà Ngô Minh Trà:Người	có Email liên lạc là	tra.ngominh@hoasen.edu.vn:Gmail
+bà Tô Thị Tú Trang:Người	có Email liên lạc là	trang.tothitu@hoasen.edu.vn:Gmail
+ông Lê Đức Nhã:Người	có Email liên lạc là	nha.leduc@hoasen.edu.vn:Gmail
+ông Vũ Hải Nam:Người	có Email liên lạc là	nam.vuhai@hoasen.edu.vn:Gmail
+bà Trần Ngọc Quỳnh:Người	có Email liên lạc là	quynh.tranngoc@hoasen.edu.vn:Gmail
+ông Trần Phong:Người	có Email liên lạc là	phong.tran@hoasen.edu.vn:Gmail
+bà Nguyễn Quỳnh Phương:Người	có Email liên lạc là	phuong.nguyenquynh@hoasen.edu.vn:Gmail
+bà Bùi Cẩm Tú:Người	có Email liên lạc là	tu.buicam@hoasen.edu.vn:Gmail
+ông Nguyễn Văn Phước:Người	có Email liên lạc là	phuoc.nguyenvan@hoasen.edu.vn:Gmail
+ông Võ Tiến Tân:Người	có Email liên lạc là	tan.votien@hoasen.edu.vn:Gmail
+Khoa Công nghệ thông tin:Khoa	có ngành	Công nghệ thông tin:Ngành
+Khoa Công nghệ thông tin:Khoa	có ngành	Kỹ thuật phần mềm:Ngành
+Khoa Công nghệ thông tin:Khoa	có ngành	Trí tuệ nhân tạo:Ngành
+Khoa Công nghệ thông tin:Khoa	có trưởng khoa là	ông Lê Đình Phong:Người
+Khoa Công nghệ thông tin:Khoa	có phó trưởng khoa là	ông Phạm Hồng Thanh:Người
+Khoa Công nghệ thông tin:Khoa	có giám đốc chương trình Công nghệ thông tin là	ông Trang Hồng Sơn:Người
+Khoa Công nghệ thông tin:Khoa	có giám đốc chương trình Kỹ thuật phần mềm là	ông Nguyễn Văn Sơn:Người
+Khoa Công nghệ thông tin:Khoa	có giám đốc chương trình Trí tuệ nhân tạo là	ông Lê Thanh Tùng:Người
+Khoa Công nghệ thông tin:Khoa	có giám đốc chương trình Mạng máy tính và Truyền thông dữ liệu là	ông Lộc Đức Huy:Người
+Khoa Công nghệ thông tin:Khoa	có giám đốc chương trình Hệ thống thông tin quản lý là	bà Nguyễn Thị Thanh Thanh:Người
+Khoa Công nghệ thông tin:Khoa	có thư ký khoa là	bà Huỳnh Thị Mộng Châu:Người
+Khoa Công nghệ thông tin:Khoa	có chuyên viên - Truyền thông và Trải nghiệm sinh viên là	bà Nguyễn Trần Tâm Trúc:Người
+Khoa Công nghệ thông tin:Khoa	có cố vấn học tập là	bà Phạm Thị Nhật Anh:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	ông Phạm Ngọc Ánh:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	ông Nguyễn Lê Duy:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	ông Lâm Quốc Dũng:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	ông Đặng Công Tiên:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	bà Nguyễn Thị Thu Dự:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	ông Nguyễn Hữu Phát:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	bà Võ Thị Thu Hà:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	bà Nguyễn Ngọc Như Hằng:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	ông Nguyễn Phượng Hoàng:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	ông Phan Đình Thế Huân:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	bà Dương Tố Hương:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	ông Vũ Đình Khôi:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	ông Bùi Ngọc Lê:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	ông Phạm Văn Minh:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	bà Phạm Thị Kim Ngôn:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	bà Đặng Thanh Linh Phú:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	bà Nguyễn Thị Thanh Tâm:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	bà Phạm Thị Thanh Tâm:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	bà Trần Thị Trường Thi:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	ông Nguyễn Bá Trung:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	ông Nguyễn Ngọc Tú:Người
+Khoa Công nghệ thông tin:Khoa	có giảng viên là	ông Phan Hồng Trung:Người
+ông Lê Đình Phong:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+ông Phạm Hồng Thanh:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+ông Trang Hồng Sơn:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+ông Nguyễn Văn Sơn:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+ông Lê Thanh Tùng:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+ông Lộc Đức Huy:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+bà Nguyễn Thị Thanh Thanh:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+bà Huỳnh Thị Mộng Châu:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+bà Nguyễn Trần Tâm Trúc:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+bà Phạm Thị Nhật Anh:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+ông Phạm Ngọc Ánh:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+ông Nguyễn Lê Duy:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+ông Lâm Quốc Dũng:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+ông Đặng Công Tiên:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+bà Nguyễn Thị Thu Dự:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+ông Nguyễn Hữu Phát:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+bà Võ Thị Thu Hà:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+bà Nguyễn Ngọc Như Hằng:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+ông Nguyễn Phượng Hoàng:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+ông Phan Đình Thế Huân:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+bà Dương Tố Hương:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+ông Vũ Đình Khôi:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+ông Bùi Ngọc Lê:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+ông Phạm Văn Minh:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+bà Phạm Thị Kim Ngôn:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+bà Đặng Thanh Linh Phú:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+bà Nguyễn Thị Thanh Tâm:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+bà Phạm Thị Thanh Tâm:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+bà Trần Thị Trường Thi:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+ông Nguyễn Bá Trung:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+ông Nguyễn Ngọc Tú:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+ông Phan Hồng Trung:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Công nghệ thông tin:Khoa
+ông Lê Đình Phong:Người	là trưởng khoa của khoa	Công nghệ thông tin:Khoa
+ông Phạm Hồng Thanh:Người	là phó trưởng khoa của khoa	Công nghệ thông tin:Khoa
+ông Trang Hồng Sơn:Người	là giám đốc chương trình Công nghệ thông tin của khoa	Công nghệ thông tin:Khoa
+ông Nguyễn Văn Sơn:Người	là giám đốc chương trình Kỹ thuật phần mềm của khoa	Công nghệ thông tin:Khoa
+ông Lê Thanh Tùng:Người	là giám đốc chương trình Trí tuệ nhân tạo của khoa	Công nghệ thông tin:Khoa
+ông Lộc Đức Huy:Người	là giám đốc chương trình Mạng máy tính và Truyền thông dữ liệu của khoa	Công nghệ thông tin:Khoa
+bà Nguyễn Thị Thanh Thanh:Người	là giám đốc chương trình Hệ thống thông tin quản lý của khoa	Công nghệ thông tin:Khoa
+bà Huỳnh Thị Mộng Châu:Người	là thư ký khoa của khoa	Công nghệ thông tin:Khoa
+bà Nguyễn Trần Tâm Trúc:Người	là chuyên viên - Truyền thông và Trải nghiệm sinh viên của khoa	Công nghệ thông tin:Khoa
+bà Phạm Thị Nhật Anh:Người	là cố vấn học tập của khoa	Công nghệ thông tin:Khoa
+ông Phạm Ngọc Ánh:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+ông Nguyễn Lê Duy:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+ông Lâm Quốc Dũng:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+ông Đặng Công Tiên:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+bà Nguyễn Thị Thu Dự:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+ông Nguyễn Hữu Phát:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+bà Võ Thị Thu Hà:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+bà Nguyễn Ngọc Như Hằng:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+ông Nguyễn Phượng Hoàng:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+ông Phan Đình Thế Huân:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+bà Dương Tố Hương:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+ông Vũ Đình Khôi:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+ông Bùi Ngọc Lê:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+ông Phạm Văn Minh:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+bà Phạm Thị Kim Ngôn:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+bà Đặng Thanh Linh Phú:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+bà Nguyễn Thị Thanh Tâm:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+bà Phạm Thị Thanh Tâm:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+bà Trần Thị Trường Thi:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+ông Nguyễn Bá Trung:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+ông Nguyễn Ngọc Tú:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+ông Phan Hồng Trung:Người	là giảng viên của khoa	Công nghệ thông tin:Khoa
+ông Lê Đình Phong:Người	có Học hàm - Học vị	Tiến sĩ:Bằng cấp
+ông Phạm Hồng Thanh:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Trang Hồng Sơn:Người	có Học hàm - Học vị	Tiến sĩ:Bằng cấp
+ông Nguyễn Văn Sơn:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Lê Thanh Tùng:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Lộc Đức Huy:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Nguyễn Thị Thanh Thanh:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Huỳnh Thị Mộng Châu:Người	có Học hàm - Học vị	Cử nhân:Bằng cấp
+bà Nguyễn Trần Tâm Trúc:Người	có Học hàm - Học vị	Cử nhân:Bằng cấp
+bà Phạm Thị Nhật Anh:Người	có Học hàm - Học vị	Cử nhân:Bằng cấp
+ông Phạm Ngọc Ánh:Người	có Học hàm - Học vị	Tiến sĩ:Bằng cấp
+ông Nguyễn Lê Duy:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Lâm Quốc Dũng:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Đặng Công Tiên:Người	có Học hàm - Học vị	Cử nhân:Bằng cấp
+bà Nguyễn Thị Thu Dự:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Nguyễn Hữu Phát:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Võ Thị Thu Hà:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Nguyễn Ngọc Như Hằng:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Nguyễn Phượng Hoàng:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Phan Đình Thế Huân:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Dương Tố Hương:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Vũ Đình Khôi:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Bùi Ngọc Lê:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Phạm Văn Minh:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Phạm Thị Kim Ngôn:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Đặng Thanh Linh Phú:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Nguyễn Thị Thanh Tâm:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Phạm Thị Thanh Tâm:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Trần Thị Trường Thi:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Nguyễn Bá Trung:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Nguyễn Ngọc Tú:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Phan Hồng Trung:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Lê Đình Phong:Người	thuộc lĩnh vực	Robotics và Giao tiếp Người – Máy:Chuyên môn
+ông Phạm Hồng Thanh:Người	thuộc lĩnh vực	Khoa học máy tính:Chuyên môn
+ông Trang Hồng Sơn:Người	thuộc lĩnh vực	Công nghệ thông tin:Chuyên môn
+ông Nguyễn Văn Sơn:Người	thuộc lĩnh vực	Công nghệ thông tin:Chuyên môn
+ông Lê Thanh Tùng:Người	thuộc lĩnh vực	Trí tuệ nhân tạo:Chuyên môn
+ông Lộc Đức Huy:Người	thuộc lĩnh vực	Mạng máy tính và truyền thông dữ liệu:Chuyên môn
+bà Nguyễn Thị Thanh Thanh:Người	thuộc lĩnh vực	Hệ thống thông tin quản lý:Chuyên môn
+ông Phạm Ngọc Ánh:Người	thuộc lĩnh vực	Toán học:Chuyên môn
+ông Nguyễn Lê Duy:Người	thuộc lĩnh vực	Lý thuyết tối ưu:Chuyên môn
+ông Lâm Quốc Dũng:Người	thuộc lĩnh vực	Toán ứng dụng trong Kinh tế:Chuyên môn
+ông Đặng Công Tiên:Người	thuộc lĩnh vực	Toán Giải tích:Chuyên môn
+bà Nguyễn Thị Thu Dự:Người	thuộc lĩnh vực	Công nghệ phần mềm, Grid Computing, BioInformatics:Chuyên môn
+ông Nguyễn Hữu Phát:Người	thuộc lĩnh vực	Kỹ thuật phần mềm:Chuyên môn
+bà Nguyễn Ngọc Như Hằng:Người	thuộc lĩnh vực	Mạng máy tính và truyền thông dữ liệu:Chuyên môn
+ông Nguyễn Phượng Hoàng:Người	thuộc lĩnh vực	Kỹ thuật phần mềm:Chuyên môn
+ông Phan Đình Thế Huân:Người	thuộc lĩnh vực	Mạng máy tính và truyền thông dữ liệu:Chuyên môn
+bà Dương Tố Hương:Người	thuộc lĩnh vực	Công nghệ thông tin:Chuyên môn
+ông Vũ Đình Khôi:Người	thuộc lĩnh vực	Khoa học Máy tính:Chuyên môn
+ông Bùi Ngọc Lê:Người	thuộc lĩnh vực	Hệ thống thông tin:Chuyên môn
+ông Phạm Văn Minh:Người	thuộc lĩnh vực	Lý thuyết trò chơi, Kinh tế lượng, Kinh tế học:Chuyên môn
+bà Phạm Thị Kim Ngôn:Người	thuộc lĩnh vực	Hệ thống thông tin:Chuyên môn
+bà Đặng Thanh Linh Phú:Người	thuộc lĩnh vực	Khoa học máy tính:Chuyên môn
+bà Nguyễn Thị Thanh Tâm:Người	thuộc lĩnh vực	Hệ thống thông tin quản lý:Chuyên môn
+bà Phạm Thị Thanh Tâm:Người	thuộc lĩnh vực	Hệ thống thông tin quản lý:Chuyên môn
+bà Trần Thị Trường Thi:Người	thuộc lĩnh vực	Công nghệ thông tin:Chuyên môn
+ông Nguyễn Bá Trung:Người	thuộc lĩnh vực	Khoa học máy tinh:Chuyên môn
+ông Nguyễn Ngọc Tú:Người	thuộc lĩnh vực	Kỹ thuật phần mềm:Chuyên môn
+ông Phan Hồng Trung:Người	thuộc lĩnh vực	Công nghệ thông tin:Chuyên môn
+ông Lê Đình Phong:Người	có Email liên lạc là	phong.ledinh@hoasen.edu.vn:Gmail
+ông Phạm Hồng Thanh:Người	có Email liên lạc là	thanh.phamhong@hoasen.edu.vn:Gmail
+ông Trang Hồng Sơn:Người	có Email liên lạc là	son.tranghong@hoasen.edu.vn:Gmail
+ông Nguyễn Văn Sơn:Người	có Email liên lạc là	son.nguyenvan@hoasen.edu.vn:Gmail
+ông Lê Thanh Tùng:Người	có Email liên lạc là	tung.lethanh@hoasen.edu.vn:Gmail
+ông Lộc Đức Huy:Người	có Email liên lạc là	huy.locduc@hoasen.edu.vn:Gmail
+bà Nguyễn Thị Thanh Thanh:Người	có Email liên lạc là	thanh.nguyenthithanh@hoasen.edu.vn:Gmail
+bà Huỳnh Thị Mộng Châu:Người	có Email liên lạc là	chau.huynhthimong@hoasen.edu.vn:Gmail
+bà Nguyễn Trần Tâm Trúc:Người	có Email liên lạc là	truc.nguyentrantam@hoasen.edu.vn:Gmail
+bà Phạm Thị Nhật Anh:Người	có Email liên lạc là	anh.phamthinhat@hoasen.edu.vn:Gmail
+ông Phạm Ngọc Ánh:Người	có Email liên lạc là	anh.phamngoc@hoasen.edu.vn:Gmail
+ông Nguyễn Lê Duy:Người	có Email liên lạc là	duy.nguyenle@hoasen.edu.vn:Gmail
+ông Lâm Quốc Dũng:Người	có Email liên lạc là	dung.lamquoc@hoasen.edu.vn:Gmail
+ông Đặng Công Tiên:Người	có Email liên lạc là	tien.dangcong@hoasen.edu.vn:Gmail
+bà Nguyễn Thị Thu Dự:Người	có Email liên lạc là	du.nguyenthithu@hoasen.edu.vn:Gmail
+ông Nguyễn Hữu Phát:Người	có Email liên lạc là	phat.nguyenhuu@hoasen.edu.vn:Gmail
+bà Võ Thị Thu Hà:Người	có Email liên lạc là	ha.vothithu@hoasen.edu.vn:Gmail
+bà Nguyễn Ngọc Như Hằng:Người	có Email liên lạc là	hang.nguyenngocnhu@hoasen.edu.vn:Gmail
+ông Nguyễn Phượng Hoàng:Người	có Email liên lạc là	Hoang.NguyenPhuong@hoasen.edu.vn:Gmail
+ông Phan Đình Thế Huân:Người	có Email liên lạc là	huan.phandinhthe@hoasen.edu.vn:Gmail
+bà Dương Tố Hương:Người	có Email liên lạc là	huong.duongto@hoasen.edu.vn:Gmail
+ông Vũ Đình Khôi:Người	có Email liên lạc là	khoi.vudinh@hoasen.edu.vn:Gmail
+ông Bùi Ngọc Lê:Người	có Email liên lạc là	le.buingoc@hoasen.edu.vn:Gmail
+ông Phạm Văn Minh:Người	có Email liên lạc là	minh.phamvan@hoasen.edu.vn:Gmail
+bà Phạm Thị Kim Ngôn:Người	có Email liên lạc là	ngon.phamthikim@hoasen.edu.vn:Gmail
+bà Đặng Thanh Linh Phú:Người	có Email liên lạc là	phu.dangthanhlinh@hoasen.edu.vn:Gmail
+bà Nguyễn Thị Thanh Tâm:Người	có Email liên lạc là	tam.nguyenthithanh@hoasen.edu.vn:Gmail
+bà Phạm Thị Thanh Tâm:Người	có Email liên lạc là	tam.phamthithanh@hoasen.edu.vn:Gmail
+bà Trần Thị Trường Thi:Người	có Email liên lạc là	thi.tranthitruong@hoasen.edu.vn:Gmail
+ông Nguyễn Bá Trung:Người	có Email liên lạc là	trung.nguyenba@hoasen.edu.vn:Gmail
+ông Nguyễn Ngọc Tú:Người	có Email liên lạc là	tu.nguyenngoc@hoasen.edu.vn:Gmail
+ông Phan Hồng Trung:Người	có Email liên lạc là	trung.phanhong@hoasen.edu.vn:Gmail
+Khoa Thiết kế - Nghệ thuật:Khoa	có ngành	Thiết kế thời trang:Ngành
+Khoa Thiết kế - Nghệ thuật:Khoa	có ngành	Thiết kế đồ họa:Ngành
+Khoa Thiết kế - Nghệ thuật:Khoa	có ngành	Thiết kế nội thất:Ngành
+Khoa Thiết kế - Nghệ thuật:Khoa	có ngành	Quản trị Công nghệ truyền thông:Ngành
+Khoa Thiết kế - Nghệ thuật:Khoa	có ngành	Quan hệ Công chúng:Ngành
+Khoa Thiết kế - Nghệ thuật:Khoa	có ngành	Nghệ thuật số:Ngành
+Khoa Thiết kế - Nghệ thuật:Khoa	có ngành	Phim:Ngành
+Khoa Thiết kế - Nghệ thuật:Khoa	có trưởng khoa là	ông Từ Phú Đức:Người
+Khoa Thiết kế - Nghệ thuật:Khoa	có Chuyên viên – Thư ký Khoa (phụ trách BM Thiết kế Nội thất) là	bà Nguyễn Thị Vân:Người
+Khoa Thiết kế - Nghệ thuật:Khoa	có Chuyên viên – Thư ký Khoa (phụ trách BM Thiết kế Đồ họa và Nghệ Thuật số) là	bà Nguyễn Thị Thu Ngọc:Người
+Khoa Thiết kế - Nghệ thuật:Khoa	có Chuyên viên Truyền thông và Quan hệ Doanh nghiệp là	bà Nguyễn Nhật Thiếu Anh:Người
+Khoa Thiết kế - Nghệ thuật:Khoa	có Giảng viên ngành Thiết kế Thời trang (kiêm nhiệm TK Ngành Thiết Kế Thời Trang) là	bà Đinh Thị Hải Yến:Người
+Khoa Thiết kế - Nghệ thuật:Khoa	có Giảng viên Bộ môn Nghệ thuật Cơ sở là	ông Lê Xuân Giang:Người
+Khoa Thiết kế - Nghệ thuật:Khoa	có Giảng viên Bộ môn Nghệ thuật Cơ sở là	ông Biện Xuân Trường:Người
+Khoa Thiết kế - Nghệ thuật:Khoa	có Giảng viên Bộ môn Nghệ thuật Cơ sở là	bà Nguyễn Thị Thương Thương:Người
+Khoa Thiết kế - Nghệ thuật:Khoa	có Giảng viên Bộ môn Nghệ thuật Cơ sở là	bà Nguyễn Thị Điệp:Người
+Khoa Thiết kế - Nghệ thuật:Khoa	có Giám đốc Chương trình Thiết kế Thời trang là	bà Hồ Điệp Thụy Vũ:Người
+Khoa Thiết kế - Nghệ thuật:Khoa	có Giảng viên ngành Thiết kế Thời trang là	bà Lê Vũ Phương Thủy:Người
+Khoa Thiết kế - Nghệ thuật:Khoa	có Giảng viên ngành Thiết kế Thời trang là	bà La Thị Tuyết Mai:Người
+Khoa Thiết kế - Nghệ thuật:Khoa	có Giảng viên ngành Thiết kế Thời trang là	bà Bùi Ngọc Thùy Trang:Người
+Khoa Thiết kế - Nghệ thuật:Khoa	có Giảng viên ngành Thiết kế Thời trang là	ông Trần Minh Nhựt:Người
+Khoa Thiết kế - Nghệ thuật:Khoa	có Giám Đốc Chương Trình Thiết kế Đồ họa là	bà Nguyễn Dương Quỳnh Anh:Người
+Khoa Thiết kế - Nghệ thuật:Khoa	có Giảng viên Ngành Thiết kế Đồ họa là	ông Nguyễn Long:Người
+Khoa Thiết kế - Nghệ thuật:Khoa	có Giảng viên ngành Thiết kế Đồ họa là	bà Nguyễn Thị Lan Trúc:Người
+Khoa Thiết kế - Nghệ thuật:Khoa	có Giảng viên ngành Thiết kế Đồ họa là	bà Trần Thị Nhật Trâm:Người
+Khoa Thiết kế - Nghệ thuật:Khoa	có Giảng viên ngành Thiết kế Đồ họa là	bà Phan Thị Kiều My:Người
+Khoa Thiết kế - Nghệ thuật:Khoa	có Giảng viên ngành Thiết kế Đồ họa là	bà Hoàng Lê Thiên Hương:Người
+Khoa Thiết kế - Nghệ thuật:Khoa	có Giảng viên ngành Thiết kế Đồ họa là	ông Lê Minh Thành:Người
+Khoa Thiết kế - Nghệ thuật:Khoa	có Giảng viên ngành Thiết kế Đồ họa là	bà Nguyễn Ngọc Minh Như:Người
+Khoa Thiết kế - Nghệ thuật:Khoa	có Trợ lý Trưởng Khoa, Giám đốc Chương trình Thiết Kế Nội Thất là	bà Dương Ngọc Quỳnh Lâm:Người
+Khoa Thiết kế - Nghệ thuật:Khoa	có Giảng viên Ngành Thiết kế Nội thất là	ông Trần Minh Đức:Người
+Khoa Thiết kế - Nghệ thuật:Khoa	có Giảng viên Ngành Thiết kế Nội thất là	bà Hà Thị Hoài Thu:Người
+Khoa Thiết kế - Nghệ thuật:Khoa	có Giảng viên Ngành Thiết kế Nội thất là	bà Nguyễn Thị Thúy Hà:Người
+Khoa Thiết kế - Nghệ thuật:Khoa	có Giảng viên Ngành Thiết kế Nội thất là	ông Ngô Hùng Dũng:Người
+Khoa Thiết kế - Nghệ thuật:Khoa	có Giám đốc Chương trình Nghệ thuật số là	ông Phan Vũ Linh:Người
+Khoa Thiết kế - Nghệ thuật:Khoa	có Giảng viên Chương trình Nghệ thuật Số là	ông Võ Anh Tuấn:Người
+Khoa Thiết kế - Nghệ thuật:Khoa	có Giảng viên Chương trình Nghệ thuật Số là	ông Nguyễn Phước Thiện:Người
+Khoa Thiết kế - Nghệ thuật:Khoa	có Giám đốc Chương trình Quản trị Công nghệ Truyền thông là	bà Nguyễn Thị Thanh Huyền:Người
+Khoa Thiết kế - Nghệ thuật:Khoa	có Giảng viên Ngành Quản trị Công nghệ Truyền thông là	bà Phạm Thu Hằng:Người
+Khoa Thiết kế - Nghệ thuật:Khoa	có Giảng viên Ngành Quản trị Công nghệ Truyền thông là	bà Nguyễn Thị Anh Thư:Người
+Khoa Thiết kế - Nghệ thuật:Khoa	có Giảng viên Ngành Quản trị Công nghệ Truyền thông là	bà Lê Vũ Phương Thủy:Người
+Khoa Thiết kế - Nghệ thuật:Khoa	có Giảng viên Ngành Quản trị Công nghệ Truyền thông là	bà Quản Phương Thanh:Người
+Khoa Thiết kế - Nghệ thuật:Khoa	có Giảng viên Ngành Quản trị Công nghệ Truyền thông là	bà Dư Trần Ý Nhi:Người
+Khoa Thiết kế - Nghệ thuật:Khoa	có Giảng viên Ngành Quản trị Công nghệ Truyền thông là	bà Trần Thị Hải Yến:Người
+Khoa Thiết kế - Nghệ thuật:Khoa	có Giảng viên Ngành Quản trị Công nghệ Truyền thông là	ông Nguyễn Tăng Minh:Người
+Khoa Thiết kế - Nghệ thuật:Khoa	có Giảng viên Ngành Quản trị Công nghệ Truyền thông là	ông Đoàn Tuấn Đức:Người
+Khoa Thiết kế - Nghệ thuật:Khoa	có Giảng viên Ngành Phim – Thiết kế Đa Phương tiện là	ông Lý Quang Vinh:Người
+ông Từ Phú Đức:Người	thuộc đội ngũ FADA của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Nguyễn Thị Vân:Người	thuộc đội ngũ FADA của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Nguyễn Thị Thu Ngọc:Người	thuộc đội ngũ FADA của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Nguyễn Nhật Thiếu Anh:Người	thuộc đội ngũ FADA của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Đinh Thị Hải Yến:Người	thuộc đội ngũ FADA của khoa	Thiết kế - Nghệ thuật:Khoa
+ông Lê Xuân Giang:Người	thuộc đội ngũ FADA của khoa	Thiết kế - Nghệ thuật:Khoa
+ông Biện Xuân Trường:Người	thuộc đội ngũ FADA của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Nguyễn Thị Thương Thương:Người	thuộc đội ngũ FADA của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Nguyễn Thị Điệp:Người	thuộc đội ngũ FADA của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Hồ Điệp Thụy Vũ:Người	thuộc đội ngũ FADA của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Lê Vũ Phương Thủy:Người	thuộc đội ngũ FADA của khoa	Thiết kế - Nghệ thuật:Khoa
+bà La Thị Tuyết Mai:Người	thuộc đội ngũ FADA của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Bùi Ngọc Thùy Trang:Người	thuộc đội ngũ FADA của khoa	Thiết kế - Nghệ thuật:Khoa
+ông Trần Minh Nhựt:Người	thuộc đội ngũ FADA của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Nguyễn Dương Quỳnh Anh:Người	thuộc đội ngũ FADA của khoa	Thiết kế - Nghệ thuật:Khoa
+ông Nguyễn Long:Người	thuộc đội ngũ FADA của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Nguyễn Thị Lan Trúc:Người	thuộc đội ngũ FADA của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Trần Thị Nhật Trâm:Người	thuộc đội ngũ FADA của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Phan Thị Kiều My:Người	thuộc đội ngũ FADA của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Hoàng Lê Thiên Hương:Người	thuộc đội ngũ FADA của khoa	Thiết kế - Nghệ thuật:Khoa
+ông Lê Minh Thành:Người	thuộc đội ngũ FADA của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Nguyễn Ngọc Minh Như:Người	thuộc đội ngũ FADA của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Dương Ngọc Quỳnh Lâm:Người	thuộc đội ngũ FADA của khoa	Thiết kế - Nghệ thuật:Khoa
+ông Trần Minh Đức:Người	thuộc đội ngũ FADA của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Hà Thị Hoài Thu:Người	thuộc đội ngũ FADA của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Nguyễn Thị Thúy Hà:Người	thuộc đội ngũ FADA của khoa	Thiết kế - Nghệ thuật:Khoa
+ông Ngô Hùng Dũng:Người	thuộc đội ngũ FADA của khoa	Thiết kế - Nghệ thuật:Khoa
+ông Phan Vũ Linh:Người	thuộc đội ngũ FADA của khoa	Thiết kế - Nghệ thuật:Khoa
+ông Võ Anh Tuấn:Người	thuộc đội ngũ FADA của khoa	Thiết kế - Nghệ thuật:Khoa
+ông Nguyễn Phước Thiện:Người	thuộc đội ngũ FADA của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Nguyễn Thị Thanh Huyền:Người	thuộc đội ngũ FADA của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Phạm Thu Hằng:Người	thuộc đội ngũ FADA của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Nguyễn Thị Anh Thư:Người	thuộc đội ngũ FADA của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Lê Vũ Phương Thủy:Người	thuộc đội ngũ FADA của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Quản Phương Thanh:Người	thuộc đội ngũ FADA của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Dư Trần Ý Nhi:Người	thuộc đội ngũ FADA của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Trần Thị Hải Yến:Người	thuộc đội ngũ FADA của khoa	Thiết kế - Nghệ thuật:Khoa
+ông Nguyễn Tăng Minh:Người	thuộc đội ngũ FADA của khoa	Thiết kế - Nghệ thuật:Khoa
+ông Đoàn Tuấn Đức:Người	thuộc đội ngũ FADA của khoa	Thiết kế - Nghệ thuật:Khoa
+ông Lý Quang Vinh:Người	thuộc đội ngũ FADA của khoa	Thiết kế - Nghệ thuật:Khoa
+ông Từ Phú Đức:Người	là trưởng khoa của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Nguyễn Thị Vân:Người	là Chuyên viên – Thư ký Khoa (phụ trách BM Thiết kế Nội thất) của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Nguyễn Thị Thu Ngọc:Người	là Chuyên viên – Thư ký Khoa (phụ trách BM Thiết kế Đồ họa và Nghệ Thuật số) của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Nguyễn Nhật Thiếu Anh:Người	là Chuyên viên Truyền thông và Quan hệ Doanh nghiệp của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Đinh Thị Hải Yến:Người	là Giảng viên ngành Thiết kế Thời trang (kiêm nhiệm TK Ngành Thiết Kế Thời Trang) của khoa	Thiết kế - Nghệ thuật:Khoa
+ông Lê Xuân Giang:Người	là Giảng viên Bộ môn Nghệ thuật Cơ sở của khoa	Thiết kế - Nghệ thuật:Khoa
+ông Biện Xuân Trường:Người	là Giảng viên Bộ môn Nghệ thuật Cơ sở của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Nguyễn Thị Thương Thương:Người	là Giảng viên Bộ môn Nghệ thuật Cơ sở của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Nguyễn Thị Điệp:Người	là Giảng viên Bộ môn Nghệ thuật Cơ sở của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Hồ Điệp Thụy Vũ:Người	là Giám đốc Chương trình Thiết kế Thời trang của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Lê Vũ Phương Thủy:Người	là Giảng viên ngành Thiết kế Thời trang của khoa	Thiết kế - Nghệ thuật:Khoa
+bà La Thị Tuyết Mai:Người	là Giảng viên ngành Thiết kế Thời trang của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Bùi Ngọc Thùy Trang:Người	là Giảng viên ngành Thiết kế Thời trang của khoa	Thiết kế - Nghệ thuật:Khoa
+ông Trần Minh Nhựt:Người	là Giảng viên ngành Thiết kế Thời trang của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Nguyễn Dương Quỳnh Anh:Người	là Giám Đốc Chương Trình Thiết kế Đồ họa của khoa	Thiết kế - Nghệ thuật:Khoa
+ông Nguyễn Long:Người	là Giảng viên Ngành Thiết kế Đồ họa của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Nguyễn Thị Lan Trúc:Người	là Giảng viên ngành Thiết kế Đồ họa của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Trần Thị Nhật Trâm:Người	là Giảng viên ngành Thiết kế Đồ họa của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Phan Thị Kiều My:Người	là Giảng viên ngành Thiết kế Đồ họa của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Hoàng Lê Thiên Hương:Người	là Giảng viên ngành Thiết kế Đồ họa của khoa	Thiết kế - Nghệ thuật:Khoa
+ông Lê Minh Thành:Người	là Giảng viên ngành Thiết kế Đồ họa của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Nguyễn Ngọc Minh Như:Người	là Giảng viên ngành Thiết kế Đồ họa của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Dương Ngọc Quỳnh Lâm:Người	là Trợ lý Trưởng Khoa, Giám đốc Chương trình Thiết Kế Nội Thất của khoa	Thiết kế - Nghệ thuật:Khoa
+ông Trần Minh Đức:Người	là Giảng viên Ngành Thiết kế Nội thất của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Hà Thị Hoài Thu:Người	là Giảng viên Ngành Thiết kế Nội thất của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Nguyễn Thị Thúy Hà:Người	là Giảng viên Ngành Thiết kế Nội thất của khoa	Thiết kế - Nghệ thuật:Khoa
+ông Ngô Hùng Dũng:Người	là Giảng viên Ngành Thiết kế Nội thất của khoa	Thiết kế - Nghệ thuật:Khoa
+ông Phan Vũ Linh:Người	là Giám đốc Chương trình Nghệ thuật số của khoa	Thiết kế - Nghệ thuật:Khoa
+ông Võ Anh Tuấn:Người	là Giảng viên Chương trình Nghệ thuật Số của khoa	Thiết kế - Nghệ thuật:Khoa
+ông Nguyễn Phước Thiện:Người	là Giảng viên Chương trình Nghệ thuật Số của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Nguyễn Thị Thanh Huyền:Người	là Giám đốc Chương trình Quản trị Công nghệ Truyền thông của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Phạm Thu Hằng:Người	là Giảng viên Ngành Quản trị Công nghệ Truyền thông của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Nguyễn Thị Anh Thư:Người	là Giảng viên Ngành Quản trị Công nghệ Truyền thông của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Lê Vũ Phương Thủy:Người	là Giảng viên Ngành Quản trị Công nghệ Truyền thông của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Quản Phương Thanh:Người	là Giảng viên Ngành Quản trị Công nghệ Truyền thông của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Dư Trần Ý Nhi:Người	là Giảng viên Ngành Quản trị Công nghệ Truyền thông của khoa	Thiết kế - Nghệ thuật:Khoa
+bà Trần Thị Hải Yến:Người	là Giảng viên Ngành Quản trị Công nghệ Truyền thông của khoa	Thiết kế - Nghệ thuật:Khoa
+ông Nguyễn Tăng Minh:Người	là Giảng viên Ngành Quản trị Công nghệ Truyền thông của khoa	Thiết kế - Nghệ thuật:Khoa
+ông Đoàn Tuấn Đức:Người	là Giảng viên Ngành Quản trị Công nghệ Truyền thông của khoa	Thiết kế - Nghệ thuật:Khoa
+ông Lý Quang Vinh:Người	là Giảng viên Ngành Phim – Thiết kế Đa Phương tiện của khoa	Thiết kế - Nghệ thuật:Khoa
+Khoa Du lịch - Nhà hàng - Khách sạn:Khoa	có ngành	Quản trị dịch vụ du lịch và lữ hành:Ngành
+Khoa Du lịch - Nhà hàng - Khách sạn:Khoa	có ngành	Quản trị Khách sạn:Ngành
+Khoa Du lịch - Nhà hàng - Khách sạn:Khoa	có ngành	Nhà hàng và dịch vụ ăn uống:Ngành
+Khoa Du lịch - Nhà hàng - Khách sạn:Khoa	có ngành	Quản trị sự kiện:Ngành
+Khoa Du lịch - Nhà hàng - Khách sạn:Khoa	có Trưởng Khoa là	bà Trương Thị Hồng Minh:Người
+Khoa Du lịch - Nhà hàng - Khách sạn:Khoa	có Phó trưởng Khoa là	bà Lâm Thị Thanh Vân:Người
+Khoa Du lịch - Nhà hàng - Khách sạn:Khoa	có Giám đốc Chương trình Quản trị Khách sạn là	bà Vòng Chánh Kiếu:Người
+Khoa Du lịch - Nhà hàng - Khách sạn:Khoa	có Giám đốc Chương trình Quản trị sự kiện là	bà Lê Âu Ngân Anh:Người
+Khoa Du lịch - Nhà hàng - Khách sạn:Khoa	có Giám đốc chương trình Quản trị Du lịch & Dịch vụ Lữ hành là	ông Trần Ngọc Tiến:Người
+Khoa Du lịch - Nhà hàng - Khách sạn:Khoa	có Giám đốc chương trình Hoa Sen Elite là	ông Nguyễn Thiên Trường:Người
+Khoa Du lịch - Nhà hàng - Khách sạn:Khoa	có Giảng viên là	bà Ngô Tuyết Diễm Khánh:Người
+Khoa Du lịch - Nhà hàng - Khách sạn:Khoa	có Giảng viên là	ông Lê Minh Phương:Người
+Khoa Du lịch - Nhà hàng - Khách sạn:Khoa	có Giảng viên là	bà Nguyễn Thị Trung Trinh:Người
+Khoa Du lịch - Nhà hàng - Khách sạn:Khoa	có Giảng viên là	bà Lê Mộng Diễm Hằng:Người
+Khoa Du lịch - Nhà hàng - Khách sạn:Khoa	có Giảng viên là	ông Nguyễn Thành Nam:Người
+Khoa Du lịch - Nhà hàng - Khách sạn:Khoa	có Giảng viên là	bà Trần Thị Tường Vi:Người
+Khoa Du lịch - Nhà hàng - Khách sạn:Khoa	có Giảng viên là	bà Lê Nguyễn Tường Vy:Người
+Khoa Du lịch - Nhà hàng - Khách sạn:Khoa	có Giảng viên là	ông Đặng Bá Hoài:Người
+Khoa Du lịch - Nhà hàng - Khách sạn:Khoa	có Giảng viên là	ông Trần Việt Vương:Người
+Khoa Du lịch - Nhà hàng - Khách sạn:Khoa	có Giảng viên là	bà Võ Thị Thu Hà:Người
+Khoa Du lịch - Nhà hàng - Khách sạn:Khoa	có Giảng viên là	bà Đậu Thị Ngọc Phụng:Người
+Khoa Du lịch - Nhà hàng - Khách sạn:Khoa	có Giảng viên là	bà Mai Kim Thoa:Người
+Khoa Du lịch - Nhà hàng - Khách sạn:Khoa	có Thư ký là	bà Phạm Thị Hồng Ngọc:Người
+Khoa Du lịch - Nhà hàng - Khách sạn:Khoa	có Thư ký là	bà Đỗ Thị Ngọc:Người
+Khoa Du lịch - Nhà hàng - Khách sạn:Khoa	có Thư ký là	bà Trần Thị Kim Ấn:Người
+Khoa Du lịch - Nhà hàng - Khách sạn:Khoa	có Nhân viên truyền thông và trải nghiệm sinh viên là	bà Trần Thị Thùy Dung:Người
+Khoa Du lịch - Nhà hàng - Khách sạn:Khoa	có Chuyên viên quan hệ doanh nghiệp là	ông Lương Hoàng Phú:Người
+Khoa Du lịch - Nhà hàng - Khách sạn:Khoa	có Nhân viên Cố vấn học tập là	bà Lê Ngọc Quỳnh Như:Người
+Khoa Du lịch - Nhà hàng - Khách sạn:Khoa	có Nhân viên Tuyển sinh chương trình Hoa Sen Elite là	ông Vũ Trần Anh Khoa:Người
+bà Trương Thị Hồng Minh:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+bà Lâm Thị Thanh Vân:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+bà Vòng Chánh Kiếu:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+bà Lê Âu Ngân Anh:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+ông Trần Ngọc Tiến:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+ông Nguyễn Thiên Trường:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+bà Ngô Tuyết Diễm Khánh:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+ông Lê Minh Phương:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+bà Nguyễn Thị Trung Trinh:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+bà Lê Mộng Diễm Hằng:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+ông Nguyễn Thành Nam:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+bà Trần Thị Tường Vi:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+bà Lê Nguyễn Tường Vy:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+ông Đặng Bá Hoài:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+ông Trần Việt Vương:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+bà Võ Thị Thu Hà:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+bà Đậu Thị Ngọc Phụng:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+bà Mai Kim Thoa:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+bà Phạm Thị Hồng Ngọc:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+bà Đỗ Thị Ngọc:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+bà Trần Thị Kim Ấn:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+bà Trần Thị Thùy Dung:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+ông Lương Hoàng Phú:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+bà Lê Ngọc Quỳnh Như:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+ông Vũ Trần Anh Khoa:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+bà Trương Thị Hồng Minh:Người	là Trưởng Khoa của khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+bà Lâm Thị Thanh Vân:Người	là Phó trưởng Khoa của khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+bà Vòng Chánh Kiếu:Người	là Giám đốc Chương trình Quản trị Khách sạn của khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+bà Lê Âu Ngân Anh:Người	là Giám đốc Chương trình Quản trị sự kiện của khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+ông Trần Ngọc Tiến:Người	là Giám đốc chương trình Quản trị Du lịch & Dịch vụ Lữ hành của khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+ông Nguyễn Thiên Trường:Người	là Giám đốc chương trình Hoa Sen Elite của khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+bà Ngô Tuyết Diễm Khánh:Người	là Giảng viên của khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+ông Lê Minh Phương:Người	là Giảng viên của khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+bà Nguyễn Thị Trung Trinh:Người	là Giảng viên của khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+bà Lê Mộng Diễm Hằng:Người	là Giảng viên của khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+ông Nguyễn Thành Nam:Người	là Giảng viên của khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+bà Trần Thị Tường Vi:Người	là Giảng viên của khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+bà Lê Nguyễn Tường Vy:Người	là Giảng viên của khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+ông Đặng Bá Hoài:Người	là Giảng viên của khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+ông Trần Việt Vương:Người	là Giảng viên của khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+bà Võ Thị Thu Hà:Người	là Giảng viên của khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+bà Đậu Thị Ngọc Phụng:Người	là Giảng viên của khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+bà Mai Kim Thoa:Người	là Giảng viên của khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+bà Phạm Thị Hồng Ngọc:Người	là Thư ký của khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+bà Đỗ Thị Ngọc:Người	là Thư ký của khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+bà Trần Thị Kim Ấn:Người	là Thư ký của khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+bà Trần Thị Thùy Dung:Người	là Nhân viên truyền thông và trải nghiệm sinh viên của khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+ông Lương Hoàng Phú:Người	là Chuyên viên quan hệ doanh nghiệp của khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+bà Lê Ngọc Quỳnh Như:Người	là Nhân viên Cố vấn học tập của khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+ông Vũ Trần Anh Khoa:Người	là Nhân viên Tuyển sinh chương trình Hoa Sen Elite của khoa	Du lịch - Nhà hàng - Khách sạn:Khoa
+bà Trương Thị Hồng Minh:Người	có Học hàm - Học vị	Tiến sĩ:Bằng cấp
+bà Lâm Thị Thanh Vân:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Vòng Chánh Kiếu:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Lê Âu Ngân Anh:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Trần Ngọc Tiến:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Nguyễn Thiên:Người Trường	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Ngô Tuyết Diễm Khánh:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Lê Minh Phương:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Nguyễn Thị Trung Trinh:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Lê Mộng Diễm Hằng:Người	có Học hàm - Học vị	Tiến sĩ:Bằng cấp
+ông Nguyễn Thành Nam:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Trần Thị Tường Vi:Người	có Học hàm - Học vị	Tiến sĩ:Bằng cấp
+bà Lê Nguyễn Tường Vy:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Đặng Bá Hoài:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Trần Việt Vương:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Võ Thị Thu Hà:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Đậu Thị Ngọc Phụng:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Mai Kim Thoa:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Phạm Thị Hồng Ngọc:Người	có Học hàm - Học vị	Cử nhân:Bằng cấp
+bà Đỗ Thị Ngọc:Người	có Học hàm - Học vị	Cử nhân:Bằng cấp
+bà Trần Thị Kim Ấn:Người	có Học hàm - Học vị	Cử nhân:Bằng cấp
+bà Trần Thị Thùy Dung:Người	có Học hàm - Học vị	Cử nhân:Bằng cấp
+ông Lương Hoàng Phú:Người	có Học hàm - Học vị	Cử nhân:Bằng cấp
+bà Lê Ngọc Quỳnh Như:Người	có Học hàm - Học vị	Cử nhân:Bằng cấp
+ông Vũ Trần Anh Khoa:Người	có Học hàm - Học vị	Cử nhân:Bằng cấp
+bà Trương Thị Hồng Minh:Người	thuộc chuyên môn	Du lịch bền vững, Quy hoạch du lịch:Chuyên môn
+bà Lâm Thị Thanh Vân:Người	thuộc chuyên môn	Trải nghiệm khách hàng; Dịch vụ khách hàng; Quản lý vận hành:Chuyên môn
+bà Vòng Chánh Kiếu:Người	thuộc chuyên môn	Quản trị khách sạn, Marketing, Quản trị doanh thu:Chuyên môn
+bà Lê Âu Ngân Anh:Người	thuộc chuyên môn	Quản trị Sự kiện, Quản trị Khách sạn & Du lịch:Chuyên môn
+ông Trần Ngọc Tiến:Người	thuộc chuyên môn	Tourism product development, M.I.C.E Management, Destination management, Finance in Tourism:Chuyên môn
+ông Nguyễn Thiên Trường:Người	thuộc chuyên môn	Quản trị khách sạn, Chăm sóc khách hàng, Hành vi khách hàng:Chuyên môn
+bà Ngô Tuyết Diễm Khánh:Người	thuộc chuyên môn	Customer service, Food & Beverage operation & management, Hotel Operation….:Chuyên môn
+ông Lê Minh Phương:Người	thuộc chuyên môn	International Tourism, Tour Operation:Chuyên môn
+bà Nguyễn Thị Trung Trinh:Người	thuộc chuyên môn	Quản trị sự kiện:Chuyên môn
+ông Nguyễn Thành Nam:Người	thuộc chuyên môn	Kinh tế học trong Du lịch và KS – NH, Tourism Management:Chuyên môn
+bà Trần Thị Tường Vi:Người	thuộc chuyên môn	Hotel planning & management, Reservation & Revenue Management, Global Distribution System, Marketing and Branding in Tourism and Hospitality:Chuyên môn
+bà Lê Nguyễn Tường Vy:Người	thuộc chuyên môn	Sinh học:Chuyên môn
+ông Đặng Bá Hoài:Người	thuộc chuyên môn	Food & Beverages – Hospitality – Luxury Management – Guest Experience:Chuyên môn
+ông Trần Việt Vương:Người	thuộc chuyên môn	Quản trị Phòng, Quản trị Tiền Sảnh, Quản trị Lưu trú.:Chuyên môn
+bà Võ Thị Thu Hà:Người	thuộc chuyên môn	Chế biến món ăn; An toàn vệ sinh thực phẩm:Chuyên môn
+bà Đậu Thị Ngọc Phụng:Người	thuộc chuyên môn	Events, Catering, Hospitality, Public Speaking, Leadership:Chuyên môn
+bà Mai Kim Thoa:Người	thuộc chuyên môn	Quản trị khách sạn, Marketing:Chuyên môn
+bà Phạm Thị Hồng Ngọc:Người	thuộc chuyên môn	Quản trị văn phòng:Chuyên môn
+bà Đỗ Thị Ngọc:Người	thuộc chuyên môn	Quản trị văn phòng:Chuyên môn
+bà Trần Thị Kim Ấn:Người	thuộc chuyên môn	Quản trị văn phòng:Chuyên môn
+bà Trương Thị Hồng Minh:Người	có Email liên lạc là	minh.truongthihong@hoasen.edu.vn:Gmail
+bà Lâm Thị Thanh Vân:Người	có Email liên lạc là	van.lamthithanh@hoasen.edu.vn:Gmail
+bà Vòng Chánh Kiếu:Người	có Email liên lạc là	kieu.vongchanh@hoasen.edu.vn:Gmail
+bà Lê Âu Ngân Anh:Người	có Email liên lạc là	anh.leaungan@hoasen.edu.vn:Gmail
+ông Trần Ngọc Tiến:Người	có Email liên lạc là	tien.tranngoc2864@hoasen.edu.vn:Gmail
+ông Nguyễn Thiên Trường:Người	có Email liên lạc là	truong.nguyenthien@hoasen.edu.vn:Gmail
+bà Ngô Tuyết Diễm Khánh:Người	có Email liên lạc là	khanh.ngotuyetdiem@hoasen.edu.vn:Gmail
+ông Lê Minh Phương:Người	có Email liên lạc là	phuong.leminh@hoasen.edu.vn:Gmail
+bà Nguyễn Thị Trung Trinh:Người	có Email liên lạc là	trinh.nguyenthitrung@hoasen.edu.vn:Gmail
+bà Lê Mộng Diễm Hằng:Người	có Email liên lạc là	hang.lemongdiem@hoasen.edu.vn:Gmail
+ông Nguyễn Thành Nam:Người	có Email liên lạc là	nam.nguyenthanh@hoasen.edu.vn:Gmail
+bà Trần Thị Tường Vi:Người	có Email liên lạc là	Vi.tranthituong@hoasen.edu.vn:Gmail
+bà Lê Nguyễn Tường Vy:Người	có Email liên lạc là	vy.lenguyentuong[at]hoasen.edu.vn:Gmail
+ông Đặng Bá Hoài:Người	có Email liên lạc là	hoai.dangba@hoasen.edu.vn:Gmail
+ông Trần Việt Vương:Người	có Email liên lạc là	vuong.tranviet[at]hoasen.edu.vn:Gmail
+bà Võ Thị Thu Hà:Người	có Email liên lạc là	ha.vothithu0855@hoasen.edu.vn:Gmail
+bà Đậu Thị Ngọc Phụng:Người	có Email liên lạc là	phung.dauthingoc[at]hoasen.edu.vn:Gmail
+bà Mai Kim Thoa:Người	có Email liên lạc là	thoa.maikim@hoasen.edu.vn:Gmail
+bà Phạm Thị Hồng Ngọc:Người	có Email liên lạc là	ngoc.phamthihong@hoasen.edu.vn:Gmail
+bà Đỗ Thị Ngọc:Người	có Email liên lạc là	ngoc.dothi@hoasen.edu.vn:Gmail
+bà Trần Thị Kim Ấn:Người	có Email liên lạc là	an.tranthikim@hoasen.edu.vn:Gmail
+bà Trần Thị Thùy Dung:Người	có Email liên lạc là	dung.tranthithuy@hoasen.edu.vn:Gmail
+ông Lương Hoàng Phú:Người	có Email liên lạc là	phu.luonghoang@hoasen.edu.vn:Gmail
+bà Lê Ngọc Quỳnh Như:Người	có Email liên lạc là	nhu.lengocquynh@hoasen.edu.vn:Gmail
+ông Vũ Trần Anh Khoa:Người	có Email liên lạc là	khoa.vutrananh@hoasen.edu.vn:Gmail
+Khoa Khoa học xã hội - Luật:Khoa	có ngành	Tâm lý học:Ngành
+Khoa Khoa học xã hội - Luật:Khoa	có ngành	Luật kinh tế - Chuyên ngành Luật kinh doanh số:Ngành
+Khoa Khoa học xã hội - Luật:Khoa	có Trưởng khoa, GĐCT Giáo dục khai phóng, Giám đốc Viện Nghiên cứu & Tư vấn Giải pháp Tâm lý là	bà Nguyễn Thị Loan:Người
+Khoa Khoa học xã hội - Luật:Khoa	có Phó Trưởng khoa, Giám đốc chương trình Luật Kinh tế là	ông Nguyễn Hoài Nam:Người
+Khoa Khoa học xã hội - Luật:Khoa	có Giám đốc Chương trình Triết học là	ông Dương Ngọc Dũng:Người
+Khoa Khoa học xã hội - Luật:Khoa	có Cố vấn Chương trình Tâm lý học là	ông Bruce B.Svare:Người
+Khoa Khoa học xã hội - Luật:Khoa	có Giảng viên là	ông Nguyễn Hồng Ân:Người
+Khoa Khoa học xã hội - Luật:Khoa	có Giảng viên Chương trình Triết học là	ông Bùi Nguyên Hãn:Người
+Khoa Khoa học xã hội - Luật:Khoa	có Giảng viên Chương trình Giáo dục khai phóng là	bà Nguyễn Thị Tịnh:Người
+Khoa Khoa học xã hội - Luật:Khoa	có Giảng viên Chương trình Giáo dục khai phóng là	bà Doãn Thị Ngọc:Người
+Khoa Khoa học xã hội - Luật:Khoa	có Giảng viên Chương trình Tâm lý học là	ông Nguyễn Minh Thành:Người
+Khoa Khoa học xã hội - Luật:Khoa	có Giảng viên Chương trình Giáo dục khai phóng là	ông Nguyễn Hoàng Tuấn:Người
+Khoa Khoa học xã hội - Luật:Khoa	có Giảng viên Chương trình Triết học là	ông Edward Hockings:Người
+Khoa Khoa học xã hội - Luật:Khoa	có Giảng viên (du học) là	bà Đỗ Thị Thu Thủy:Người
+Khoa Khoa học xã hội - Luật:Khoa	có Giảng viên Chương trình Luật là	ông Đào Duy Tân:Người
+Khoa Khoa học xã hội - Luật:Khoa	có Giảng viên Chương trình Luật là	bà Trần Ngọc Nhã Trân:Người
+Khoa Khoa học xã hội - Luật:Khoa	có Phó Giám đốc Chương trình Tâm lý học là	ông Vương Nguyễn Toàn Thiện:Người
+Khoa Khoa học xã hội - Luật:Khoa	có Giảng viên Chương trình Tâm lý học là	ông Nguyễn Trường Thanh Hải:Người
+Khoa Khoa học xã hội - Luật:Khoa	có Giám đốc chương trình Lý luận chính trị là	bà Dương Hoàng Oanh:Người
+Khoa Khoa học xã hội - Luật:Khoa	có Giảng viên Lý luận chính trị là	bà Nguyễn Thị Điệp:Người
+Khoa Khoa học xã hội - Luật:Khoa	có Giảng viên Lý luận chính trị là	bà Phạm Thị Ngọc Anh:Người
+Khoa Khoa học xã hội - Luật:Khoa	có Giảng viên Lý luận chính trị là	ông Nguyễn Minh Quang:Người
+Khoa Khoa học xã hội - Luật:Khoa	có Giảng viên Lý luận chính trị là	bà Huỳnh Thị Bích Vân:Người
+Khoa Khoa học xã hội - Luật:Khoa	có Giảng viên Chương trình Luật là	ông Nguyễn Trường Ngọc:Người
+Khoa Khoa học xã hội - Luật:Khoa	có Giám đốc Chương trình Tâm lý học, Chủ tịch Viện Nghiên cứu & Tư vấn Giải pháp Tâm lý là	ông Armin Bruno Wilhelm Kuhr:Người
+Khoa Khoa học xã hội - Luật:Khoa	có Giảng viên Chương trình Tâm lý học; Chuyên viên tại Viện Nghiên cứu và Tư vấn Giải pháp Tâm lý là	bà Phạm Thị Kim Mai:Người
+Khoa Khoa học xã hội - Luật:Khoa	có Giảng viên Chương trình Luật là	bà Phạm Ngọc Gia Bảo:Người
+Khoa Khoa học xã hội - Luật:Khoa	có Giảng viên Lý luận chính trị là	bà Hồ Thị Trinh:Người
+Khoa Khoa học xã hội - Luật:Khoa	có Giám đốc Chương trình Luật là	ông Trịnh Duy Thuyên:Người
+Khoa Khoa học xã hội - Luật:Khoa	có Giảng viên Chương trình Luật là	ông Phạm Dương Hoàng Phúc:Người
+Khoa Khoa học xã hội - Luật:Khoa	có Giảng viên Giáo dục khai phóng là	bà Hoàng Văn Chi:Người
+Khoa Khoa học xã hội - Luật:Khoa	có Giảng viên Lý luận chính trị là	ông Nguyễn Dạ Thu:Người
+bà Nguyễn Thị Loan:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Khoa học xã hội - Luật:Khoa
+ông Nguyễn Hoài Nam:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Khoa học xã hội - Luật:Khoa
+ông Dương Ngọc Dũng:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Khoa học xã hội - Luật:Khoa
+ông Bruce B.Svare:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Khoa học xã hội - Luật:Khoa
+ông Nguyễn Hồng Ân:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Khoa học xã hội - Luật:Khoa
+ông Bùi Nguyên Hãn:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Khoa học xã hội - Luật:Khoa
+bà Nguyễn Thị Tịnh:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Khoa học xã hội - Luật:Khoa
+bà Doãn Thị Ngọc:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Khoa học xã hội - Luật:Khoa
+ông Nguyễn Minh Thành:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Khoa học xã hội - Luật:Khoa
+ông Nguyễn Hoàng Tuấn:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Khoa học xã hội - Luật:Khoa
+ông Edward Hockings:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Khoa học xã hội - Luật:Khoa
+bà Đỗ Thị Thu Thủy:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Khoa học xã hội - Luật:Khoa
+ông Đào Duy Tân:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Khoa học xã hội - Luật:Khoa
+bà Trần Ngọc Nhã Trân:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Khoa học xã hội - Luật:Khoa
+bà Nguyễn Bảo Châu:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Khoa học xã hội - Luật:Khoa
+ông Vương Nguyễn Toàn Thiện:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Khoa học xã hội - Luật:Khoa
+ông Nguyễn Trường Thanh Hải:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Khoa học xã hội - Luật:Khoa
+bà Dương Hoàng Oanh:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Khoa học xã hội - Luật:Khoa
+bà Nguyễn Thị Điệp:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Khoa học xã hội - Luật:Khoa
+bà Phạm Thị Ngọc Anh:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Khoa học xã hội - Luật:Khoa
+ông Nguyễn Minh Quang:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Khoa học xã hội - Luật:Khoa
+bà Huỳnh Thị Bích Vân:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Khoa học xã hội - Luật:Khoa
+ông Nguyễn Trường Ngọc:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Khoa học xã hội - Luật:Khoa
+ông Armin Bruno Wilhelm Kuhr:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Khoa học xã hội - Luật:Khoa
+bà Phạm Thị Kim Mai:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Khoa học xã hội - Luật:Khoa
+bà Phạm Ngọc Gia Bảo:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Khoa học xã hội - Luật:Khoa
+bà Hồ Thị Trinh:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Khoa học xã hội - Luật:Khoa
+ông Trịnh Duy Thuyên:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Khoa học xã hội - Luật:Khoa
+ông Phạm Dương Hoàng Phúc:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Khoa học xã hội - Luật:Khoa
+bà Hoàng Văn Chi:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Khoa học xã hội - Luật:Khoa
+ông Nguyễn Dạ Thu:Người	thuộc đội ngũ giảng viên, nhân viên khoa	Khoa học xã hội - Luật:Khoa
+bà Nguyễn Thị Loan:Người	là Trưởng khoa, GĐCT Giáo dục khai phóng, Giám đốc Viện Nghiên cứu & Tư vấn Giải pháp Tâm lý của khoa	Khoa học xã hội - Luật:Khoa
+ông Nguyễn Hoài Nam:Người	là Phó Trưởng khoa, Giám đốc chương trình Luật Kinh tế của khoa	Khoa học xã hội - Luật:Khoa
+ông Dương Ngọc Dũng:Người	là Giám đốc Chương trình Triết học của khoa	Khoa học xã hội - Luật:Khoa
+ông Bruce B.Svare:Người	là Cố vấn Chương trình Tâm lý học của khoa	Khoa học xã hội - Luật:Khoa
+ông Nguyễn Hồng Ân:Người	là Giảng viên của khoa	Khoa học xã hội - Luật:Khoa
+ông Bùi Nguyên Hãn:Người	là Giảng viên Chương trình Triết học của khoa	Khoa học xã hội - Luật:Khoa
+bà Nguyễn Thị Tịnh:Người	là Giảng viên Chương trình Giáo dục khai phóng của khoa	Khoa học xã hội - Luật:Khoa
+bà Doãn Thị Ngọc:Người	là Giảng viên Chương trình Giáo dục khai phóng của khoa	Khoa học xã hội - Luật:Khoa
+ông Nguyễn Minh Thành:Người	là Giảng viên Chương trình Tâm lý học của khoa	Khoa học xã hội - Luật:Khoa
+ông Nguyễn Hoàng Tuấn:Người	là Giảng viên Chương trình Giáo dục khai phóng của khoa	Khoa học xã hội - Luật:Khoa
+ông Edward Hockings:Người	là Giảng viên Chương trình Triết học của khoa	Khoa học xã hội - Luật:Khoa
+bà Đỗ Thị Thu Thủy:Người	là Giảng viên (du học) của khoa	Khoa học xã hội - Luật:Khoa
+ông Đào Duy Tân:Người	là Giảng viên Chương trình Luật của khoa	Khoa học xã hội - Luật:Khoa
+bà Trần Ngọc Nhã Trân:Người	là Giảng viên Chương trình Luật của khoa	Khoa học xã hội - Luật:Khoa
+ông Vương Nguyễn Toàn Thiện:Người	là Phó Giám đốc Chương trình Tâm lý học của khoa	Khoa học xã hội - Luật:Khoa
+ông Nguyễn Trường Thanh Hải:Người	là Giảng viên Chương trình Tâm lý học của khoa	Khoa học xã hội - Luật:Khoa
+bà Dương Hoàng Oanh:Người	là Giám đốc chương trình Lý luận chính trị của khoa	Khoa học xã hội - Luật:Khoa
+bà Nguyễn Thị Điệp:Người	là Giảng viên Lý luận chính trị của khoa	Khoa học xã hội - Luật:Khoa
+bà Phạm Thị Ngọc Anh:Người	là Giảng viên Lý luận chính trị của khoa	Khoa học xã hội - Luật:Khoa
+ông Nguyễn Minh Quang:Người	là Giảng viên Lý luận chính trị của khoa	Khoa học xã hội - Luật:Khoa
+bà Huỳnh Thị Bích Vân:Người	là Giảng viên Lý luận chính trị của khoa	Khoa học xã hội - Luật:Khoa
+ông Nguyễn Trường Ngọc:Người	là Giảng viên Chương trình Luật của khoa	Khoa học xã hội - Luật:Khoa
+ông Armin Bruno Wilhelm Kuhr:Người	là Giám đốc Chương trình Tâm lý học, Chủ tịch Viện Nghiên cứu & Tư vấn Giải pháp Tâm lý của khoa	Khoa học xã hội - Luật:Khoa
+bà Phạm Thị Kim Mai:Người	là Giảng viên Chương trình Tâm lý học; Chuyên viên tại Viện Nghiên cứu và Tư vấn Giải pháp Tâm lý của khoa	Khoa học xã hội - Luật:Khoa
+bà Phạm Ngọc Gia Bảo:Người	là Giảng viên Chương trình Luật của khoa	Khoa học xã hội - Luật:Khoa
+bà Hồ Thị Trinh:Người	là Giảng viên Lý luận chính trị của khoa	Khoa học xã hội - Luật:Khoa
+ông Trịnh Duy Thuyên:Người	là Giám đốc Chương trình Luật của khoa	Khoa học xã hội - Luật:Khoa
+ông Phạm Dương Hoàng Phúc:Người	là Giảng viên Chương trình Luật của khoa	Khoa học xã hội - Luật:Khoa
+bà Hoàng Văn Chi:Người	là Giảng viên Giáo dục khai phóng của khoa	Khoa học xã hội - Luật:Khoa
+ông Nguyễn Dạ Thu:Người	là Giảng viên Lý luận chính trị của khoa	Khoa học xã hội - Luật:Khoa
+bà Nguyễn Thị Loan:Người	có Học hàm - Học vị	Tiến sỹ tâm lý lâm sàng:Bằng cấp
+ông Nguyễn Hoài Nam:Người	có Học hàm - Học vị	Tiến sĩ:Bằng cấp
+ông Dương Ngọc Dũng:Người	có Học hàm - Học vị	Tiến sĩ:Bằng cấp
+ông Nguyễn Hồng Ân:Người	có Học hàm - Học vị	Thạc sĩ Khoa học Tâm lý học:Bằng cấp
+ông Bùi Nguyên Hãn:Người	có Học hàm - Học vị	Ths Triết học (Nghiên cứu sinh Tiến sĩ Xã hội học):Bằng cấp
+bà Nguyễn Thị Tịnh:Người	có Học hàm - Học vị	Tiến sĩ:Bằng cấp
+bà Doãn Thị Ngọc:Người	có Học hàm - Học vị	ThS. Công tác Xã hội và ThS. Tiếng Anh (TESOL):Bằng cấp
+ông Nguyễn Minh Thành:Người	có Học hàm - Học vị	Thạc sĩ Tâm lý học Phát triển (Nghiên cứu sinh Tiến sĩ Tâm lý học Lâm sàng):Bằng cấp
+ông Nguyễn Hoàng Tuấn:Người	có Học hàm - Học vị	Thạc sĩ, Nghiên cứu sinh:Bằng cấp
+ông Edward Hockings:Người	có Học hàm - Học vị	B.A, M.A, Ph.D:Bằng cấp
+ông Đào Duy Tân:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Trần Ngọc Nhã Trân:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Vương Nguyễn Toàn Thiện:Người	có Học hàm - Học vị	Thạc sỹ Tâm lý lâm sàng:Bằng cấp
+ông Nguyễn Trường Thanh Hải:Người	có Học hàm - Học vị	Tốt nghiệp Tiến sĩ Thống kê sinh học – Khoa học thần kinh:Bằng cấp
+bà Dương Hoàng Oanh:Người	có Học hàm - Học vị	Tiến sĩ:Bằng cấp
+bà Nguyễn Thị Điệp:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Phạm Thị Ngọc Anh:Người	có Học hàm - Học vị	Thạc sĩ Triết học:Bằng cấp
+ông Nguyễn Minh Quang:Người	có Học hàm - Học vị	Thạc sĩ (NCS):Bằng cấp
+bà Huỳnh Thị Bích Vân:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Nguyễn Trường Ngọc:Người	có Học hàm - Học vị	Tiến sĩ:Bằng cấp
+ông Armin Bruno Wilhelm Kuhr:Người	có Học hàm - Học vị	Giáo sư – Tiến sĩ:Bằng cấp
+bà Phạm Thị Kim Mai:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Phạm Ngọc Gia Bảo:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Hồ Thị Trinh:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Trịnh Duy Thuyên:Người	có Học hàm - Học vị	Tiến sĩ:Bằng cấp
+ông Phạm Dương Hoàng Phúc:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Hoàng Văn Chi:Người	có Học hàm - Học vị	Tiến sĩ:Bằng cấp
+ông Nguyễn Dạ Thu:Người	có Học hàm - Học vị	Tiến sĩ:Bằng cấp
+bà Nguyễn Thị Loan:Người	thuộc lĩnh vực	Tâm lý lâm sàng, tâm lý trị liệu, CBT, EMDR, MCBT,…:Chuyên môn
+ông Dương Ngọc Dũng:Người	thuộc lĩnh vực	Tôn giáo học & Triết học:Chuyên môn
+ông Nguyễn Hồng Ân:Người	thuộc lĩnh vực	Tham vấn & Trị liệu tâm lý, nghiên cứu định tính, người cao tuổi, Well-being, lịch sử/triết học trong tâm lý học, tâm lý học sức khoẻ, tâm lý học xã hội, CBT:Chuyên môn
+ông Bùi Nguyên Hãn:Người	thuộc lĩnh vực	Triết học, Xã hội học, Văn hóa học:Chuyên môn
+bà Nguyễn Thị Tịnh:Người	thuộc lĩnh vực	Ngôn ngữ học, Ngôn ngữ học Ứng dụng, Ngôn ngữ và Văn hóa, Việt Nam học và tiếng Việt cho người người nước ngoài:Chuyên môn
+bà Doãn Thị Ngọc:Người	thuộc lĩnh vực	Công tác Xã hội, Giảng dạy tiếng Anh, Giới & Bình đẳng giới, Phát triển cộng đồng, Khoa học nghiên cứu người cao tuổi, Kỹ năng giao tiếp đa văn hóa, Kỹ năng viết – đọc học thuật, và Văn hóa Anh-Mỹ:Chuyên môn
+ông Nguyễn Minh Thành:Người	thuộc lĩnh vực	Tâm lý học Phát triển; Tâm lý học giáo dục; Tâm lý học gia đình:Chuyên môn
+ông Nguyễn Hoàng Tuấn:Người	thuộc lĩnh vực	Địa lí học, Quản lí tài nguyên và môi trường:Chuyên môn
+ông Edward Hockings:Người	thuộc lĩnh vực	Philosophy, bioethics, international relations, political theory, sociology:Chuyên môn
+bà Đỗ Thị Thu Thủy:Người	thuộc lĩnh vực	Giới, Giới Tính, và Phụ Nữ Học:Chuyên môn
+ông Vương Nguyễn Toàn Thiện:Người	thuộc lĩnh vực	Tâm lý Lâm sàng; Trị liệu Hệ thống – Gia đình; Art therapy; Test lượng giá tâm lý; Palliative Care:Chuyên môn
+ông Nguyễn Trường Thanh Hải:Người	thuộc lĩnh vực	Neuroscience, Artificial Intelligence, Data Statistics, Neurofeedback, EEG:Chuyên môn
+bà Dương Hoàng Oanh:Người	thuộc lĩnh vực	Kinh tế chính trị:Chuyên môn
+bà Nguyễn Thị Điệp:Người	thuộc lĩnh vực	Triết học:Chuyên môn
+ông Nguyễn Minh Quang:Người	thuộc lĩnh vực	Chính trị học, Lịch sử Đảng Cộng sản Việt Nam, Di sản văn hoá, Triết học:Chuyên môn
+ông Nguyễn Trường Ngọc:Người	thuộc lĩnh vực	Luật Kinh tế, nghiên cứu “Chế định về Trách nhiệm sản phẩm”:Chuyên môn
+ông Armin Bruno Wilhelm Kuhr:Người	thuộc lĩnh vực	Trị liệu hành vi (CBT), nhiều kinh nghiệm trong việc đào tạo, thực hành, nghiên cứu:Chuyên môn
+bà Phạm Thị Kim Mai:Người	thuộc lĩnh vực	công tác xã hội, công tác xã hội thực hành:Chuyên môn
+bà Phạm Ngọc Gia Bảo:Người	thuộc lĩnh vực	Luật Kinh tế:Chuyên môn
+bà Hồ Thị Trinh:Người	thuộc lĩnh vực	Tư tưởng Hồ Chí Minh:Chuyên môn
+ông Trịnh Duy Thuyên:Người	thuộc lĩnh vực	Luật:Chuyên môn
+ông Phạm Dương Hoàng Phúc:Người	thuộc lĩnh vực	Luật Kinh tế:Chuyên môn
+bà Hoàng Văn Chi:Người	thuộc lĩnh vực	Tâm lý – Giáo dục, Lý luận và lịch sử giáo dục:Chuyên môn
+bà Nguyễn Thị Loan:Người	có Email liên lạc là	loan.nguyenthi@hoasen.edu.vn:Gmail
+ông Nguyễn Hoài Nam:Người	có Email liên lạc là	nam.nguyenhoai@hoasen.edu.vn:Gmail
+ông Dương Ngọc Dũng:Người	có Email liên lạc là	dung.duongngoc@hoasen.edu.vn:Gmail
+ông Nguyễn Hồng Ân:Người	có Email liên lạc là	an.nguyenhong@hoasen.edu.vn:Gmail
+ông Bùi Nguyên Hãn:Người	có Email liên lạc là	han.buinguyen@hoasen.edu.vn:Gmail
+bà Nguyễn Thị Tịnh:Người	có Email liên lạc là	tinh.nguyenthi@hoasen.edu.vn:Gmail
+bà Doãn Thị Ngọc:Người	có Email liên lạc là	ngoc.doanthi@hoasen.edu.vn:Gmail
+ông Nguyễn Minh Thành:Người	có Email liên lạc là	thanh.nguyenminh@hoasen.edu.vn:Gmail
+ông Nguyễn Hoàng Tuấn:Người	có Email liên lạc là	tuan.nguyenhoang@hoasen.edu.vn:Gmail
+ông Edward Hockings:Người	có Email liên lạc là	hockings.edward@hoasen.edu.vn:Gmail
+bà Đỗ Thị Thu Thủy:Người	có Email liên lạc là	thuy.dothithanh@hoasen.edu.vn:Gmail
+ông Đào Duy Tân:Người	có Email liên lạc là	tan.daoduy@hoasen.edu.vn:Gmail
+bà Trần Ngọc Nhã Trân:Người	có Email liên lạc là	tran.tranngocnha@hoasen.edu.vn:Gmail
+ông Vương Nguyễn Toàn Thiện:Người	có Email liên lạc là	thien.vnguyentoan@hoasen.edu.vn:Gmail
+ông Nguyễn Trường Thanh Hải:Người	có Email liên lạc là	hai.nguyentruongthanh@hoasen.edu.vn:Gmail
+bà Dương Hoàng Oanh:Người	có Email liên lạc là	oanh.duonghoang@hoasen.edu.vn:Gmail
+bà Nguyễn Thị Điệp:Người	có Email liên lạc là	diep.nguyenthi@hoasen.edu.vn:Gmail
+bà Phạm Thị Ngọc Anh:Người	có Email liên lạc là	anh.phamthingoc@hoasen.edu.vn:Gmail
+ông Nguyễn Minh Quang:Người	có Email liên lạc là	quang.nguyenminh@hoasen.edu.vn:Gmail
+bà Huỳnh Thị Bích Vân:Người	có Email liên lạc là	van.huynhthibich@hoasen.edu.vn:Gmail
+ông Nguyễn Trường Ngọc:Người	có Email liên lạc là	ngoc.nguyentruong@hoasen.edu.vn:Gmail
+ông Armin Bruno Wilhelm Kuhr:Người	có Email liên lạc là	armin.kuhr@hoasen.edu.vn:Gmail
+bà Phạm Thị Kim Mai:Người	có Email liên lạc là	mai.phamthikim@hoasen.edu.vn:Gmail
+bà Phạm Ngọc Gia Bảo:Người	có Email liên lạc là	bao.phamngocgia@hoasen.edu.vn:Gmail
+bà Hồ Thị Trinh:Người	có Email liên lạc là	trinh.hothi@hoasen.edu.vn:Gmail
+ông Trịnh Duy Thuyên:Người	có Email liên lạc là	thuyen.trinhduy@hoasen.edu.vn:Gmail
+ông Phạm Dương Hoàng Phúc:Người	có Email liên lạc là	phuc.phamduonghoang@hoasen.edu.vn:Gmail
+bà Hoàng Văn Chi:Người	có Email liên lạc là	chi.hoangvan@hoasen.edu.vn:Gmail
+ông Nguyễn Dạ Thu:Người	có Email liên lạc là	thu.nguyenda@hoasen.edu.vn:Gmail
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có ngành	Ngôn ngữ Anh:Ngành
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có Trưởng Khoa là	bà Phạm Thị Hương:Người
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có Giám đốc Chương trình Thạc sĩ Ngôn ngữ Anh là	ông Huỳnh Văn Tài:Người
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có Giám đốc Chương trình Ngôn ngữ Anh là	bà Bùi Yến Ngọc:Người
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có Giám đốc Chương trình Anh văn Tổng quát là	ông Trần Quang Hải:Người
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có Giám đốc Chương trình Ngoại ngữ 2 là	bà Trần Thị Cẩm Tú:Người
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có Giảng viên là	bà Lê Đào Thanh Bình An:Người
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có Giảng viên là	bà Nguyễn Thị Thanh Phương:Người
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có Giảng viên là	ông Trần Văn Dương:Người
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có Giảng viên là	bà Hồ Phương Nguyệt Ánh:Người
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có Giảng viên là	bà Trần Ngọc Dung:Người
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có Giảng viên là	ông John Basihan Bayarong:Người
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có Giảng viên là	bà Biện Thị Thanh Mai:Người
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có Giảng viên là	ông Trịnh Bình Thanh Sơn:Người
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có Giảng viên là	ông Nguyễn Văn Chương:Người
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có Giảng viên là	ông Nguyễn Chí Duy Khương:Người
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có Giảng viên là	bà Võ Thị Kiều Loan:Người
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có Giảng viên là	bà Ngô Thị Thanh Thanh:Người
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có Giảng viên là	bà Nguyễn Thị Thanh Thế:Người
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có Giảng viên là	bà Nguyễn Hương Anh:Người
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có Giảng viên là	bà Hoàng Tô Thư Dung:Người
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có Giảng viên là	bà Nguyễn Thị Thanh Hồng:Người
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có Giảng viên là	ông Nguyễn Ngọc Thiên Nam:Người
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có Giảng viên là	bà Võ Minh Nhã:Người
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có Giảng viên là	bà Võ Thị Bích Phương:Người
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có Giảng viên là	bà Võ Thị Tâm Phúc:Người
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có Giảng viên là	bà Vương Ngọc Tiền:Người
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có Giảng viên là	ông Thái Ngọc Sơn:Người
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có Giảng viên là	bà Trần Nhật Linh Chi:Người
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có Giảng viên là	bà Bùi Ngọc Quế Anh:Người
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có Giảng viên là	bà Trương Trúc Quỳnh:Người
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có Giảng viên là	bà Trần Nguyễn Hoài Phương:Người
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có Giảng viên là	ông Trà Thanh Tuấn:Người
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có Thư ký khoa về Hành chính là	bà Nguyễn Thị Phương Nam:Người
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có Thư ký khoa về Học vụ là	bà Bùi Mỹ Tiên:Người
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có Chuyên viên Khảo thí là	bà Trần Thị Ngọc Oanh:Người
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có Chuyên viên Cố vấn học tập là	bà Nguyễn Hoàng Mỹ Duyên:Người
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có Chuyên viên Học vụ là	bà Lâm Tú Anh:Người
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có Chuyên viên Khảo thí là	bà Trần Ngọc Minh Thư:Người
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có Chuyên viên Khảo thí là	bà Lê Bích Ngân:Người
+Khoa Ngôn ngữ - Văn hóa quốc tế:Khoa	có Chuyên viên Truyền thông - Trải nghiệm Sinh viên là	bà Lê Ngọc Yến Phương:Người
+bà Phạm Thị Hương:Người	thuộc đội ngũ giảng viên, nhân viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+ông Huỳnh Văn Tài:Người	thuộc đội ngũ giảng viên, nhân viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Bùi Yến Ngọc:Người	thuộc đội ngũ giảng viên, nhân viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+ông Trần Quang Hải:Người	thuộc đội ngũ giảng viên, nhân viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Trần Thị Cẩm Tú:Người	thuộc đội ngũ giảng viên, nhân viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Lê Đào Thanh Bình An:Người	thuộc đội ngũ giảng viên, nhân viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Nguyễn Thị Thanh Phương:Người	thuộc đội ngũ giảng viên, nhân viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+ông Trần Văn Dương:Người	thuộc đội ngũ giảng viên, nhân viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Hồ Phương Nguyệt Ánh:Người	thuộc đội ngũ giảng viên, nhân viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Trần Ngọc Dung:Người	thuộc đội ngũ giảng viên, nhân viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+ông John Basihan Bayarong:Người	thuộc đội ngũ giảng viên, nhân viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Biện Thị Thanh Mai:Người	thuộc đội ngũ giảng viên, nhân viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+ông Trịnh Bình Thanh Sơn:Người	thuộc đội ngũ giảng viên, nhân viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+ông Nguyễn Văn Chương:Người	thuộc đội ngũ giảng viên, nhân viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+ông Nguyễn Chí Duy Khương:Người	thuộc đội ngũ giảng viên, nhân viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Võ Thị Kiều Loan:Người	thuộc đội ngũ giảng viên, nhân viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Ngô Thị Thanh Thanh:Người	thuộc đội ngũ giảng viên, nhân viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Nguyễn Thị Thanh Thế:Người	thuộc đội ngũ giảng viên, nhân viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Nguyễn Hương Anh:Người	thuộc đội ngũ giảng viên, nhân viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Hoàng Tô Thư Dung:Người	thuộc đội ngũ giảng viên, nhân viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Nguyễn Thị Thanh Hồng:Người	thuộc đội ngũ giảng viên, nhân viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+ông Nguyễn Ngọc Thiên Nam:Người	thuộc đội ngũ giảng viên, nhân viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Võ Minh Nhã:Người	thuộc đội ngũ giảng viên, nhân viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Võ Thị Bích Phương:Người	thuộc đội ngũ giảng viên, nhân viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Võ Thị Tâm Phúc:Người	thuộc đội ngũ giảng viên, nhân viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Vương Ngọc Tiền:Người	thuộc đội ngũ giảng viên, nhân viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+ông Thái Ngọc Sơn:Người	thuộc đội ngũ giảng viên, nhân viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Trần Nhật Linh Chi:Người	thuộc đội ngũ giảng viên, nhân viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Bùi Ngọc Quế Anh:Người	thuộc đội ngũ giảng viên, nhân viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Trương Trúc Quỳnh:Người	thuộc đội ngũ giảng viên, nhân viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Trần Nguyễn Hoài Phương:Người	thuộc đội ngũ giảng viên, nhân viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+ông Trà Thanh Tuấn:Người	thuộc đội ngũ giảng viên, nhân viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Nguyễn Thị Phương Nam:Người	thuộc đội ngũ giảng viên, nhân viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Bùi Mỹ Tiên:Người	thuộc đội ngũ giảng viên, nhân viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Trần Thị Ngọc Oanh:Người	thuộc đội ngũ giảng viên, nhân viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Nguyễn Hoàng Mỹ Duyên:Người	thuộc đội ngũ giảng viên, nhân viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Lâm Tú Anh:Người	thuộc đội ngũ giảng viên, nhân viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Trần Ngọc Minh Thư:Người	thuộc đội ngũ giảng viên, nhân viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Lê Bích Ngân:Người	thuộc đội ngũ giảng viên, nhân viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Lê Ngọc Yến Phương:Người	thuộc đội ngũ giảng viên, nhân viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Phạm Thị Hương:Người	là Trưởng Khoa của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+ông Huỳnh Văn Tài:Người	là Giám đốc Chương trình Thạc sĩ Ngôn ngữ Anh của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Bùi Yến Ngọc:Người	là Giám đốc Chương trình Ngôn ngữ Anh của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+ông Trần Quang Hải:Người	là Giám đốc Chương trình Anh văn Tổng quát của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Trần Thị Cẩm Tú:Người	là Giám đốc Chương trình Ngoại ngữ 2 của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Lê Đào Thanh Bình An:Người	là Giảng viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Nguyễn Thị Thanh Phương:Người	là Giảng viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+ông Trần Văn Dương:Người	là Giảng viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Hồ Phương Nguyệt Ánh:Người	là Giảng viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Trần Ngọc Dung:Người	là Giảng viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+ông John Basihan Bayarong:Người	là Giảng viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Biện Thị Thanh Mai:Người	là Giảng viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+ông Trịnh Bình Thanh Sơn:Người	là Giảng viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+ông Nguyễn Văn Chương:Người	là Giảng viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+ông Nguyễn Chí Duy Khương:Người	là Giảng viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Võ Thị Kiều Loan:Người	là Giảng viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Ngô Thị Thanh Thanh:Người	là Giảng viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Nguyễn Thị Thanh Thế:Người	là Giảng viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Nguyễn Hương Anh:Người	là Giảng viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Hoàng Tô Thư Dung:Người	là Giảng viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Nguyễn Thị Thanh Hồng:Người	là Giảng viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+ông Nguyễn Ngọc Thiên Nam:Người	là Giảng viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Võ Minh Nhã:Người	là Giảng viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Võ Thị Bích Phương:Người	là Giảng viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Võ Thị Tâm Phúc:Người	là Giảng viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Vương Ngọc Tiền:Người	là Giảng viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+ông Thái Ngọc Sơn:Người	là Giảng viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Trần Nhật Linh Chi:Người	là Giảng viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Bùi Ngọc Quế Anh:Người	là Giảng viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Trương Trúc Quỳnh:Người	là Giảng viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Trần Nguyễn Hoài Phương:Người	là Giảng viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+ông Trà Thanh Tuấn:Người	là Giảng viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Nguyễn Thị Phương Nam:Người	là Thư ký khoa về Hành chính của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Bùi Mỹ Tiên:Người	là Thư ký khoa về Học vụ của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Trần Thị Ngọc Oanh:Người	là Chuyên viên Khảo thí của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Nguyễn Hoàng Mỹ Duyên:Người	là Chuyên viên Cố vấn học tập của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Lâm Tú Anh:Người	là Chuyên viên Học vụ của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Trần Ngọc Minh Thư:Người	là Chuyên viên Khảo thí của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Lê Bích Ngân:Người	là Chuyên viên Khảo thí của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Lê Ngọc Yến Phương:Người	là Chuyên viên Truyền thông - Trải nghiệm Sinh viên của khoa	Ngôn ngữ - Văn hóa quốc tế:Khoa
+bà Phạm Thị Hương:Người	có Học hàm - Học vị	Phó Giáo sư, Tiến sĩ:Bằng cấp
+ông Huỳnh Văn Tài:Người	có Học hàm - Học vị	Tiến sĩ:Bằng cấp
+bà Bùi Yến Ngọc:Người	có Học hàm - Học vị	Tiến sĩ:Bằng cấp
+ông Trần Quang Hải:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Trần Thị Cẩm Tú:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Lê Đào Thanh Bình An:Người	có Học hàm - Học vị	Tiến sĩ:Bằng cấp
+bà Nguyễn Thị Thanh Phương:Người	có Học hàm - Học vị	Tiến sĩ:Bằng cấp
+ông Trần Văn Dương:Người	có Học hàm - Học vị	Tiến sĩ:Bằng cấp
+bà Hồ Phương Nguyệt Ánh:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Trần Ngọc Dung:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông John Basihan Bayarong:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Biện Thị Thanh Mai:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Trịnh Bình Thanh Sơn:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Nguyễn Văn Chương:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Nguyễn Chí Duy Khương:Người	có Học hàm - Học vị	Tiến sĩ:Bằng cấp
+bà Võ Thị Kiều Loan:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Ngô Thị Thanh Thanh:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Nguyễn Thị Thanh Thế:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Nguyễn Hương Anh:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Hoàng Tô Thư Dung:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Nguyễn Thị Thanh Hồng:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Nguyễn Ngọc Thiên Nam:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Võ Minh Nhã:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Võ Thị Bích Phương:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Võ Thị Tâm Phúc:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Vương Ngọc Tiền:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Thái Ngọc Sơn:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Trần Nhật Linh Chi:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Bùi Ngọc Quế Anh:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Trương Trúc Quỳnh:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Trần Nguyễn Hoài Phương:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+ông Trà Thanh Tuấn:Người	có Học hàm - Học vị	Thạc sĩ:Bằng cấp
+bà Nguyễn Thị Phương Nam:Người	có Học hàm - Học vị	Cử nhân:Bằng cấp
+bà Bùi Mỹ Tiên:Người	có Học hàm - Học vị	Cử nhân:Bằng cấp
+bà Trần Thị Ngọc Oanh:Người	có Học hàm - Học vị	Cử nhân:Bằng cấp
+bà Nguyễn Hoàng Mỹ Duyên:Người	có Học hàm - Học vị	Cử nhân:Bằng cấp
+bà Lâm Tú Anh:Người	có Học hàm - Học vị	Cử nhân:Bằng cấp
+bà Trần Ngọc Minh Thư:Người	có Học hàm - Học vị	Cử nhân:Bằng cấp
+bà Lê Bích Ngân:Người	có Học hàm - Học vị	Cử nhân:Bằng cấp
+bà Lê Ngọc Yến Phương:Người	có Học hàm - Học vị	Cử nhân:Bằng cấp
+ông Huỳnh Văn Tài:Người	thuộc lĩnh vực	Ngữ văn:Chuyên môn
+bà Bùi Yến Ngọc:Người	thuộc lĩnh vực	Khoa học Xã hội và Nhân Văn:Chuyên môn
+ông Trần Quang Hải:Người	thuộc lĩnh vực	Lý luận và Phương pháp giảng dạy tiếng Anh:Chuyên môn
+bà Trần Thị Cẩm Tú:Người	thuộc lĩnh vực	Giáo dục Hán ngữ quốc tế:Chuyên môn
+bà Lê Đào Thanh Bình An:Người	thuộc lĩnh vực	Teaching English to Speakers of Other Languages (TESOL):Chuyên môn
+bà Nguyễn Thị Thanh Phương:Người	thuộc lĩnh vực	Quản trị kinh doanh:Chuyên môn
+ông Trần Văn Dương:Người	thuộc lĩnh vực	Ngôn ngữ học:Chuyên môn
+bà Hồ Phương Nguyệt Ánh:Người	thuộc lĩnh vực	Giáo dục truyền thông:Chuyên môn
+bà Trần Ngọc Dung:Người	thuộc lĩnh vực	Teaching English to Speakers of Other Languages (TESOL):Chuyên môn
+ông John Basihan Bayarong:Người	thuộc lĩnh vực	Quản Trị Kinh doanh:Chuyên môn
+bà Biện Thị Thanh Mai:Người	thuộc lĩnh vực	Teaching English to Speakers of Other Languages (TESOL):Chuyên môn
+ông Trịnh Bình Thanh Sơn:Người	thuộc lĩnh vực	Truyền Thông trong Giáo Dục:Chuyên môn
+ông Nguyễn Văn Chương:Người	thuộc lĩnh vực	Ngôn ngữ ứng dụng:Chuyên môn
+ông Nguyễn Chí Duy Khương:Người	thuộc lĩnh vực	Ngôn ngữ học:Chuyên môn
+bà Võ Thị Kiều Loan:Người	thuộc lĩnh vực	Teaching English to Speakers of Other Languages (TESOL):Chuyên môn
+bà Ngô Thị Thanh Thanh:Người	thuộc lĩnh vực	Ngôn ngữ học ứng dụng:Chuyên môn
+bà Nguyễn Thị Thanh Thế:Người	thuộc lĩnh vực	Teaching English to Speakers of Other Languages (TESOL):Chuyên môn
+bà Nguyễn Hương Anh:Người	thuộc lĩnh vực	Lý luận và phương pháp giảng dạy tiếng Anh:Chuyên môn
+bà Hoàng Tô Thư Dung:Người	thuộc lĩnh vực	Teaching English to Speakers of Other Languages (TESOL):Chuyên môn
+bà Nguyễn Thị Thanh Hồng:Người	thuộc lĩnh vực	Teaching English to Speakers of Other Languages (TESOL):Chuyên môn
+ông Nguyễn Ngọc Thiên Nam:Người	thuộc lĩnh vực	Teaching English to Speakers of Other Languages (TESOL):Chuyên môn
+bà Võ Minh Nhã:Người	thuộc lĩnh vực	Lý luận và phương pháp dạy học tiếng Anh:Chuyên môn
+bà Võ Thị Bích Phương:Người	thuộc lĩnh vực	Lý luận và phương pháp dạy học tiếng Anh:Chuyên môn
+bà Võ Thị Tâm Phúc:Người	thuộc lĩnh vực	Ngoại ngữ Pháp văn:Chuyên môn
+bà Vương Ngọc Tiền:Người	thuộc lĩnh vực	Giáo Dục _ Teaching English to Speakers of Other Languages (TESOL):Chuyên môn
+ông Thái Ngọc Sơn:Người	thuộc lĩnh vực	Giáo Dục _ Teaching English to Speakers of Other Languages (TESOL):Chuyên môn
+bà Trần Nhật Linh Chi:Người	thuộc lĩnh vực	Giáo Dục _ Teaching English to Speakers of Other Languages (TESOL):Chuyên môn
+bà Bùi Ngọc Quế Anh:Người	thuộc lĩnh vực	Phương pháp giảng dạy tiếng Anh (TESOL):Chuyên môn
+bà Trương Trúc Quỳnh:Người	thuộc lĩnh vực	Ngôn ngữ học ứng dụng:Chuyên môn
+bà Trần Nguyễn Hoài Phương:Người	thuộc lĩnh vực	Giáo dục – Giảng dạy Tiếng Anh:Chuyên môn
+ông Trà Thanh Tuấn:Người	thuộc lĩnh vực	Teaching English of Speakers of Other Languages (TESOL):Chuyên môn
+bà Nguyễn Thị Phương Nam:Người	thuộc lĩnh vực	Quản trị nhân lực:Chuyên môn
+bà Bùi Mỹ Tiên:Người	thuộc lĩnh vực	Quản trị nhân lực:Chuyên môn
+bà Phạm Thị Hương:Người	có Email liên lạc là	huong.phamthi@hoasen.edu.vn:Gmail
+ông Huỳnh Văn Tài:Người	có Email liên lạc là	tai.huynhvan@hoasen.edu.vn:Gmail
+bà Bùi Yến Ngọc:Người	có Email liên lạc là	ngoc.buiyen@hoasen.edu.vn:Gmail
+ông Trần Quang Hải:Người	có Email liên lạc là	hai.tranquang@hoasen.edu.vn:Gmail
+bà Trần Thị Cẩm Tú:Người	có Email liên lạc là	tu.tranthicam@hoasen.edu.vn:Gmail
+bà Lê Đào Thanh Bình An:Người	có Email liên lạc là	an.ledaothanhbinh@hoasen.edu.vn:Gmail
+bà Nguyễn Thị Thanh Phương:Người	có Email liên lạc là	phuong.nthithanh2520@hoasen.edu.vn:Gmail
+ông Trần Văn Dương:Người	có Email liên lạc là	duong.tranvan@hoasen.edu.vn:Gmail
+bà Hồ Phương Nguyệt Ánh:Người	có Email liên lạc là	anh.hophuongnguyet@hoasen.edu.vn:Gmail
+bà Trần Ngọc Dung:Người	có Email liên lạc là	dung.tranngoc@hoasen.edu.vn:Gmail
+ông John Basihan Bayarong:Người	có Email liên lạc là	john.bayarong@hoasen.edu.vn:Gmail
+bà Biện Thị Thanh Mai:Người	có Email liên lạc là	mai.bienthithanh@hoasen.edu.vn:Gmail
+ông Trịnh Bình Thanh Sơn:Người	có Email liên lạc là	son.trinhbinhthanh@hoasen.edu.vn:Gmail
+ông Nguyễn Văn Chương:Người	có Email liên lạc là	chuong.nguyenvan@hoasen.edu.vn:Gmail
+ông Nguyễn Chí Duy Khương:Người	có Email liên lạc là	khuong.nguyenchiduy@hoasen.edu.vn:Gmail
+bà Võ Thị Kiều Loan:Người	có Email liên lạc là	loan.vothikieu@hoasen.edu.vn:Gmail
+bà Ngô Thị Thanh Thanh:Người	có Email liên lạc là	thanh.ngothithanh@hoasen.edu.vn:Gmail
+bà Nguyễn Thị Thanh Thế:Người	có Email liên lạc là	the.nguyenthithanh@hoasen.edu.vn:Gmail
+bà Nguyễn Hương Anh:Người	có Email liên lạc là	anh.nguyenhuong@hoasen.edu.vn:Gmail
+bà Hoàng Tô Thư Dung:Người	có Email liên lạc là	dung.hoangtothu@hoasen.edu.vn:Gmail
+bà Nguyễn Thị Thanh Hồng:Người	có Email liên lạc là	hong.nguyenthithanh@hoasen.edu.vn:Gmail
+ông Nguyễn Ngọc Thiên Nam:Người	có Email liên lạc là	nam.nguyenngocthien@hoasen.edu.vn:Gmail
+bà Võ Minh Nhã:Người	có Email liên lạc là	nha.vominh@hoasen.edu.vn:Gmail
+bà Võ Thị Bích Phương:Người	có Email liên lạc là	phuong.vothibich@hoasen.edu.vn:Gmail
+bà Võ Thị Tâm Phúc:Người	có Email liên lạc là	phuc.vothitam@hoasen.edu.vn:Gmail
+bà Vương Ngọc Tiền:Người	có Email liên lạc là	tien.vuongngoc@hoasen.edu.vn:Gmail
+ông Thái Ngọc Sơn:Người	có Email liên lạc là	son.thaingoc@hoasen.edu.vn:Gmail
+bà Trần Nhật Linh Chi:Người	có Email liên lạc là	chi.trannhatlinh@hoasen.edu.vn:Gmail
+bà Bùi Ngọc Quế Anh:Người	có Email liên lạc là	anh.buingocque@hoasen.edu.vn:Gmail
+bà Trương Trúc Quỳnh:Người	có Email liên lạc là	quynh.truongtruc@hoasen.edu.vn:Gmail
+bà Trần Nguyễn Hoài Phương:Người	có Email liên lạc là	phuong.trnguyenhoai@hoasen.edu.vn:Gmail
+ông Trà Thanh Tuấn:Người	có Email liên lạc là	tuan.trathanh@hoasen.edu.vn:Gmail
+bà Nguyễn Thị Phương Nam:Người	có Email liên lạc là	nam.nguyenthiphuong@hoasen.edu.vn:Gmail
+bà Bùi Mỹ Tiên:Người	có Email liên lạc là	tien.buimy@hoasen.edu.vn:Gmail
+bà Trần Thị Ngọc Oanh:Người	có Email liên lạc là	oanh.tranthingoc@hoasen.edu.vn:Gmail
+bà Nguyễn Hoàng Mỹ Duyên:Người	có Email liên lạc là	duyen.nguyenhoangmy@hoasen.edu.vn:Gmail
+bà Lâm Tú Anh:Người	có Email liên lạc là	anh.lamtu@hoasen.edu.vn:Gmail
+bà Trần Ngọc Minh Thư:Người	có Email liên lạc là	thu.tranngocminh3369@hoasen.edu.vn:Gmail
+bà Lê Bích Ngân:Người	có Email liên lạc là	ngan.lebich@hoasen.edu.vn:Gmail
+bà Lê Ngọc Yến Phương:Người	có Email liên lạc là	phuong.lengocyen@hoasen.edu.vn:Gmail
+Đại học Hoa Sen:Trường Đại học	nằm ở	Sài Gòn:Thành phố
+Đại học Hoa Sen:Trường Đại học	thành lập	năm 2006:Năm
+Đại học Hoa Sen:Trường Đại học	chuyên ngành	Kinh doanh:Chuyên ngành
+Đại học Hoa Sen:Trường Đại học	cung cấp	các ngành học đa dạng:Mô tả
+Đại học Hoa Sen:Trường Đại học	có	môi trường học tập hiện đại:Mô tả
+Đại học Hoa Sen:Trường Đại học	tọa lạc	trên đường Nguyễn Văn Tráng:Địa điểm
+Đại học Hoa Sen:Trường Đại học	đạt	chất lượng giảng dạy cao:Mô tả
+Đại học Hoa Sen:Trường Đại học	tổ chức	các hoạt động ngoại khóa phong phú:Mô tả
+Đại học Hoa Sen:Trường Đại học	có	các cơ sở vật chất hiện đại:Mô tả
+Đại học Hoa Sen:Trường Đại học	nổi tiếng	với ngành nghề Kinh doanh:Mô tả
+Đại học Hoa Sen:Trường Đại học	phát triển	mạnh mẽ trong thời gian gần đây:Mô tả
+Đại học Hoa Sen:Trường Đại học	tiến xa	trong việc hợp tác quốc tế:Mô tả
+Đại học Hoa Sen:Trường Đại học	thu hút	nhiều sinh viên quốc tế:Mô tả
+Đại học Hoa Sen:Trường Đại học	có	mối quan hệ mạng lưới rộng khắp:Mô tả
+Đại học Hoa Sen:Trường Đại học	tập trung	vào việc phát triển cá nhân cho sinh viên:Mô tả
+Đại học Hoa Sen:Trường Đại học	đào tạo	theo mô hình giáo dục quốc tế:Mô tả
+Đại học Hoa Sen:Trường Đại học	giới thiệu	nhiều chương trình học bổng:Mô tả
+Đại học Hoa Sen:Trường Đại học	đầu tư	vào cơ sở vật chất:Mô tả
+Đại học Hoa Sen:Trường Đại học	nổi bật	trong lĩnh vực nghiên cứu và phát triển:Mô tả
+Đại học Hoa Sen:Trường Đại học	tham gia	vào các hoạt động cộng đồng:Mô tả
+Đại học Hoa Sen:Trường Đại học	có	mối quan hệ tốt với doanh nghiệp:Mô tả
+Đại học Hoa Sen:Trường Đại học	đổi mới	trong phương pháp giảng dạy:Mô tả
+Đại học Hoa Sen:Trường Đại học	cam kết	cung cấp chất lượng đào tạo cao:Mô tả
+Đại học Hoa Sen:Trường Đại học	thực hiện	các dự án nghiên cứu ứng dụng:Mô tả
+Đại học Hoa Sen:Trường Đại học	hợp tác	với các trường đại học uy tín trên thế giới:Mô tả
+Đại học Hoa Sen:Trường Đại học	tạo ra	môi trường học tập tích cực và năng động:Mô tả
+Đại học Hoa Sen:Trường Đại học	thúc đẩy	sự đa dạng văn hóa và quốc tế hóa trong môi trường học tập:Mô tả
+Đại học Hoa Sen:Trường Đại học	đảm bảo	cơ sở vật chất và trang thiết bị hiện đại đáp ứng nhu cầu học tập của sinh viên:Mô tả
+Đại học Hoa Sen:Trường Đại học	giới thiệu	các chương trình học kép kỹ năng mềm và chuyên môn:Mô tả
+Đại học Hoa Sen:Trường Đại học	đào tạo	nguồn nhân lực chất lượng cao cho thị trường lao động:Mô tả
+Đại học Hoa Sen:Trường Đại học	phát triển	các dự án nghiên cứu ứng dụng vào thực tiễn:Mô tả
+Đại học Hoa Sen:Trường Đại học	hỗ trợ	sinh viên tham gia các chương trình trao đổi quốc tế:Mô tả
+Đại học Hoa Sen:Trường Đại học	tổ chức	các sự kiện văn hóa và giáo dục nhằm thúc đẩy sự đa dạng:Mô tả
+Đại học Hoa Sen:Trường Đại học	tạo ra	môi trường học tập sáng tạo và khuyến khích sinh viên độc lập tư duy:Mô tả
+Đại học Hoa Sen:Trường Đại học	đào tạo	các chuyên ngành ngôn ngữ và văn hóa:Mô tả
+Đại học Hoa Sen:Trường Đại học	phát triển	các chương trình học liên kết với doanh nghiệp:Mô tả
+Đại học Hoa Sen:Trường Đại học	hỗ trợ	sinh viên tham gia các hoạt động xã hội và tình nguyện:Mô tả
+Đại học Hoa Sen:Trường Đại học	tổ chức	các cuộc thi sáng tạo và khởi nghiệp cho sinh viên:Mô tả
+Đại học Hoa Sen:Trường Đại học	cung cấp	cơ hội học tập quốc tế thông qua chương trình trao đổi sinh viên:Mô tả
+Đại học Hoa Sen:Trường Đại học	mở rộng	mối quan hệ hợp tác với các doanh nghiệp trong và ngoài nước:Mô tả
+Đại học Hoa Sen:Trường Đại học	đào tạo	các ngành nghề liên quan đến sáng tạo và thiết kế:Mô tả
+Đại học Hoa Sen:Trường Đại học	đồng hành	cùng sinh viên trong quá trình tìm kiếm cơ hội việc làm:Mô tả
+Đại học Hoa Sen:Trường Đại học	xây dựng	các chương trình đào tạo phù hợp với nhu cầu thị trường lao động:Mô tả
+Đại học Hoa Sen:Trường Đại học	hỗ trợ	các hoạt động nghiên cứu khoa học của sinh viên:Mô tả
+Đại học Hoa Sen:Trường Đại học	thúc đẩy	sự phát triển bền vững và xã hội hóa:Mô tả
+Đại học Hoa Sen:Trường Đại học	hỗ trợ	các hoạt động nghiên cứu và phát triển công nghệ:Mô tả
+Đại học Hoa Sen:Trường Đại học	tổ chức	thực tập và học tập trong môi trường thực tiễn:Mô tả
+Đại học Hoa Sen:Trường Đại học	phát triển	các chương trình đào tạo quốc tế:Mô tả
+Đại học Hoa Sen:Trường Đại học	đồng hành	cùng sinh viên trong suốt quá trình học tập và nghiên cứu:Mô tả
+Đại học Hoa Sen:Trường Đại học	đào tạo	các ngành nghề về truyền thông và quảng cáo:Mô tả
+Đại học Hoa Sen:Trường Đại học	phát triển	chương trình học về kỹ thuật máy tính và phần mềm:Mô tả
+Đại học Hoa Sen:Trường Đại học	cung cấp	cơ sở vật chất và trang thiết bị hiện đại cho sinh viên:Mô tả
+Đại học Hoa Sen:Trường Đại học	đào tạo	các chuyên ngành về nghệ thuật và thiết kế:Mô tả
+Đại học Hoa Sen:Trường Đại học	tổ chức	các hoạt động văn hóa và thể thao để phát triển sinh viên:Mô tả
+Đại học Hoa Sen:Trường Đại học	hỗ trợ	sinh viên tham gia các dự án nghiên cứu và phát triển:Mô tả
+Đại học Hoa Sen:Trường Đại học	mở rộng	các cơ hội học tập quốc tế cho sinh viên:Mô tả
+Đại học Hoa Sen:Trường Đại học	tạo ra	môi trường học tập linh hoạt và thân thiện:Mô tả
+Đại học Hoa Sen:Trường Đại học	giới thiệu	các chương trình học song ngữ và đa ngành:Mô tả
+Đại học Hoa Sen:Trường Đại học	đào tạo	các ngành nghề về quản trị kinh doanh và tài chính:Mô tả
+Đại học Hoa Sen:Trường Đại học	thúc đẩy	sự sáng tạo và khởi nghiệp trong sinh viên:Mô tả
+Đại học Hoa Sen:Trường Đại học	hỗ trợ	các sinh viên tham gia các hoạt động ngoại khóa và tự chủ học tập:Mô tả
+Đại học Hoa Sen:Trường Đại học	đào tạo	các chương trình học tập linh hoạt và đa dạng:Mô tả
+Đại học Hoa Sen:Trường Đại học	phát triển	mô hình giáo dục tiên tiến và phù hợp với yêu cầu thị trường lao động:Mô tả
+Đại học Hoa Sen:Trường Đại học	đồng hành	cùng sinh viên trong suốt quá trình học tập và phát triển cá nhân:Mô tả
+Đại học Hoa Sen:Trường Đại học	xây dựng	môi trường học tập tích cực và sôi động:Mô tả
+Đại học Hoa Sen:Trường Đại học	đảm bảo	sự an toàn và thoải mái cho sinh viên trong quá trình học tập:Mô tả
+Đại học Hoa Sen:Trường Đại học	tổ chức	các sự kiện văn hóa và hội thảo chuyên ngành đa dạng:Mô tả
+Đại học Hoa Sen:Trường Đại học	hỗ trợ	sinh viên tham gia các dự án nghiên cứu và phát triển công nghệ:Mô tả
+Đại học Hoa Sen:Trường Đại học	phát triển	mối quan hệ hợp tác với các tổ chức quốc tế và doanh nghiệp:Mô tả
+Đại học Hoa Sen:Trường Đại học	đào tạo	các chương trình học có tính ứng dụng cao trong thực tế:Mô tả
+Đại học Hoa Sen:Trường Đại học	thúc đẩy	sự đổi mới và sáng tạo trong giảng dạy và nghiên cứu:Mô tả
+Đại học Hoa Sen:Trường Đại học	đảm bảo	sự tương tác và hỗ trợ giữa sinh viên và giảng viên:Mô tả
+Đại học Hoa Sen:Trường Đại học	phát triển	các chương trình học đa dạng và linh hoạt:Mô tả
+Đại học Hoa Sen:Trường Đại học	tạo ra	cơ hội học tập và nghiên cứu trong môi trường đa văn hóa:Mô tả
+Đại học Hoa Sen:Trường Đại học	giới thiệu	các khóa học tiên tiến và cập nhật với xu hướng công nghệ mới:Mô tả
+Đại học Hoa Sen:Trường Đại học	hỗ trợ	sinh viên thực hiện các dự án nghiên cứu và phát triển cá nhân:Mô tả
+Đại học Hoa Sen:Trường Đại học	đồng hành	cùng sinh viên trong việc phát triển kỹ năng và sự nghiệp:Mô tả
+Đại học Hoa Sen:Trường Đại học	xây dựng	mô hình giáo dục linh hoạt và phù hợp với nhu cầu của sinh viên:Mô tả
+Đại học Hoa Sen:Trường Đại học	đào tạo	nguồn nhân lực có phẩm chất và kỹ năng chuyên môn cao:Mô tả
+Đại học Hoa Sen:Trường Đại học	phát triển	mối quan hệ đối tác với các doanh nghiệp và tổ chức trong cộng đồng:Mô tả
+Đại học Hoa Sen:Trường Đại học	khuyến khích	sự sáng tạo và khởi nghiệp trong sinh viên:Mô tả
+Đại học Hoa Sen:Trường Đại học	tạo điều kiện	cho sinh viên tham gia các hoạt động ngoại khóa và xã hội:Mô tả
+Đại học Hoa Sen:Trường Đại học	hỗ trợ	sinh viên trong việc xây dựng và phát triển kế hoạch sự nghiệp:Mô tả
+Đại học Hoa Sen:Trường Đại học	đồng hành	cùng sinh viên trong việc thực hiện dự án và nghiên cứu:Mô tả
+Đại học Hoa Sen:Trường Đại học	cam kết	mở rộng và nâng cao chất lượng giáo dục và dịch vụ:Mô tả
+Đại học Hoa Sen:Trường Đại học	đầu tư	vào cơ sở vật chất và hạ tầng hiện đại:Mô tả
+Đại học Hoa Sen:Trường Đại học	thúc đẩy	sự đa dạng và tính cởi mở trong môi trường học tập:Mô tả
+Đại học Hoa Sen:Trường Đại học	tổ chức	các sự kiện và chương trình văn hóa để tạo cơ hội giao lưu và học hỏi:Mô tả
+Đại học Hoa Sen:Trường Đại học	phát triển	môi trường học tập chủ động và khám phá:Mô tả
+Đại học Hoa Sen:Trường Đại học	hỗ trợ	sinh viên thực hiện các dự án nghiên cứu và phát triển công nghệ:Mô tả
+Đại học Hoa Sen:Trường Đại học	đồng hành	cùng sinh viên trong việc xây dựng kế hoạch nghề nghiệp:Mô tả
+Đại học Hoa Sen:Trường Đại học	phát triển	các chương trình học liên kết với doanh nghiệp và tổ chức xã hội:Mô tả
+Đại học Hoa Sen:Trường Đại học	đào tạo	các chuyên ngành về nghệ thuật sáng tạo và thiết kế:Mô tả
+Đại học Hoa Sen:Trường Đại học	hỗ trợ	sinh viên tham gia các hoạt động văn hóa và tình nguyện xã hội:Mô tả
+Đại học Hoa Sen:Trường Đại học	tạo điều kiện	cho sinh viên thực hiện thực tập và học tập tại các doanh nghiệp:Mô tả
+Đại học Hoa Sen:Trường Đại học	giới thiệu	các khóa học về quản trị và lãnh đạo doanh nghiệp:Mô tả
+Đại học Hoa Sen:Trường Đại học	thúc đẩy	sự đổi mới và sáng tạo trong học tập và nghiên cứu:Mô tả
+Đại học Hoa Sen:Trường Đại học	đảm bảo	sự phát triển bền vững và cân đối giữa các khía cạnh của sinh viên:Mô tả
+Đại học Hoa Sen:Trường Đại học	mở rộng	mạng lưới hợp tác với các trường đại học và tổ chức quốc tế:Mô tả
+Đại học Hoa Sen:Trường Đại học 	cung cấp	chương trình học bổng hấp dẫn cho sinh viên xuất sắc:Mô tả
+Đại học Hoa Sen:Trường Đại học 	khuyến khích	sự tham gia của sinh viên vào các hoạt động nghiên cứu khoa học:Mô tả
+Đại học Hoa Sen:Trường Đại học	hỗ trợ	sinh viên trong việc phát triển kỹ năng mềm và chuyên môn:Mô tả
+Đại học Hoa Sen:Trường Đại học	đào tạo	các chuyên ngành về công nghệ thông tin và truyền thông:Mô tả
+Đại học Hoa Sen:Trường Đại học	tổ chức	các sự kiện văn hóa và nghệ thuật thú vị cho cộng đồng:Mô tả
+Đại học Hoa Sen:Trường Đại học	xây dựng	môi trường học tập đa dạng và thú vị:Mô tả
+Đại học Hoa Sen:Trường Đại học	cam kết	phát triển và nâng cao chất lượng giáo dục theo tiêu chuẩn quốc tế:Mô tả
+Đại học Hoa Sen:Trường Đại học	hỗ trợ	sinh viên trong việc thực hiện các dự án sáng tạo và khởi nghiệp:Mô tả
+Đại học Hoa Sen:Trường Đại học	đồng hành	cùng sinh viên trong suốt quá trình học tập và phát triển nghề nghiệp:Mô tả
+Đại học Hoa Sen:Trường Đại học	hướng dẫn	sinh viên trong việc xây dựng kế hoạch học tập và sự nghiệp:Mô tả
+Đại học Hoa Sen:Trường Đại học	đào tạo	các chuyên ngành về kinh doanh và quản trị:Mô tả
+Đại học Hoa Sen:Trường Đại học	tạo điều kiện	cho sinh viên tham gia các dự án nghiên cứu khoa học:Mô tả
+Đại học Hoa Sen:Trường Đại học	khuyến khích	sự sáng tạo và khởi nghiệp trong sinh viên:Mô tả
+Đại học Hoa Sen:Trường Đại học	xây dựng	môi trường học tập tích cực và hỗ trợ:Mô tả
+Đại học Hoa Sen:Trường Đại học	tạo cơ hội	cho sinh viên thực tập tại các doanh nghiệp lớn:Mô tả
+Đại học Hoa Sen:Trường Đại học	đồng hành	cùng sinh viên trong quá trình rèn luyện và phát triển bản thân:Mô tả
+Đại học Hoa Sen:Trường Đại học	thúc đẩy	sự đa dạng văn hóa và hòa nhập quốc tế:Mô tả
+Đại học Hoa Sen:Trường Đại học	giúp đỡ	sinh viên xây dựng mối quan hệ và kết nối trong ngành nghề:Mô tả
+Đại học Hoa Sen:Trường Đại học	phát triển	các chương trình học tiên tiến phản ánh xu hướng công nghệ mới:Mô tả
+Đại học Hoa Sen:Trường Đại học	tạo ra	môi trường học tập đổi mới và sáng tạo:Mô tả
+Đại học Hoa Sen:Trường Đại học	thúc đẩy	sự phát triển cá nhân và chuyên môn cho sinh viên:Mô tả
+Đại học Hoa Sen:Trường Đại học	xây dựng	mối quan hệ hợp tác chặt chẽ với doanh nghiệp:Mô tả
+Đại học Hoa Sen:Trường Đại học	đào tạo	nguồn nhân lực chất lượng cao cho xã hội:Mô tả
+Đại học Hoa Sen:Trường Đại học	tạo điều kiện	cho sinh viên tham gia các hoạt động xã hội và từ thiện:Mô tả
+Đại học Hoa Sen:Trường Đại học	thúc đẩy	sự nghiệp và phát triển bản thân của sinh viên:Mô tả
+Đại học Hoa Sen:Trường Đại học	cam kết	cung cấp một môi trường học tập công bằng và minh bạch:Mô tả
+Đại học Hoa Sen:Trường Đại học	hỗ trợ	sinh viên trong việc tìm kiếm cơ hội việc làm sau tốt nghiệp:Mô tả
+Đại học Hoa Sen:Trường Đại học	đồng hành	cùng sinh viên trong mọi thách thức và thành công:Mô tả
+Đại học Hoa Sen:Trường Đại học	đào tạo	các chuyên gia có kiến thức và kỹ năng phù hợp với thị trường lao động:Mô tả
+Đại học Hoa Sen:Trường Đại học	thúc đẩy	sự đa dạng văn hóa và hòa nhập quốc tế:Giá trị văn hóa
+Đại học Hoa Sen:Trường Đại học	giúp đỡ	sinh viên xây dựng mối quan hệ và kết nối trong ngành nghề:Kết nối nghề nghiệp
+Đại học Hoa Sen:Trường Đại học	phát triển	các chương trình học tiên tiến phản ánh xu hướng công nghệ mới:Công nghệ tiên tiến
+Đại học Hoa Sen:Trường Đại học	cung cấp	các dịch vụ hỗ trợ sinh viên:Dịch vụ hỗ trợ học vụ
+Đại học Hoa Sen:Trường Đại học	tạo cơ hội	cho sinh viên tham gia các hoạt động nghệ thuật và văn hóa:Cơ hội nghệ thuật sáng tạo
+Đại học Hoa Sen:Trường Đại học	xây dựng	mối quan hệ chặt chẽ với doanh nghiệp:Mối quan hệ hợp tác doanh nghiệp
+Đại học Hoa Sen:Trường Đại học	mang đến	các chương trình đào tạo theo yêu cầu của người học:Chương trình đào tạo cá nhân hóa
+Đại học Hoa Sen:Trường Đại học	tạo cơ hội	học tập và làm việc trong môi trường quốc tế:Môi trường quốc tế
+Đại học Hoa Sen:Trường Đại học	thúc đẩy	sự sáng tạo và khởi nghiệp trong sinh viên:Sáng tạo và khởi nghiệp
+Đại học Hoa Sen:Trường Đại học	cung cấp	các khoản hỗ trợ tài chính cho sinh viên:Hỗ trợ tài chính
+Trường Đại học Hoa Sen:Trường 	có cơ sở	Quang Trung:địa điểm
+Cơ sở Quang Trung:địa điểm	tọa lạc tại	đường số 5, công viên phần mềm Quang Trung, phường Tân Chánh Hiệp, quận 12, thành phố Hồ Chí Minh.:địa chỉ
+Trường Đại học Hoa Sen:Trường 	có cơ sở	Thành Thái:địa điểm
+Cơ sở Thành Thái:địa điểm	tọa lạc tại	7/1 Thành Thái, phường 14, quận 10, thành phố Hồ Chí Minh.:địa chỉ
+Trường Đại học Hoa Sen:Trường 	có cơ sở	Cao Thắng:địa điểm
+Cơ sở Cao Thắng:địa điểm	tọa lạc tại	93 Cao Thắng, phường 3, quận 3, thành phố Hồ Chí Minh.:địa chỉ
+Trường Đại học Hoa Sen:Trường 	có cơ sở	Nguyễn Văn Tráng:địa điểm
+Cơ sở Nguyễn Văn Tráng:địa điểm	tọa lạc tại	8 Nguyễn Văn Tráng, phường Bến Thành, quận 1, thành phố Hồ Chí Minh.:địa chỉ
+Trường Đại học Hoa Sen:Trường	có khoa	Công nghệ thông tin.:khoa
+Trường Đại học Hoa Sen:Trường	có khoa	Du lịch – Nhà hàng – Khách sạn.:khoa
+Trường Đại học Hoa Sen:Trường	có khoa	Kinh tế – Quản trị.:khoa
+Trường Đại học Hoa Sen:Trường	có khoa	Logistics – Thương mại quốc tế.:khoa
+Trường Đại học Hoa Sen:Trường	có khoa	Tài chính – Ngân hàng.:khoa
+Trường Đại học Hoa Sen:Trường	có khoa	Thiết kế – Nghệ Thuật.:khoa
+Trường Đại học Hoa Sen:Trường	có khoa	Khoa học xã hội – Luật.:khoa
+Trường Đại học Hoa Sen:Trường	có khoa	Ngôn ngữ – Văn hóa quốc tế.:khoa
+Gmail:Gmail	của Bộ phận chăm sóc y tế là	yte@hoasen.edu.vn:địa chỉ email
+Gmail:Gmail	của Bộ phận Quan hệ doanh nghiệp – Việc làm là	thuctap@hoasen.edu.vn:địa chỉ email
+Gmail:Gmail	của Bộ phận Dịch vụ sinh viên là	dichvusinhvien@hoasen.edu.vn:địa chỉ email
+Gmail:Gmail	của Tutoring Service - Mentoring Program là	yte@hoasen.edu.vn:địa chỉ email
+Gmail:Gmail	của Phòng Khảo thí - Đảm bảo Chất lượng là	pdbclkt@hoasen.edu.vn:địa chỉ email
+Gmail:Gmail	của Trung tâm Tuyển sinh là	tuyensinh@hoasen.edu.vn:địa chỉ email
+Gmail:Gmail	của Thư viện là	thuvien@hoasen.edu.vn:địa chỉ email
+Gmail:Gmail	của Phòng Hợp tác quốc tế là	oric@hoasen.edu.vn:địa chỉ email
+Gmail của Bộ phận chăm sóc y tế:Gmail của Bộ phận chăm sóc y tế	là	yte@hoasen.edu.vn:địa chỉ email
+Gmail của Bộ phận Quan hệ doanh nghiệp – Việc làm:Gmail của Bộ phận Quan hệ doanh nghiệp – Việc làm	là	thuctap@hoasen.edu.vn:địa chỉ email
+Gmail của Bộ phận Dịch vụ sinh viên:Gmail của Bộ phận Dịch vụ sinh viên	là	dichvusinhvien@hoasen.edu.vn:địa chỉ email
+Gmail của Tutoring Service - Mentoring Program:Gmail của Tutoring Service - Mentoring Program	là	yte@hoasen.edu.vn:địa chỉ email
+Gmail của Phòng Khảo thí - Đảm bảo Chất lượng:Gmail của Phòng Khảo thí - Đảm bảo Chất lượng	là	pdbclkt@hoasen.edu.vn:địa chỉ email
+Gmail của Trung tâm Tuyển sinh:Gmail của Trung tâm Tuyển sinh	là	tuyensinh@hoasen.edu.vn:địa chỉ email
+Gmail của Thư viện:Gmail của Thư viện	là	thuvien@hoasen.edu.vn:địa chỉ email
+Gmail của Phòng Hợp tác quốc tế:Gmail của Phòng Hợp tác quốc tế	là	oric@hoasen.edu.vn:địa chỉ email
+Số điện thoại:Số điện thoại	của Bộ phận chăm sóc y tế là	028 7309 1991 – Ext 4708; 4922; 4882; 4903:thông tin liên lạc
+Số điện thoại:Số điện thoại	của Bộ phận Quan hệ doanh nghiệp – Việc làm là	028 7309 1991 – Ext 4703; 4851:thông tin liên lạc
+Số điện thoại:Số điện thoại	của Hệ thống nhà ở sinh viên là	028 7309 1991 – Ext 4701:thông tin liên lạc
+Số điện thoại:Số điện thoại	của Bộ phận Dịch vụ sinh viên là	028 7309 1991 – Ext 4702; 4707; 4701:thông tin liên lạc
+Số điện thoại:Số điện thoại	của Hoa Sen Alumni Network là	028 7309 1991 – Ext 4711:thông tin liên lạc
+Số điện thoại:Số điện thoại	của Tutoring Service - Mentoring Program là	028 7309 1991 – Ext 4700:thông tin liên lạc
+Số điện thoại:Số điện thoại	của Khoa Công nghệ thông tin là	028 7309 1991 – Ext 4863; 4766:thông tin liên lạc
+Số điện thoại:Số điện thoại	của Khoa Logistics - Thương mại Quốc tế là	028 7309 1991 – Ext 4811; 4812:thông tin liên lạc
+Số điện thoại:Số điện thoại	của CHƯƠNG TRÌNH VATEL thuộc Khoa Du lịch - Nhà hàng - Khách sạn là	028 7309 1991 – Ext 4792:thông tin liên lạc
+Số điện thoại:Số điện thoại	của CHƯƠNG TRÌNH HOA SEN ELITE thuộc Khoa Du lịch - Nhà hàng - Khách sạn là	028 7309 1991 – Ext 479:thông tin liên lạc
+Số điện thoại:Số điện thoại	của Khoa Du lịch - Nhà hàng - Khách sạn là	028 7309 1991 – Ext 4788; 4789:thông tin liên lạc
+Số điện thoại:Số điện thoại	của Khoa Du lịch - Nhà hàng - Khách sạn là	028 7309 1991 – Ext 4788; 4789:thông tin liên lạc
+Số điện thoại:Số điện thoại	của Khoa Tài chính – Ngân hàng là	028 7309 1991 – Ext 4821; 4876:thông tin liên lạc
+Số điện thoại:Số điện thoại	của Khoa Thiết kế - Nghệ thuật là	028 7309 1991 – Ext 4933; 4934:thông tin liên lạc
+Số điện thoại:Số điện thoại	của Phòng Đào tạo Đại học là	028 7309 1991 – Ext 4689; 4683; 4691:thông tin liên lạc
+Số điện thoại:Số điện thoại	của Khoa Ngôn ngữ - Văn hóa Quốc tế là	028 7309 1991 – Ext 4913; 4757:thông tin liên lạc
+Số điện thoại:Số điện thoại	của CHƯƠNG TRÌNH ANH VĂN TỔNG QUÁT thuộc Khoa Ngôn ngữ - Văn hóa Quốc tế là	028 7309 1991 – Ext 4913; 4757:thông tin liên lạc
+Số điện thoại:Số điện thoại	của Phòng Tài chính - Kế toán là	028 7309 1991 – Ext 4635; 4636:thông tin liên lạc
+Số điện thoại:Số điện thoại	của Khoa Khoa học Xã hội – Luật là	028 7309 1991 – Ext 4804; 4805:thông tin liên lạc
+Số điện thoại:Số điện thoại	của Phòng Nhân sự là	028 7309 1991 – Ext 4628:thông tin liên lạc
+Số điện thoại:Số điện thoại	của Khoa Kinh tế - Quản trị là	028 7309 1991 – Ext 4774; 4776:thông tin liên lạc
+Số điện thoại:Số điện thoại	của Phòng Khảo thí - Đảm bảo Chất lượng là	028 7309 1991 – Ext 4740:thông tin liên lạc
+Số điện thoại:Số điện thoại	của Phòng Quản lý Cơ sở vật chất là	028 7309 1991 – Ext 4646:thông tin liên lạc
+Số điện thoại:Số điện thoại	của Trung tâm Tuyển sinh là	028 7300 7272 – 0908 275 276:thông tin liên lạc
+Số điện thoại:Số điện thoại	của Thư viện là	028 7309 1991 – Ext 4734; 4859:thông tin liên lạc 
+Số điện thoại:Số điện thoại	của Trung tâm Thể thao là	028 7309 1991 - Ext 4849:thông tin liên lạc
+Số điện thoại:Số điện thoại	của Phòng Hợp tác quốc tế là	028 7309 1991 – Ext 4726:thông tin liên lạc
+Số điện thoại:Số điện thoại	của Viện Sau Đại học & Lãnh đạo là	028 7309 1991 – Ext 4747; 4750:thông tin liên lạc
+Số điện thoại của Bộ phận chăm sóc y tế:Số điện thoại của Bộ phận chăm sóc y tế	là	028 7309 1991 – Ext 4708; 4922; 4882; 4903:thông tin liên lạc
+Số điện thoại của Bộ phận Quan hệ doanh nghiệp – Việc làm:Số điện thoại của Bộ phận Quan hệ doanh nghiệp – Việc làm	là	028 7309 1991 – Ext 4703; 4851:thông tin liên lạc
+Số điện thoại của Hệ thống nhà ở sinh viên:Số điện thoại của Hệ thống nhà ở sinh viên	là	028 7309 1991 – Ext 4701:thông tin liên lạc
+Số điện thoại của Bộ phận Dịch vụ sinh viên:Số điện thoại của Bộ phận Dịch vụ sinh viên	là	028 7309 1991 – Ext 4702; 4707; 4701:thông tin liên lạc
+Số điện thoại của Hoa Sen Alumni Network:Số điện thoại của Hoa Sen Alumni Network	là	028 7309 1991 – Ext 4711:thông tin liên lạc
+Số điện thoại của Tutoring Service - Mentoring Program:Số điện thoại của Tutoring Service - Mentoring Program	là	028 7309 1991 – Ext 4700:thông tin liên lạc
+Số điện thoại của Khoa Công nghệ thông tin:Số điện thoại của Khoa Công nghệ thông tin	là	028 7309 1991 – Ext 4863; 4766:thông tin liên lạc
+Số điện thoại của Khoa Logistics - Thương mại Quốc tế:Số điện thoại của Khoa Logistics - Thương mại Quốc tế	là	028 7309 1991 – Ext 4811; 4812:thông tin liên lạc
+Số điện thoại của CHƯƠNG TRÌNH VATEL thuộc Khoa Du lịch - Nhà hàng - Khách sạn:Số điện thoại của CHƯƠNG TRÌNH VATEL thuộc Khoa Du lịch - Nhà hàng - Khách sạn	là	028 7309 1991 – Ext 4792:thông tin liên lạc
+Số điện thoại của CHƯƠNG TRÌNH HOA SEN ELITE thuộc Khoa Du lịch - Nhà hàng - Khách sạn:Số điện thoại của CHƯƠNG TRÌNH HOA SEN ELITE thuộc Khoa Du lịch - Nhà hàng - Khách sạn	là	028 7309 1991 – Ext 479:thông tin liên lạc
+Số điện thoại của Khoa Du lịch - Nhà hàng - Khách sạn:Số điện thoại của Khoa Du lịch - Nhà hàng - Khách sạn	là	028 7309 1991 – Ext 4788; 4789:thông tin liên lạc
+Số điện thoại của Khoa Tài chính – Ngân hàng:Số điện thoại của Khoa Tài chính – Ngân hàng	là	028 7309 1991 – Ext 4821; 4876:thông tin liên lạc
+Số điện thoại của Khoa Thiết kế - Nghệ thuật:Số điện thoại của Khoa Thiết kế - Nghệ thuật	là	028 7309 1991 – Ext 4933; 4934:thông tin liên lạc
+Số điện thoại của Phòng Đào tạo Đại học:Số điện thoại của Phòng Đào tạo Đại học	là	028 7309 1991 – Ext 4689; 4683; 4691:thông tin liên lạc
+Số điện thoại của Khoa Ngôn ngữ - Văn hóa Quốc tế:Số điện thoại của Khoa Ngôn ngữ - Văn hóa Quốc tế	là	028 7309 1991 – Ext 4913; 4757:thông tin liên lạc
+Số điện thoại của CHƯƠNG TRÌNH ANH VĂN TỔNG QUÁT thuộc Khoa Ngôn ngữ - Văn hóa Quốc tế:Số điện thoại của CHƯƠNG TRÌNH ANH VĂN TỔNG QUÁT thuộc Khoa Ngôn ngữ - Văn hóa Quốc tế	là	028 7309 1991 – Ext 4913; 4757:thông tin liên lạc
+Số điện thoại của Phòng Tài chính - Kế toán:Số điện thoại của Phòng Tài chính - Kế toán	là	028 7309 1991 – Ext 4635; 4636:thông tin liên lạc
+Số điện thoại của Khoa Khoa học Xã hội – Luật:Số điện thoại của Khoa Khoa học Xã hội – Luật	là	028 7309 1991 – Ext 4804; 4805:thông tin liên lạc
+Số điện thoại của Phòng Nhân sự:Số điện thoại của Phòng Nhân sự	là	028 7309 1991 – Ext 4628:thông tin liên lạc
+Số điện thoại của Khoa Kinh tế - Quản trị:Số điện thoại của Khoa Kinh tế - Quản trị	là	028 7309 1991 – Ext 4774; 4776:thông tin liên lạc
+Số điện thoại của Phòng Khảo thí - Đảm bảo Chất lượng:Số điện thoại của Phòng Khảo thí - Đảm bảo Chất lượng	là	028 7309 1991 – Ext 4740:thông tin liên lạc
+Số điện thoại của Phòng Quản lý Cơ sở vật chất:Số điện thoại của Phòng Quản lý Cơ sở vật chất	là	028 7309 1991 – Ext 4646:thông tin liên lạc
+Số điện thoại của Trung tâm Tuyển sinh:Số điện thoại của Trung tâm Tuyển sinh	là	028 7300 7272 – 0908 275 276:thông tin liên lạc
+Số điện thoại của Thư viện:Số điện thoại của Thư viện	là	028 7309 1991 – Ext 4734; 4859:thông tin liên lạc 
+Số điện thoại của Trung tâm Thể thao:Số điện thoại của Trung tâm Thể thao	là	028 7309 1991 - Ext 4849:thông tin liên lạc
+Số điện thoại của Phòng Hợp tác quốc tế:Số điện thoại của Phòng Hợp tác quốc tế	là	028 7309 1991 – Ext 4726:thông tin liên lạc
+Số điện thoại của Viện Sau Đại học & Lãnh đạo:Số điện thoại của Viện Sau Đại học & Lãnh đạo	là	028 7309 1991 – Ext 4747; 4750:thông tin liên lạc
+Địa chỉ của Bộ phận chăm sóc y tế:Địa chỉ của Bộ phận chăm sóc y tế	là	P. 707 - 08 Nguyễn Văn Tráng, Q.1, TP.HCM; P. 102 – 7/1 Thành Thái, P. 14, Q.10, TP. HCM;P. 009 – Đường số 3, CVPM Quang Trung, Q.12, TP. HCM;P. 206 – 93 Cao Thắng, P. 3, Q.3, TP. HCM.:địa điểm
+Địa chỉ của Bộ phận Quan hệ doanh nghiệp – Việc làm:Địa chỉ của Bộ phận Quan hệ doanh nghiệp – Việc làm	là	P. 101 – 7/1 Thành Thái, Q10, TP.HCM; P. 101 – 7/1 Thành Thái, Q10, TP.HCM:địa điểm
+Địa chỉ của Hệ thống nhà ở sinh viên:Địa chỉ của Hệ thống nhà ở sinh viên	là	P. 101 – 7/1 Thành Thái, Q10, TP.HCM:địa điểm 
+Địa chỉ của Bộ phận Dịch vụ sinh viên:Địa chỉ của Bộ phận Dịch vụ sinh viên	là	P. 101 – 7/1 Thành Thái, Q10, TP.HCM; P.008 - đường số 3, CVPM Quang Trung, Q.12, TP.HCM:địa điểm
+Địa chỉ của Hoa Sen Alumni Network:Địa chỉ của Hoa Sen Alumni Network	là	P. 101 – 7/1 Thành Thái, Q10, TP.HCM:địa điểm
+Địa chỉ của Tutoring Service - Mentoring Program:Địa chỉ của Tutoring Service - Mentoring Program	là	P. 101 – 7/1 Thành Thái, Q10, TP.HCM:địa điểm
+Địa chỉ của Khoa Công nghệ thông tin:Địa chỉ của Khoa Công nghệ thông tin	là	P. 710 - 8 Nguyễn Văn Tráng, Q.1, TP. HCM:địa điểm
+Địa chỉ của Khoa Logistics - Thương mại Quốc tế:Địa chỉ của Khoa Logistics - Thương mại Quốc tế	là	P. 710 - 8 Nguyễn Văn Tráng, Q.1, TP. HCM:địa điểm
+Địa chỉ của Khoa Du lịch - Nhà hàng - Khách sạn:Địa chỉ của Khoa Du lịch - Nhà hàng - Khách sạn	là	P. 710 - 8 Nguyễn Văn Tráng, Q.1, TP. HCM:địa điểm
+Địa chỉ của CHƯƠNG TRÌNH VATEL thuộc Khoa Du lịch - Nhà hàng - Khách sạn:Địa chỉ của CHƯƠNG TRÌNH VATEL thuộc Khoa Du lịch - Nhà hàng - Khách sạn	là	P. 708 - 8 Nguyễn Văn Tráng, Q.1, TP. HCM:địa điểm
+Địa chỉ của CHƯƠNG TRÌNH HOA SEN ELITE thuộc Khoa Du lịch - Nhà hàng - Khách sạn:Địa chỉ của CHƯƠNG TRÌNH HOA SEN ELITE thuộc Khoa Du lịch - Nhà hàng - Khách sạn	là	P. 708 - 8 Nguyễn Văn Tráng, Q.1, TP. HCM:địa điểm
+Địa chỉ của Khoa Tài chính – Ngân hàng:Địa chỉ của Khoa Tài chính – Ngân hàng	là	P. 710 - 8 Nguyễn Văn Tráng, Q.1, TP. HCM:địa điểm
+Địa chỉ của Khoa Thiết kế - Nghệ thuật:Địa chỉ của Khoa Thiết kế - Nghệ thuật	là	P. 604, 93 Cao Thắng, Q.3, TP. HCM:địa điểm
+Địa chỉ của Phòng Đào tạo Đại học:Địa chỉ của Phòng Đào tạo Đại học	là	P. 103 - 8 Nguyễn Văn Tráng, Q.1, TP. HCM; P. 005, Đường số 3, CVPM Quang Trung, Q.12, TP. HCM; P. 205 - 93 Cao Thắng, Q.3, TP. HCM; P. 105 – 7/1 Thành Thái, Q.10, TP. HCM:địa điểm
+Địa chỉ của Khoa Ngôn ngữ - Văn hóa Quốc tế:Địa chỉ của Khoa Ngôn ngữ - Văn hóa Quốc tế	là	P. 710 - 8 Nguyễn Văn Tráng, Q.1, TP. HCM; P. 105, Đường số 3, CVPM Quang Trung, Q.12, Tp. HCM:địa điểm
+Địa chỉ của CHƯƠNG TRÌNH ANH VĂN TỔNG QUÁT thuộc Khoa Ngôn ngữ - Văn hóa Quốc tế:Địa chỉ của CHƯƠNG TRÌNH ANH VĂN TỔNG QUÁT thuộc Khoa Ngôn ngữ - Văn hóa Quốc tế	là	P. 201 – 7/1 Thành Thái, Q.10, TP. HCM:địa điểm
+Địa chỉ của Phòng Tài chính - Kế toán:Địa chỉ của Phòng Tài chính - Kế toán	là	P. 102, 8 Nguyễn Văn Tráng, Q.1, TP. HCM:địa điểm
+Địa chỉ của Khoa Khoa học Xã hội – Luật:Địa chỉ của Khoa Khoa học Xã hội – Luật	là	P. 710 - 8 Nguyễn Văn Tráng, Q.1, TP. HCM:địa điểm
+Địa chỉ của Phòng Nhân sự:Địa chỉ của Phòng Nhân sự	là	P. 703 - 8 Nguyễn Văn Tráng, Q.1, TP. HCM:địa điểm
+Địa chỉ của Khoa Kinh tế - Quản trị:Địa chỉ của Khoa Kinh tế - Quản trị	là	P. 710 - 8 Nguyễn Văn Tráng, Q.1, TP. HCM:địa điểm
+Địa chỉ của Phòng Khảo thí - Đảm bảo Chất lượng:Địa chỉ của Phòng Khảo thí - Đảm bảo Chất lượng	là	P. 803A - 8 Nguyễn Văn Tráng, Q.1, TP. HCM:địa điểm
+Địa chỉ của Phòng Quản lý Cơ sở vật chất:Địa chỉ của Phòng Quản lý Cơ sở vật chất	là	P. 705 - 8 Nguyễn Văn Tráng, Q.1, TP. HCM:địa điểm
+Địa chỉ của Phòng Quản lý khoa học - Tạp chí khoa học:Địa chỉ của Phòng Quản lý khoa học - Tạp chí khoa học	là	P. 803 - 8 Nguyễn Văn Tráng, Q.1, TP. HCM:địa điểm
+Địa chỉ của Trung tâm Tuyển sinh:Địa chỉ của Trung tâm Tuyển sinh	là	P. 001 - 8 Nguyễn Văn Tráng, Q.1, TP. HCM:địa điểm
+Địa chỉ của Thư viện:Địa chỉ của Thư viện	là	P. 805 - 8 Nguyễn Văn Tráng, Q.1, TP. HCM; P. A302 - Đường số 3, CVPM Quang Trung, Q.12, TP. HCM:địa điểm
+Địa chỉ của Trung tâm Thể thao:Địa chỉ của Trung tâm Thể thao	là	P. 201 - 7/1 Thành Thái, Phường 14, Q.10, TP. HCM:địa điểm
+Địa chỉ của Phòng Hợp tác quốc tế:Địa chỉ của Phòng Hợp tác quốc tế	là	P. 705B - 8 Nguyễn Văn Tráng, Q.1, TP. HCM:địa điểm
+Địa chỉ của Viện Sau Đại học & Lãnh đạo:Địa chỉ của Viện Sau Đại học & Lãnh đạo	là	P. 706 - 8 Nguyễn Văn Tráng, Q.1, TP. HCM:địa điểm
+giảng viên:chức vụ	thuộc lĩnh vực toán học tại đại học Hoa Sen là	TS.PHẠM NGỌC ÁNH:Tên
+giảng viên:chức vụ	thuộc lĩnh vực lý thuyết tối ưu tại đại học Hoa Sen là	THS.NGUYỄN LÊ DUY:Tên
+giảng viên:chức vụ	thuộc lĩnh vực toán ứng dụng trong Kinh tế là	THS. LÂM QUỐC DŨNG:Tên
+giảng viên:chức vụ	chuyên về lĩnh vực giảng dạy toán giải tích và xác xuất thống kê	ĐẶNG CÔNG TIÊN:Tên
+giảng viên:chức vụ	chuyên về lĩnh vực giảng dạy công nghệ phần mềm tại đh hoa sen là	THS. NGUYỄN THỊ THU DỰ:Tên
+giảng viên:chức vụ	chuyên về lĩnh vực công nghệ phần mềm tại đh hoa sen là	THS. NGUYỄN HỮU PHÁT:Tên
+giảng viên:chức vụ	chuyên về lĩnh vực giảng dạy môn software engineering là	THS. VÕ THỊ THU HÀ:Tên
+giảng viên:chức vụ	thuộc lĩnh vực mạng máy tính và truyền thông dữ liệu là	THS. NGUYỄN NGỌC NHƯ HẰNG:Tên
+giảng viên:chức vụ	chuyên về lĩnh vực phần mềm là	THS. NGUYỄN PHƯỢNG HOÀNG:Tên
+giảng viên:chức vụ	chuyên giảng dạy về ngành công nghệ thông tin là	THS. DƯƠNG TỐ HƯƠNG:Tên
+giảng viên:chức vụ	thuộc lĩnh vực khoa học máy tính là	THS. VŨ ĐÌNH KHÔI:Tên
+giảng viên:chức vụ	chuyên về các môn học về lĩnh vực hệ thống thông tin là	THS. BÙI NGỌC LÊ:Tên
+giảng viên:chức vụ	chuyên môn về Lý thuyết trò chơi, Kinh tế lượng, Kinh tế học là	THS. PHẠM VĂN MINH:Tên	
+giảng viên:chức vụ	chuyên về các môn học về lĩnh vực hệ thống thông tin là	THS. PHẠM THỊ KIM NGÔN:Tên
+giảng viên:chức vụ	thuộc lĩnh vực khoa học máy tính là	THS. ĐẶNG THANH LINH PHÚ:Tên
+giảng viên:chức vụ	thuộc lĩnh vực Hệ thống thông tin quản lý là	THS. NGUYỄN THỊ THANH TÂM:Tên
+giảng viên:chức vụ	Lĩnh vực: Hệ thống thông tin quản lý là	THS. PHẠM THỊ THANH TÂM:Tên
+giảng viên:chức vụ	chuyên giảng dạy về ngành công nghệ thông tin là	THS. TRẦN THỊ TRƯỜNG THI:Tên
+giảng viên:chức vụ	thuộc lĩnh vực khoa học máy tính là	THS. NGUYỄN BÁ TRUNG:Tên
+giảng viên:chức vụ	thuộc lĩnh vực công nghệ phần mềm là	THS. NGUYỄN NGỌC TÚ:Tên
+giảng viên:chức vụ	chuyên lĩnh vực công nghệ thông tin là	THS. PHAN HỒNG TRUNG:Tên
+Giảng viên:chức vụ	Lý thuyết về Nhân cách, Lý thuyết và kỹ thuật Tham vấn, Lịch sử Tâm lý học là	NGUYỄN HỒNG ÂN:Tên
+Giảng viên:chức vụ	Chương trình Triết học là	BÙI NGUYÊN HÃN:Tên
+Giảng viên:chức vụ	Chương trình Giáo dục khai phóng là	NGUYỄN THỊ TỊNH:Tên
+Giảng viên:chức vụ	Chương trình Giáo dục khai phóng là	DOÃN THỊ NGỌC:Tên
+Giảng viên:chức vụ	Chương trình Tâm lý học là	NGUYỄN MINH THÀNH:Tên
+Giảng viên:chức vụ	Chương trình Giáo dục khai phóng là	NGUYỄN HOÀNG TUẤN:Tên
+Giảng viên:chức vụ	Chương trình Triết học là	EDWARD HOCKINGS:Tên
+Giảng viên:chức vụ	(du học) là	ĐỖ THỊ THU THỦY:Tên
+Giảng viên:chức vụ	Chương trình Luật là	ĐÀO DUY TÂN:Tên
+Giảng viên:chức vụ	Chương trình Luật là	TRẦN NGỌC NHÃ TRÂN:Tên
+Phó Giám đốc:chức vụ	Chương trình Tâm lý học là	THS. VƯƠNG NGUYỄN TOÀN THIỆN:Tên
+Giảng viên:chức vụ	Chương trình Tâm lý học là	TS. NGUYỄN TRƯỜNG THANH HẢI:Tên
+Giám đốc:chức vụ	chương trình Lý luận chính trị là	DƯƠNG HOÀNG OANH:Tên
+Giảng viên:chức vụ	Lý luận chính trị là	NGUYỄN THỊ ĐIỆP:Tên
+Giảng viên:chức vụ	Lý luận chính trị là	PHẠM THỊ NGỌC ANH:Tên
+Giảng viên:chức vụ	Lý luận chính trị là	NGUYỄN MINH QUANG:Tên
+Giảng viên:chức vụ	Lý luận chính trị là	HUỲNH THỊ BÍCH VÂN:Tên
+Giảng viên:chức vụ	Chương trình Luật là	NGUYỄN TRƯỜNG NGỌC:Tên
+Giám đốc:chức vụ	Chương trình Tâm lý học, Chủ tịch Viện Nghiên cứu & Tư vấn Giải pháp Tâm lý là	RMIN BRUNO WILHELM KUHR:Tên
+Giảng viên:chức vụ	Chương trình Tâm lý học, Chuyên viên tại Viện Nghiên cứu và Tư vấn Giải pháp Tâm lý là	PHẠM THỊ KIM MAI:Tên
+Giảng viên:chức vụ	Chương trình Luật là	PHẠM NGỌC GIA BẢO:Tên
+Giảng viên:chức vụ	Lý luận chính trị là	HỒ THỊ TRINH:Tên
+Giám đốc:chức vụ	Chương trình Luật là	TRỊNH DUY THUYÊN:Tên
+Giảng viên:chức vụ	Chương trình Luật là	PHẠM DƯƠNG HOÀNG PHÚC:Tên
+Giảng viên:chức vụ	Giáo dục khai phóng là	HOÀNG VĂN CHI:Tên
+Giảng viên:chức vụ	Lý luận chính trị là	NGUYỄN DẠ THU:Tên
+Trưởng khoa:chức vụ	GĐCT Giáo dục khai phóng, Giám đốc Viện Nghiên cứu, Tư vấn Giải pháp Tâm lý là	NGUYỄN THỊ LOAN:Tên
+Phó Trưởng khoa Giám đốc:chức vụ	chương trình Luật Kinh tế là	NGUYỄN HOÀI NAM:Tên
+Giám đốc:chức vụ	Chương trình Triết học là	DƯƠNG NGỌC DŨNG:Tên
+Cố vấn:chức vụ	Chương trình Tâm lý học là	DR.BRUCE B.SVARE:Tên
+Thông tin:Thông tin	liên lạc gmail của thầy PHẠM NGỌC ÁNH là	anh.phamngoc@hoasen.edu.vn:địa chỉ gmail
+Thông tin:Thông tin	liên lạc gmail của thầy NGUYỄN LÊ DUY là	duy.nguyenle@hoasen.edu.vn:địa chỉ gmail
+Thông tin:Thông tin	liên lạc gmail của thầy LÂM QUỐC DŨNG là	dung.lamquoc@hoasen.edu.vn:địa chỉ gmail
+Thông tin:Thông tin	liên lạc gmail của thầy Đặng Công Tiên là	tien.dangcong@hoasen.edu.vn:địa chỉ gmail
+Thông tin:Thông tin	liên lạc gmail của cô NGUYỄN THỊ THU DỰ là	du.nguyenthithu@hoasen.edu.vn:địa chỉ gmail
+Thông tin:Thông tin	liên lạc gmail của thầy NGUYỄN HỮU PHÁT là	phat.nguyenhuu@hoasen.edu.vn:địa chỉ gmail
+Thông tin:Thông tin	liên lạc gmail của cô VÕ THỊ THU HÀ là	ha.vothithu@hoasen.edu.vn:địa chỉ gmail
+Thông tin:Thông tin	liên lạc gmail của cô NGUYỄN NGỌC NHƯ HẰNG là	hang.nguyenngocnhu@hoasen.edu.vn:địa chỉ gmail
+Thông tin:Thông tin	liên lạc gmail của thầy NGUYỄN PHƯỢNG HOÀNG là	Hoang.NguyenPhuong@hoasen.edu.vn:địa chỉ gmail
+Thông tin:Thông tin	liên lạc gmail của thầy PHAN ĐÌNH THẾ HUÂN là	huan.phandinhthe@hoasen.edu.vn:địa chỉ gmail
+Thông tin:Thông tin	liên lạc gmail của cô DƯƠNG TỐ HƯƠNG là	huong.duongto@hoasen.edu.vn:địa chỉ gmail
+Thông tin:Thông tin	liên lạc gmail của thầy VŨ ĐÌNH KHÔI là	khoi.vudinh@hoasen.edu.vn:địa chỉ gmail
+Thông tin:Thông tin	liên lạc gmail của thầy BÙI NGỌC LÊ là	le.buingoc@hoasen.edu.vn:địa chỉ gmail
+Thông tin:Thông tin	liên lạc gmail của thầy  PHẠM VĂN MINH là	minh.phamvan@hoasen.edu.vn:địa chỉ gmail
+Thông tin:Thông tin	liên lạc gmail của cô PHẠM THỊ KIM NGÔN là	ngon.phamthikim@hoasen.edu.vn:địa chỉ gmail
+Thông tin:Thông tin	liên lạc gmail của cô ĐẶNG THANH LINH PHÚ là	phu.dangthanhlinh@hoasen.edu.vn:địa chỉ gmail
+Thông tin:Thông tin	liên lạc gmail của cô NGUYỄN THỊ THANH TÂM là	tam.nguyenthithanh@hoasen.edu.vn:địa chỉ gmail
+Thông tin:Thông tin	liên lạc gmail của cô PHẠM THỊ THANH TÂM là	tam.phamthithanh@hoasen.edu.vn:địa chỉ gmail
+Thông tin:Thông tin	liên lạc gmail của cô TRẦN THỊ TRƯỜNG THI là	thi.tranthitruong@hoasen.edu.vn:địa chỉ gmail
+Thông tin:Thông tin	liên lạc gmail của thầy NGUYỄN BÁ TRUNG là	trung.nguyenba@hoasen.edu.vn:địa chỉ gmail
+Thông tin:Thông tin	liên lạc gmail của thầy NGUYỄN NGỌC TÚ là	tu.nguyenngoc@hoasen.edu.vn:địa chỉ gmail
+Thông tin:Thông tin	liên lạc gmail của thầy PHAN HỒNG TRUNG là	trung.phanhong@hoasen.edu.vn:địa chỉ gmail
+Ngành Quản trị kinh doanh:Ngành	thuộc	Khoa Kinh tế – Quản trị:Khoa
+Ngành Marketing:Ngành	thuộc	Khoa Kinh tế – Quản trị:Khoa
+Ngành Digital Marketing:Ngành	thuộc	Khoa Kinh tế – Quản trị:Khoa
+Ngành Quản trị nhân lực:Ngành	thuộc	Khoa Kinh tế – Quản trị:Khoa
+Ngành Kinh tế thể thao:Ngành	thuộc	Khoa Kinh tế – Quản trị:Khoa
+Ngành Kinh doanh quốc tế:Ngành	thuộc	Khoa Logistics – Thương mại quốc tế:Khoa
+Ngành Logistics và Quản lý chuỗi cung ứng:Ngành	thuộc	Khoa Logistics – Thương mại quốc tế:Khoa
+Ngành Thương mại điện tử:Ngành	thuộc	Khoa Logistics – Thương mại quốc tế:Khoa
+Ngành Tài chính – Ngân hàng:Ngành	thuộc	Khoa Tài chính – Ngân hàng:Khoa
+Ngành Kế toán:Ngành	thuộc	Khoa Tài chính – Ngân hàng:Khoa
+Ngành Công nghệ tài chính – Fintech:Ngành	thuộc	Khoa Tài chính – Ngân hàng:Khoa
+Ngành Quản trị khách sạn:Ngành	thuộc	Khoa Du lịch – Nhà hàng – Khách sạn:Khoa
+Ngành Quản trị sự kiện:Ngành	thuộc	Khoa Du lịch – Nhà hàng – Khách sạn:Khoa
+Ngành Quản trị dịch vụ du lịch lữ hành:Ngành	thuộc	Khoa Du lịch – Nhà hàng – Khách sạn:Khoa
+Ngành Quản trị nhà hàng và dịch vụ ăn uống:Ngành	thuộc	Khoa Du lịch – Nhà hàng – Khách sạn:Khoa
+Ngành Quản trị công nghệ truyền thông:Ngành	thuộc	Khoa Thiết kế – Nghệ Thuật:Khoa
+Ngành Quan hệ công chúng:Ngành	thuộc	Khoa Thiết kế – Nghệ Thuật:Khoa
+Ngành Thiết kế đồ họa:Ngành	thuộc	Khoa Thiết kế – Nghệ Thuật:Khoa
+Ngành Thiết kế nội thất:Ngành	thuộc	Khoa Thiết kế – Nghệ Thuật:Khoa
+Ngành Thiết kế thời trang:Ngành	thuộc	Khoa Thiết kế – Nghệ Thuật:Khoa
+Ngành Nghệ thuật số:Ngành	thuộc	Khoa Thiết kế – Nghệ Thuật:Khoa
+Ngành Công nghệ thông tin:Ngành	thuộc	Khoa Công nghệ thông tin:Khoa
+Ngành Kỹ thuật phần mềm:Ngành	thuộc	Khoa Công nghệ thông tin:Khoa
+Ngành Trí tuệ nhân tạo:Ngành	thuộc	Khoa Công nghệ thông tin:Khoa
+Ngành Tâm lý học:Ngành	thuộc	Khoa Khoa học xã hội – Luật:Khoa
+Ngành Luật kinh tế:Ngành	thuộc	Khoa Khoa học xã hội – Luật:Khoa
+Ngành Ngôn ngữ Anh:Ngành	thuộc	Khoa Ngôn ngữ – Văn hóa quốc tế:Khoa
+Khoa Kinh tế – Quản trị:Khoa	có	Ngành Quản trị kinh doanh:Ngành
+Khoa Kinh tế – Quản trị:Khoa	có	Ngành Marketing:Ngành
+Khoa Kinh tế – Quản trị:Khoa	có	Ngành Digital Marketing:Ngành
+Khoa Kinh tế – Quản trị:Khoa	có	Ngành Quản trị nhân lực:Ngành
+Khoa Kinh tế – Quản trị:Khoa	có	Ngành Kinh tế thể thao:Ngành
+Khoa Logistics – Thương mại quốc tế:Khoa	có	Ngành Kinh doanh quốc tế:Ngành
+Khoa Logistics – Thương mại quốc tế:Khoa	có	Ngành Logistics và Quản lý chuỗi cung ứng:Ngành
+Khoa Logistics – Thương mại quốc tế:Khoa	có	Ngành Thương mại điện tử:Ngành
+Khoa Tài chính – Ngân hàng:Khoa	có	Ngành Tài chính – Ngân hàng:Ngành
+Khoa Tài chính – Ngân hàng:Khoa	có	Ngành Kế toán:Ngành
+Khoa Tài chính – Ngân hàng:Khoa	có	Ngành Công nghệ tài chính – Fintech:Ngành
+Khoa Du lịch – Nhà hàng – Khách sạn:Khoa	có	Ngành Quản trị khách sạn:Ngành
+Khoa Du lịch – Nhà hàng – Khách sạn:Khoa	có	Ngành Quản trị sự kiện:Ngành
+Khoa Du lịch – Nhà hàng – Khách sạn:Khoa	có	Ngành Quản trị dịch vụ du lịch lữ hành:Ngành
+Khoa Du lịch – Nhà hàng – Khách sạn:Khoa	có	Ngành Quản trị nhà hàng và dịch vụ ăn uống:Ngành
+Khoa Thiết kế – Nghệ Thuật:Khoa	có	Ngành Quản trị công nghệ truyền thông:Ngành
+Khoa Thiết kế – Nghệ Thuật:Khoa	có	Ngành Quan hệ công chúng:Ngành
+Khoa Thiết kế – Nghệ Thuật:Khoa	có	Ngành Thiết kế đồ họa:Ngành
+Khoa Thiết kế – Nghệ Thuật:Khoa	có	Ngành Thiết kế nội thất:Ngành
+Khoa Thiết kế – Nghệ Thuật:Khoa	có	Ngành Thiết kế thời trang:Ngành
+Khoa Thiết kế – Nghệ Thuật:Khoa	có	Ngành Nghệ thuật số:Ngành
+Khoa Công nghệ thông tin:Khoa	có	Ngành Công nghệ thông tin:Ngành
+Khoa Công nghệ thông tin:Khoa	có	Ngành Kỹ thuật phần mềm:Ngành
+Khoa Công nghệ thông tin:Khoa	có	Ngành Trí tuệ nhân tạo:Ngành
+Khoa Khoa học xã hội – Luật:Khoa	có	Ngành Tâm lý học:Ngành
+Khoa Khoa học xã hội – Luật:Khoa	có	Ngành Luật kinh tế:Ngành
+Khoa Ngôn ngữ – Văn hóa quốc tế:Khoa	có	Ngành Ngôn ngữ Anh:Ngành

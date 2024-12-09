@@ -1,0 +1,84 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:background="@drawable/background"
+    android:elevation="4dp"
+    android:layout_margin="16dp"
+    android:clipToOutline="true"
+    android:backgroundTint="#F5F5F5"
+    >
+
+    <!-- Title for the filter -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Filter by Price"
+        android:textSize="18sp"
+        android:textColor="#333333"
+        android:fontFamily="sans-serif-medium"
+        android:layout_gravity="center_horizontal"
+        android:paddingBottom="12dp"/>
+
+    <!-- Min and Max Price fields with rounded background -->
+    <EditText
+        android:id="@+id/minPrice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Min Price"
+        android:inputType="numberDecimal"
+        android:background="@drawable/rounded_edittext"
+        android:padding="12dp"
+        android:layout_marginBottom="8dp"
+        android:fontFamily="sans-serif"
+        android:textColor="#333333"
+        android:textSize="16sp"/>
+
+    <EditText
+        android:id="@+id/maxPrice"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Max Price"
+        android:inputType="numberDecimal"
+        android:background="@drawable/rounded_edittext"
+        android:padding="12dp"
+        android:fontFamily="sans-serif"
+        android:textColor="#333333"
+        android:textSize="16sp"/>
+
+    <!-- Button layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:gravity="end"
+        android:paddingTop="16dp">
+
+        <!-- Apply Filter Button -->
+        <Button
+            android:id="@+id/applyFilterButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Apply"
+            android:textColor="@android:color/white"
+            android:backgroundTint="#4CAF50"
+            android:padding="12dp"
+            android:textSize="16sp"/>
+
+        <!-- Cancel Button -->
+        <Button
+            android:id="@+id/cancelFilterButton"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="Cancel"
+            android:textColor="@android:color/white"
+            android:backgroundTint="#E04040"
+            android:layout_marginStart="8dp"
+            android:padding="12dp"
+            android:textSize="16sp"/>
+    </LinearLayout>
+
+</LinearLayout>

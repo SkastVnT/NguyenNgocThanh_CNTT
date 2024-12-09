@@ -1,0 +1,38 @@
+    <html>
+    <head>
+        <script src='https://unpkg.com/axios/dist/axios.min.js'></script>
+        <script>
+             function btnSubmit_Click(){
+                const URL = 'https://SkastVnT.pythonanywhere.com/linear-regression/height-weight';
+                const input = { 
+                'height':[document.getElementById('txtHeight').value]   
+                };
+                axios.post(URL, input).then((response) =>{
+                const result = response.data;
+                if(result){
+                document.getElementById('txtWeight').value = result;
+                } else {
+                    alert('SORRY BABY!');
+            }
+        });
+    }
+        </script>
+    </head>
+    <body>
+        <h2> Linear-regression / Height-weight</h2>
+        <table>
+            <tr>
+                <td> Enter your height</td>
+                <td><input type='text' id='txtHeight' /></td>
+            </tr>
+            <tr>
+                <td>Predict your weight</td>
+                <td><input type='text' id='txtWeight' readonly='true' /></td>
+            </tr>
+            <tr>
+                <td></td>
+                <td><input type='button' value='SUBMIT' onclick='btnSubmit_Click()' /></td>
+            </tr>
+        </table>
+    </body>
+</html>

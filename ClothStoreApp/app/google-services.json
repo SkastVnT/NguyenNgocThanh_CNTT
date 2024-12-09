@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "561697461883",
+    "project_id": "appclothess",
+    "storage_bucket": "appclothess.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561697461883:android:8a31c16c1aeba51000f4de",
+        "android_client_info": {
+          "package_name": "com.example.clothstoreapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYLa5mq2koxWNaTP_t9V8XbbensoEaZtg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

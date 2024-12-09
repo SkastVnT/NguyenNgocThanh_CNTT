@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="CircleImageView" parent="">
+        <item name="cornerFamily">rounded</item>
+        <item name="cornerSize">50%</item> <!-- Bo tròn bằng 50% chiều rộng/chiều cao để tạo hình tròn -->
+    </style>
+</resources>

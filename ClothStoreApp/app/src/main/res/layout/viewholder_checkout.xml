@@ -1,0 +1,46 @@
+<!-- viewholder_checkout.xml -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="120dp"
+    android:layout_height="wrap_content"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:padding="8dp">
+
+    <ImageView
+        android:id="@+id/checkoutPic"
+        android:layout_width="80dp"
+        android:layout_height="80dp"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/cloth"/>
+
+    <TextView
+        android:id="@+id/checkoutTitleTxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:maxLines="2"
+        android:ellipsize="end"
+        android:gravity="center_horizontal"
+        android:textAlignment="center"
+        android:textSize="14sp"
+
+        android:layout_marginTop="8dp"
+        android:text="Product Name"
+
+        />
+
+
+    <TextView
+        android:id="@+id/checkoutFeeEachItem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Price" />
+
+    <!-- Thêm TextView cho số lượng -->
+    <TextView
+        android:id="@+id/checkoutQuantityTxt"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Quantity"
+        android:textSize="12sp"
+        android:paddingTop="4dp" />
+</LinearLayout>
